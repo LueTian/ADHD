@@ -1,0 +1,2517 @@
+Disease,ID,Count,Description,ONTOLOGY
+Arrhythmias,GO:0008227,5,G protein-coupled amine receptor activity,MF
+Arrhythmias,GO:0015844,5,monoamine transport,BP
+Arrhythmias,GO:0015874,5,norepinephrine transport,BP
+Arrhythmias,GO:0051937,5,catecholamine transport,BP
+Arrhythmias,GO:0098810,5,neurotransmitter reuptake,BP
+Arrhythmias,GO:0015081,4,sodium ion transmembrane transporter activity,MF
+Arrhythmias,GO:0019229,4,regulation of vasoconstriction,BP
+Arrhythmias,GO:0019369,4,arachidonic acid metabolic process,BP
+Arrhythmias,GO:0020037,4,heme binding,MF
+Arrhythmias,GO:0035725,4,sodium ion transmembrane transport,BP
+Arrhythmias,GO:0042734,4,presynaptic membrane,CC
+Arrhythmias,GO:0046906,4,tetrapyrrole binding,MF
+Arrhythmias,GO:0071466,4,cellular response to xenobiotic stimulus,BP
+Arrhythmias,GO:0071875,4,adrenergic receptor signaling pathway,BP
+Arrhythmias,GO:0071880,4,adenylate cyclase-activating adrenergic receptor signaling pathway,BP
+Arrhythmias,GO:1901338,4,catecholamine binding,MF
+Arrhythmias,GO:0001975,3,response to amphetamine,BP
+Arrhythmias,GO:0003044,3,regulation of systemic arterial blood pressure mediated by a chemical signal,BP
+Arrhythmias,GO:0006584,3,catecholamine metabolic process,BP
+Arrhythmias,GO:0009712,3,catechol-containing compound metabolic process,BP
+Arrhythmias,GO:0014061,3,regulation of norepinephrine secretion,BP
+Arrhythmias,GO:0015837,3,amine transport,BP
+Arrhythmias,GO:0019098,3,reproductive behavior,BP
+Arrhythmias,GO:0021984,3,adenohypophysis development,BP
+Arrhythmias,GO:0031690,3,adrenergic receptor binding,MF
+Arrhythmias,GO:0033604,3,negative regulation of catecholamine secretion,BP
+Arrhythmias,GO:0035094,3,response to nicotine,BP
+Arrhythmias,GO:0035150,3,regulation of tube size,BP
+Arrhythmias,GO:0035296,3,regulation of tube diameter,BP
+Arrhythmias,GO:0042310,3,vasoconstriction,BP
+Arrhythmias,GO:0044298,3,cell body membrane,CC
+Arrhythmias,GO:0045664,3,regulation of neuron differentiation,BP
+Arrhythmias,GO:0045777,3,positive regulation of blood pressure,BP
+Arrhythmias,GO:0048148,3,behavioral response to cocaine,BP
+Arrhythmias,GO:0048241,3,epinephrine transport,BP
+Arrhythmias,GO:0048243,3,norepinephrine secretion,BP
+Arrhythmias,GO:0050432,3,catecholamine secretion,BP
+Arrhythmias,GO:0051048,3,negative regulation of secretion,BP
+Arrhythmias,GO:0051952,3,regulation of amine transport,BP
+Arrhythmias,GO:0051953,3,negative regulation of amine transport,BP
+Arrhythmias,GO:0061098,3,positive regulation of protein tyrosine kinase activity,BP
+Arrhythmias,GO:0097746,3,blood vessel diameter maintenance,BP
+Arrhythmias,GO:1901020,3,negative regulation of calcium ion transmembrane transporter activity,BP
+Arrhythmias,GO:1903531,3,negative regulation of secretion by cell,BP
+Arrhythmias,GO:0005901,2,caveola,CC
+Arrhythmias,GO:0006690,2,icosanoid metabolic process,BP
+Arrhythmias,GO:0006937,2,regulation of muscle contraction,BP
+Arrhythmias,GO:0006939,2,smooth muscle contraction,BP
+Arrhythmias,GO:0006940,2,regulation of smooth muscle contraction,BP
+Arrhythmias,GO:0007189,2,adenylate cyclase-activating G protein-coupled receptor signaling pathway,BP
+Arrhythmias,GO:0007193,2,adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway,BP
+Arrhythmias,GO:0007565,2,female pregnancy,BP
+Arrhythmias,GO:0007617,2,mating behavior,BP
+Arrhythmias,GO:0008217,2,regulation of blood pressure,BP
+Arrhythmias,GO:0010460,2,positive regulation of heart rate,BP
+Arrhythmias,GO:0014074,2,response to purine-containing compound,BP
+Arrhythmias,GO:0015718,2,monocarboxylic acid transport,BP
+Arrhythmias,GO:0030168,2,platelet activation,BP
+Arrhythmias,GO:0030594,2,neurotransmitter receptor activity,MF
+Arrhythmias,GO:0031420,2,alkali metal ion binding,MF
+Arrhythmias,GO:0032098,2,regulation of appetite,BP
+Arrhythmias,GO:0032147,2,activation of protein kinase activity,BP
+Arrhythmias,GO:0032148,2,activation of protein kinase B activity,BP
+Arrhythmias,GO:0033555,2,multicellular organismal response to stress,BP
+Arrhythmias,GO:0033559,2,unsaturated fatty acid metabolic process,BP
+Arrhythmias,GO:0040014,2,regulation of multicellular organism growth,BP
+Arrhythmias,GO:0042311,2,vasodilation,BP
+Arrhythmias,GO:0043279,2,response to alkaloid,BP
+Arrhythmias,GO:0044853,2,plasma membrane raft,CC
+Arrhythmias,GO:0045471,2,response to ethanol,BP
+Arrhythmias,GO:0045823,2,positive regulation of heart contraction,BP
+Arrhythmias,GO:0046621,2,negative regulation of organ growth,BP
+Arrhythmias,GO:0046683,2,response to organophosphorus,BP
+Arrhythmias,GO:0048265,2,response to pain,BP
+Arrhythmias,GO:0048484,2,enteric nervous system development,BP
+Arrhythmias,GO:0050433,2,regulation of catecholamine secretion,BP
+Arrhythmias,GO:0050905,2,neuromuscular process,BP
+Arrhythmias,GO:0050951,2,sensory perception of temperature stimulus,BP
+Arrhythmias,GO:0051385,2,response to mineralocorticoid,BP
+Arrhythmias,GO:0051412,2,response to corticosterone,BP
+Arrhythmias,GO:0051580,2,regulation of neurotransmitter uptake,BP
+Arrhythmias,GO:0071867,2,response to monoamine,BP
+Arrhythmias,GO:0071868,2,cellular response to monoamine stimulus,BP
+Arrhythmias,GO:0071869,2,response to catecholamine,BP
+Arrhythmias,GO:0071870,2,cellular response to catecholamine stimulus,BP
+Arrhythmias,GO:0099171,2,presynaptic modulation of chemical synaptic transmission,BP
+Arrhythmias,GO:1903170,2,negative regulation of calcium ion transmembrane transport,BP
+Arrhythmias,GO:1903350,2,response to dopamine,BP
+Arrhythmias,GO:1903351,2,cellular response to dopamine,BP
+Arrhythmias,GO:1903409,2,reactive oxygen species biosynthetic process,BP
+Arrhythmias,GO:1903524,2,positive regulation of blood circulation,BP
+Arrhythmias,GO:2000273,2,positive regulation of signaling receptor activity,BP
+Arrhythmias,GO:0001508,1,action potential,BP
+Arrhythmias,GO:0001556,1,oocyte maturation,BP
+Arrhythmias,GO:0001659,1,temperature homeostasis,BP
+Arrhythmias,GO:0001678,1,intracellular glucose homeostasis,BP
+Arrhythmias,GO:0001774,1,microglial cell activation,BP
+Arrhythmias,GO:0001976,1,nervous system process involved in regulation of systemic arterial blood pressure,BP
+Arrhythmias,GO:0001990,1,regulation of systemic arterial blood pressure by hormone,BP
+Arrhythmias,GO:0001991,1,regulation of systemic arterial blood pressure by circulatory renin-angiotensin,BP
+Arrhythmias,GO:0002002,1,regulation of angiotensin levels in blood,BP
+Arrhythmias,GO:0002026,1,regulation of the force of heart contraction,BP
+Arrhythmias,GO:0002027,1,regulation of heart rate,BP
+Arrhythmias,GO:0002269,1,leukocyte activation involved in inflammatory response,BP
+Arrhythmias,GO:0002675,1,positive regulation of acute inflammatory response,BP
+Arrhythmias,GO:0002791,1,regulation of peptide secretion,BP
+Arrhythmias,GO:0003071,1,renal system process involved in regulation of systemic arterial blood pressure,BP
+Arrhythmias,GO:0003073,1,regulation of systemic arterial blood pressure,BP
+Arrhythmias,GO:0003081,1,regulation of systemic arterial blood pressure by renin-angiotensin,BP
+Arrhythmias,GO:0003085,1,negative regulation of systemic arterial blood pressure,BP
+Arrhythmias,GO:0003298,1,physiological muscle hypertrophy,BP
+Arrhythmias,GO:0003301,1,physiological cardiac muscle hypertrophy,BP
+Arrhythmias,GO:0004993,1,G protein-coupled serotonin receptor activity,MF
+Arrhythmias,GO:0005242,1,inward rectifier potassium channel activity,MF
+Arrhythmias,GO:0006509,1,membrane protein ectodomain proteolysis,BP
+Arrhythmias,GO:0006633,1,fatty acid biosynthetic process,BP
+Arrhythmias,GO:0006775,1,fat-soluble vitamin metabolic process,BP
+Arrhythmias,GO:0006835,1,dicarboxylic acid transport,BP
+Arrhythmias,GO:0006941,1,striated muscle contraction,BP
+Arrhythmias,GO:0007187,1,"G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",BP
+Arrhythmias,GO:0007200,1,phospholipase C-activating G protein-coupled receptor signaling pathway,BP
+Arrhythmias,GO:0007204,1,positive regulation of cytosolic calcium ion concentration,BP
+Arrhythmias,GO:0007210,1,serotonin receptor signaling pathway,BP
+Arrhythmias,GO:0007566,1,embryo implantation,BP
+Arrhythmias,GO:0007612,1,learning,BP
+Arrhythmias,GO:0007613,1,memory,BP
+Arrhythmias,GO:0007622,1,rhythmic behavior,BP
+Arrhythmias,GO:0007631,1,feeding behavior,BP
+Arrhythmias,GO:0007632,1,visual behavior,BP
+Arrhythmias,GO:0008203,1,cholesterol metabolic process,BP
+Arrhythmias,GO:0008306,1,associative learning,BP
+Arrhythmias,GO:0008542,1,visual learning,BP
+Arrhythmias,GO:0009411,1,response to UV,BP
+Arrhythmias,GO:0009994,1,oocyte differentiation,BP
+Arrhythmias,GO:0010232,1,vascular transport,BP
+Arrhythmias,GO:0010248,1,establishment or maintenance of transmembrane electrochemical gradient,BP
+Arrhythmias,GO:0010469,1,regulation of signaling receptor activity,BP
+Arrhythmias,GO:0010517,1,regulation of phospholipase activity,BP
+Arrhythmias,GO:0010518,1,positive regulation of phospholipase activity,BP
+Arrhythmias,GO:0010611,1,regulation of cardiac muscle hypertrophy,BP
+Arrhythmias,GO:0010765,1,positive regulation of sodium ion transport,BP
+Arrhythmias,GO:0010863,1,positive regulation of phospholipase C activity,BP
+Arrhythmias,GO:0010875,1,positive regulation of cholesterol efflux,BP
+Arrhythmias,GO:0010888,1,negative regulation of lipid storage,BP
+Arrhythmias,GO:0014047,1,glutamate secretion,BP
+Arrhythmias,GO:0014743,1,regulation of muscle hypertrophy,BP
+Arrhythmias,GO:0014829,1,vascular associated smooth muscle contraction,BP
+Arrhythmias,GO:0014854,1,response to inactivity,BP
+Arrhythmias,GO:0015276,1,ligand-gated monoatomic ion channel activity,MF
+Arrhythmias,GO:0015459,1,potassium channel regulator activity,MF
+Arrhythmias,GO:0015732,1,prostaglandin transport,BP
+Arrhythmias,GO:0015800,1,acidic amino acid transport,BP
+Arrhythmias,GO:0015908,1,fatty acid transport,BP
+Arrhythmias,GO:0016125,1,sterol metabolic process,BP
+Arrhythmias,GO:0016486,1,peptide hormone processing,BP
+Arrhythmias,GO:0019226,1,transmission of nerve impulse,BP
+Arrhythmias,GO:0022410,1,circadian sleep/wake cycle process,BP
+Arrhythmias,GO:0022834,1,ligand-gated channel activity,MF
+Arrhythmias,GO:0030073,1,insulin secretion,BP
+Arrhythmias,GO:0030307,1,positive regulation of cell growth,BP
+Arrhythmias,GO:0030308,1,negative regulation of cell growth,BP
+Arrhythmias,GO:0030431,1,sleep,BP
+Arrhythmias,GO:0031279,1,regulation of cyclase activity,BP
+Arrhythmias,GO:0031281,1,positive regulation of cyclase activity,BP
+Arrhythmias,GO:0031644,1,regulation of nervous system process,BP
+Arrhythmias,GO:0031960,1,response to corticosteroid,BP
+Arrhythmias,GO:0032228,1,"regulation of synaptic transmission, GABAergic",BP
+Arrhythmias,GO:0032368,1,regulation of lipid transport,BP
+Arrhythmias,GO:0032373,1,positive regulation of sterol transport,BP
+Arrhythmias,GO:0032376,1,positive regulation of cholesterol transport,BP
+Arrhythmias,GO:0032410,1,negative regulation of transporter activity,BP
+Arrhythmias,GO:0032413,1,negative regulation of ion transmembrane transporter activity,BP
+Arrhythmias,GO:0032722,1,positive regulation of chemokine production,BP
+Arrhythmias,GO:0032890,1,regulation of organic acid transport,BP
+Arrhythmias,GO:0032922,1,circadian regulation of gene expression,BP
+Arrhythmias,GO:0034614,1,cellular response to reactive oxygen species,BP
+Arrhythmias,GO:0034763,1,negative regulation of transmembrane transport,BP
+Arrhythmias,GO:0034766,1,negative regulation of monoatomic ion transmembrane transport,BP
+Arrhythmias,GO:0035051,1,cardiocyte differentiation,BP
+Arrhythmias,GO:0035249,1,"synaptic transmission, glutamatergic",BP
+Arrhythmias,GO:0035265,1,organ growth,BP
+Arrhythmias,GO:0035270,1,endocrine system development,BP
+Arrhythmias,GO:0035809,1,regulation of urine volume,BP
+Arrhythmias,GO:0035810,1,positive regulation of urine volume,BP
+Arrhythmias,GO:0035994,1,response to muscle stretch,BP
+Arrhythmias,GO:0036294,1,cellular response to decreased oxygen levels,BP
+Arrhythmias,GO:0042362,1,fat-soluble vitamin biosynthetic process,BP
+Arrhythmias,GO:0042368,1,vitamin D biosynthetic process,BP
+Arrhythmias,GO:0042711,1,maternal behavior,BP
+Arrhythmias,GO:0042745,1,circadian sleep/wake cycle,BP
+Arrhythmias,GO:0042749,1,regulation of circadian sleep/wake cycle,BP
+Arrhythmias,GO:0042756,1,drinking behavior,BP
+Arrhythmias,GO:0043197,1,dendritic spine,CC
+Arrhythmias,GO:0043266,1,regulation of potassium ion transport,BP
+Arrhythmias,GO:0043267,1,negative regulation of potassium ion transport,BP
+Arrhythmias,GO:0043268,1,positive regulation of potassium ion transport,BP
+Arrhythmias,GO:0043271,1,negative regulation of monoatomic ion transport,BP
+Arrhythmias,GO:0044309,1,neuron spine,CC
+Arrhythmias,GO:0045187,1,"regulation of circadian sleep/wake cycle, sleep",BP
+Arrhythmias,GO:0045761,1,regulation of adenylate cyclase activity,BP
+Arrhythmias,GO:0045776,1,negative regulation of blood pressure,BP
+Arrhythmias,GO:0045932,1,negative regulation of muscle contraction,BP
+Arrhythmias,GO:0045933,1,positive regulation of muscle contraction,BP
+Arrhythmias,GO:0045940,1,positive regulation of steroid metabolic process,BP
+Arrhythmias,GO:0045986,1,negative regulation of smooth muscle contraction,BP
+Arrhythmias,GO:0045987,1,positive regulation of smooth muscle contraction,BP
+Arrhythmias,GO:0046620,1,regulation of organ growth,BP
+Arrhythmias,GO:0046888,1,negative regulation of hormone secretion,BP
+Arrhythmias,GO:0048512,1,circadian behavior,BP
+Arrhythmias,GO:0048599,1,oocyte development,BP
+Arrhythmias,GO:0048639,1,positive regulation of developmental growth,BP
+Arrhythmias,GO:0048640,1,negative regulation of developmental growth,BP
+Arrhythmias,GO:0048645,1,animal organ formation,BP
+Arrhythmias,GO:0050482,1,arachidonic acid secretion,BP
+Arrhythmias,GO:0050709,1,negative regulation of protein secretion,BP
+Arrhythmias,GO:0050795,1,regulation of behavior,BP
+Arrhythmias,GO:0050796,1,regulation of insulin secretion,BP
+Arrhythmias,GO:0050802,1,"circadian sleep/wake cycle, sleep",BP
+Arrhythmias,GO:0050805,1,negative regulation of synaptic transmission,BP
+Arrhythmias,GO:0050806,1,positive regulation of synaptic transmission,BP
+Arrhythmias,GO:0050886,1,endocrine process,BP
+Arrhythmias,GO:0050892,1,intestinal absorption,BP
+Arrhythmias,GO:0050995,1,negative regulation of lipid catabolic process,BP
+Arrhythmias,GO:0051043,1,regulation of membrane protein ectodomain proteolysis,BP
+Arrhythmias,GO:0051044,1,positive regulation of membrane protein ectodomain proteolysis,BP
+Arrhythmias,GO:0051100,1,negative regulation of binding,BP
+Arrhythmias,GO:0051208,1,sequestering of calcium ion,BP
+Arrhythmias,GO:0051209,1,release of sequestered calcium ion into cytosol,BP
+Arrhythmias,GO:0051282,1,regulation of sequestering of calcium ion,BP
+Arrhythmias,GO:0051283,1,negative regulation of sequestering of calcium ion,BP
+Arrhythmias,GO:0051339,1,regulation of lyase activity,BP
+Arrhythmias,GO:0051384,1,response to glucocorticoid,BP
+Arrhythmias,GO:0051450,1,myoblast proliferation,BP
+Arrhythmias,GO:0051480,1,regulation of cytosolic calcium ion concentration,BP
+Arrhythmias,GO:0051591,1,response to cAMP,BP
+Arrhythmias,GO:0051592,1,response to calcium ion,BP
+Arrhythmias,GO:0051602,1,response to electrical stimulus,BP
+Arrhythmias,GO:0051657,1,maintenance of organelle location,BP
+Arrhythmias,GO:0051926,1,negative regulation of calcium ion transport,BP
+Arrhythmias,GO:0051955,1,regulation of amino acid transport,BP
+Arrhythmias,GO:0051966,1,"regulation of synaptic transmission, glutamatergic",BP
+Arrhythmias,GO:0055017,1,cardiac muscle tissue growth,BP
+Arrhythmias,GO:0055021,1,regulation of cardiac muscle tissue growth,BP
+Arrhythmias,GO:0060048,1,cardiac muscle contraction,BP
+Arrhythmias,GO:0060159,1,regulation of dopamine receptor signaling pathway,BP
+Arrhythmias,GO:0060191,1,regulation of lipase activity,BP
+Arrhythmias,GO:0060193,1,positive regulation of lipase activity,BP
+Arrhythmias,GO:0060291,1,long-term synaptic potentiation,BP
+Arrhythmias,GO:0060402,1,calcium ion transport into cytosol,BP
+Arrhythmias,GO:0060419,1,heart growth,BP
+Arrhythmias,GO:0060420,1,regulation of heart growth,BP
+Arrhythmias,GO:0060538,1,skeletal muscle organ development,BP
+Arrhythmias,GO:0060746,1,parental behavior,BP
+Arrhythmias,GO:0060986,1,endocrine hormone secretion,BP
+Arrhythmias,GO:0061049,1,cell growth involved in cardiac muscle cell development,BP
+Arrhythmias,GO:0061097,1,regulation of protein tyrosine kinase activity,BP
+Arrhythmias,GO:0061614,1,miRNA transcription,BP
+Arrhythmias,GO:0061900,1,glial cell activation,BP
+Arrhythmias,GO:0071260,1,cellular response to mechanical stimulus,BP
+Arrhythmias,GO:0071453,1,cellular response to oxygen levels,BP
+Arrhythmias,GO:0071715,1,icosanoid transport,BP
+Arrhythmias,GO:0071902,1,positive regulation of protein serine/threonine kinase activity,BP
+Arrhythmias,GO:0086008,1,voltage-gated potassium channel activity involved in cardiac muscle cell action potential repolarization,MF
+Arrhythmias,GO:0086013,1,membrane repolarization during cardiac muscle cell action potential,BP
+Arrhythmias,GO:0086014,1,atrial cardiac muscle cell action potential,BP
+Arrhythmias,GO:0086026,1,atrial cardiac muscle cell to AV node cell signaling,BP
+Arrhythmias,GO:0086066,1,atrial cardiac muscle cell to AV node cell communication,BP
+Arrhythmias,GO:0090276,1,regulation of peptide hormone secretion,BP
+Arrhythmias,GO:0097062,1,dendritic spine maintenance,BP
+Arrhythmias,GO:0098664,1,G protein-coupled serotonin receptor signaling pathway,BP
+Arrhythmias,GO:0098915,1,membrane repolarization during ventricular cardiac muscle cell action potential,BP
+Arrhythmias,GO:0098992,1,neuronal dense core vesicle,CC
+Arrhythmias,GO:0099505,1,regulation of presynaptic membrane potential,BP
+Arrhythmias,GO:0099589,1,serotonin receptor activity,MF
+Arrhythmias,GO:0099624,1,atrial cardiac muscle cell membrane repolarization,BP
+Arrhythmias,GO:0099625,1,ventricular cardiac muscle cell membrane repolarization,BP
+Arrhythmias,GO:0099634,1,postsynaptic specialization membrane,CC
+Arrhythmias,GO:0120162,1,positive regulation of cold-induced thermogenesis,BP
+Arrhythmias,GO:0140115,1,export across plasma membrane,BP
+Arrhythmias,GO:0140353,1,lipid export from cell,BP
+Arrhythmias,GO:0140448,1,signaling receptor ligand precursor processing,BP
+Arrhythmias,GO:0150076,1,neuroinflammatory response,BP
+Arrhythmias,GO:0150104,1,transport across blood-brain barrier,BP
+Arrhythmias,GO:1900271,1,regulation of long-term synaptic potentiation,BP
+Arrhythmias,GO:1900273,1,positive regulation of long-term synaptic potentiation,BP
+Arrhythmias,GO:1900274,1,regulation of phospholipase C activity,BP
+Arrhythmias,GO:1901385,1,regulation of voltage-gated calcium channel activity,BP
+Arrhythmias,GO:1901386,1,negative regulation of voltage-gated calcium channel activity,BP
+Arrhythmias,GO:1902282,1,voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization,MF
+Arrhythmias,GO:1902307,1,positive regulation of sodium ion transmembrane transport,BP
+Arrhythmias,GO:1902600,1,proton transmembrane transport,BP
+Arrhythmias,GO:1902652,1,secondary alcohol metabolic process,BP
+Arrhythmias,GO:1902893,1,regulation of miRNA transcription,BP
+Arrhythmias,GO:1902895,1,positive regulation of miRNA transcription,BP
+Arrhythmias,GO:1902950,1,regulation of dendritic spine maintenance,BP
+Arrhythmias,GO:1903169,1,regulation of calcium ion transmembrane transport,BP
+Arrhythmias,GO:1903963,1,arachidonate transport,BP
+Arrhythmias,GO:1904063,1,negative regulation of cation transmembrane transport,BP
+Arrhythmias,GO:1904645,1,response to amyloid-beta,BP
+Arrhythmias,GO:1904646,1,cellular response to amyloid-beta,BP
+Arrhythmias,GO:1904707,1,positive regulation of vascular associated smooth muscle cell proliferation,BP
+Arrhythmias,GO:1905952,1,regulation of lipid localization,BP
+Arrhythmias,GO:1990845,1,adaptive thermogenesis,BP
+Arrhythmias,GO:2000377,1,regulation of reactive oxygen species metabolic process,BP
+Arrhythmias,GO:2000630,1,positive regulation of miRNA metabolic process,BP
+Arrhythmias,GO:2000651,1,positive regulation of sodium ion transmembrane transporter activity,BP
+Arrhythmias,GO:2001257,1,regulation of cation channel activity,BP
+Arterial disease,GO:0008227,5,G protein-coupled amine receptor activity,MF
+Arterial disease,GO:0015844,5,monoamine transport,BP
+Arterial disease,GO:0015872,5,dopamine transport,BP
+Arterial disease,GO:0042178,5,xenobiotic catabolic process,BP
+Arterial disease,GO:0051937,5,catecholamine transport,BP
+Arterial disease,GO:0098810,5,neurotransmitter reuptake,BP
+Arterial disease,GO:0001963,4,"synaptic transmission, dopaminergic",BP
+Arterial disease,GO:0005506,4,iron ion binding,MF
+Arterial disease,GO:0006805,4,xenobiotic metabolic process,BP
+Arterial disease,GO:0015081,4,sodium ion transmembrane transporter activity,MF
+Arterial disease,GO:0016709,4,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen",MF
+Arterial disease,GO:0019229,4,regulation of vasoconstriction,BP
+Arterial disease,GO:0019369,4,arachidonic acid metabolic process,BP
+Arterial disease,GO:0020037,4,heme binding,MF
+Arterial disease,GO:0035725,4,sodium ion transmembrane transport,BP
+Arterial disease,GO:0042759,4,long-chain fatty acid biosynthetic process,BP
+Arterial disease,GO:0046906,4,tetrapyrrole binding,MF
+Arterial disease,GO:0071466,4,cellular response to xenobiotic stimulus,BP
+Arterial disease,GO:0071875,4,adrenergic receptor signaling pathway,BP
+Arterial disease,GO:0071880,4,adenylate cyclase-activating adrenergic receptor signaling pathway,BP
+Arterial disease,GO:0120254,4,olefinic compound metabolic process,BP
+Arterial disease,GO:1901338,4,catecholamine binding,MF
+Arterial disease,GO:0001676,3,long-chain fatty acid metabolic process,BP
+Arterial disease,GO:0001975,3,response to amphetamine,BP
+Arterial disease,GO:0003044,3,regulation of systemic arterial blood pressure mediated by a chemical signal,BP
+Arterial disease,GO:0006584,3,catecholamine metabolic process,BP
+Arterial disease,GO:0009712,3,catechol-containing compound metabolic process,BP
+Arterial disease,GO:0010039,3,response to iron ion,BP
+Arterial disease,GO:0014061,3,regulation of norepinephrine secretion,BP
+Arterial disease,GO:0015837,3,amine transport,BP
+Arterial disease,GO:0019098,3,reproductive behavior,BP
+Arterial disease,GO:0021984,3,adenohypophysis development,BP
+Arterial disease,GO:0031690,3,adrenergic receptor binding,MF
+Arterial disease,GO:0033604,3,negative regulation of catecholamine secretion,BP
+Arterial disease,GO:0035094,3,response to nicotine,BP
+Arterial disease,GO:0035150,3,regulation of tube size,BP
+Arterial disease,GO:0035296,3,regulation of tube diameter,BP
+Arterial disease,GO:0035902,3,response to immobilization stress,BP
+Arterial disease,GO:0042310,3,vasoconstriction,BP
+Arterial disease,GO:0042417,3,dopamine metabolic process,BP
+Arterial disease,GO:0044298,3,cell body membrane,CC
+Arterial disease,GO:0045777,3,positive regulation of blood pressure,BP
+Arterial disease,GO:0048148,3,behavioral response to cocaine,BP
+Arterial disease,GO:0048243,3,norepinephrine secretion,BP
+Arterial disease,GO:0050432,3,catecholamine secretion,BP
+Arterial disease,GO:0051048,3,negative regulation of secretion,BP
+Arterial disease,GO:0051952,3,regulation of amine transport,BP
+Arterial disease,GO:0051953,3,negative regulation of amine transport,BP
+Arterial disease,GO:0060033,3,anatomical structure regression,BP
+Arterial disease,GO:0060134,3,prepulse inhibition,BP
+Arterial disease,GO:0061098,3,positive regulation of protein tyrosine kinase activity,BP
+Arterial disease,GO:0097746,3,blood vessel diameter maintenance,BP
+Arterial disease,GO:1901020,3,negative regulation of calcium ion transmembrane transporter activity,BP
+Arterial disease,GO:1903531,3,negative regulation of secretion by cell,BP
+Arterial disease,GO:0001046,2,core promoter sequence-specific DNA binding,MF
+Arterial disease,GO:0005901,2,caveola,CC
+Arterial disease,GO:0006576,2,biogenic amine metabolic process,BP
+Arterial disease,GO:0006690,2,icosanoid metabolic process,BP
+Arterial disease,GO:0006865,2,amino acid transport,BP
+Arterial disease,GO:0006937,2,regulation of muscle contraction,BP
+Arterial disease,GO:0006939,2,smooth muscle contraction,BP
+Arterial disease,GO:0006940,2,regulation of smooth muscle contraction,BP
+Arterial disease,GO:0007189,2,adenylate cyclase-activating G protein-coupled receptor signaling pathway,BP
+Arterial disease,GO:0007193,2,adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway,BP
+Arterial disease,GO:0007565,2,female pregnancy,BP
+Arterial disease,GO:0007617,2,mating behavior,BP
+Arterial disease,GO:0007620,2,copulation,BP
+Arterial disease,GO:0008217,2,regulation of blood pressure,BP
+Arterial disease,GO:0009308,2,amine metabolic process,BP
+Arterial disease,GO:0010460,2,positive regulation of heart rate,BP
+Arterial disease,GO:0014046,2,dopamine secretion,BP
+Arterial disease,GO:0014074,2,response to purine-containing compound,BP
+Arterial disease,GO:0014075,2,response to amine,BP
+Arterial disease,GO:0014856,2,skeletal muscle cell proliferation,BP
+Arterial disease,GO:0015718,2,monocarboxylic acid transport,BP
+Arterial disease,GO:0019825,2,oxygen binding,MF
+Arterial disease,GO:0030168,2,platelet activation,BP
+Arterial disease,GO:0030534,2,adult behavior,BP
+Arterial disease,GO:0030594,2,neurotransmitter receptor activity,MF
+Arterial disease,GO:0031420,2,alkali metal ion binding,MF
+Arterial disease,GO:0032147,2,activation of protein kinase activity,BP
+Arterial disease,GO:0033555,2,multicellular organismal response to stress,BP
+Arterial disease,GO:0033559,2,unsaturated fatty acid metabolic process,BP
+Arterial disease,GO:0040014,2,regulation of multicellular organism growth,BP
+Arterial disease,GO:0042311,2,vasodilation,BP
+Arterial disease,GO:0042908,2,xenobiotic transport,BP
+Arterial disease,GO:0044853,2,plasma membrane raft,CC
+Arterial disease,GO:0045471,2,response to ethanol,BP
+Arterial disease,GO:0045823,2,positive regulation of heart contraction,BP
+Arterial disease,GO:0046621,2,negative regulation of organ growth,BP
+Arterial disease,GO:0046683,2,response to organophosphorus,BP
+Arterial disease,GO:0048265,2,response to pain,BP
+Arterial disease,GO:0048484,2,enteric nervous system development,BP
+Arterial disease,GO:0050433,2,regulation of catecholamine secretion,BP
+Arterial disease,GO:0050951,2,sensory perception of temperature stimulus,BP
+Arterial disease,GO:0051385,2,response to mineralocorticoid,BP
+Arterial disease,GO:0051580,2,regulation of neurotransmitter uptake,BP
+Arterial disease,GO:0051721,2,protein phosphatase 2A binding,MF
+Arterial disease,GO:0051954,2,positive regulation of amine transport,BP
+Arterial disease,GO:0071276,2,cellular response to cadmium ion,BP
+Arterial disease,GO:0071867,2,response to monoamine,BP
+Arterial disease,GO:0071868,2,cellular response to monoamine stimulus,BP
+Arterial disease,GO:0071869,2,response to catecholamine,BP
+Arterial disease,GO:0071870,2,cellular response to catecholamine stimulus,BP
+Arterial disease,GO:0099171,2,presynaptic modulation of chemical synaptic transmission,BP
+Arterial disease,GO:1903350,2,response to dopamine,BP
+Arterial disease,GO:1903351,2,cellular response to dopamine,BP
+Arterial disease,GO:1903409,2,reactive oxygen species biosynthetic process,BP
+Arterial disease,GO:1903426,2,regulation of reactive oxygen species biosynthetic process,BP
+Arterial disease,GO:1903524,2,positive regulation of blood circulation,BP
+Arterial disease,GO:2000273,2,positive regulation of signaling receptor activity,BP
+Arterial disease,GO:0001508,1,action potential,BP
+Arterial disease,GO:0001659,1,temperature homeostasis,BP
+Arterial disease,GO:0001774,1,microglial cell activation,BP
+Arterial disease,GO:0001965,1,G-protein alpha-subunit binding,MF
+Arterial disease,GO:0001976,1,nervous system process involved in regulation of systemic arterial blood pressure,BP
+Arterial disease,GO:0001990,1,regulation of systemic arterial blood pressure by hormone,BP
+Arterial disease,GO:0001991,1,regulation of systemic arterial blood pressure by circulatory renin-angiotensin,BP
+Arterial disease,GO:0002002,1,regulation of angiotensin levels in blood,BP
+Arterial disease,GO:0002026,1,regulation of the force of heart contraction,BP
+Arterial disease,GO:0002027,1,regulation of heart rate,BP
+Arterial disease,GO:0002052,1,positive regulation of neuroblast proliferation,BP
+Arterial disease,GO:0002269,1,leukocyte activation involved in inflammatory response,BP
+Arterial disease,GO:0002524,1,hypersensitivity,BP
+Arterial disease,GO:0002675,1,positive regulation of acute inflammatory response,BP
+Arterial disease,GO:0002761,1,regulation of myeloid leukocyte differentiation,BP
+Arterial disease,GO:0002762,1,negative regulation of myeloid leukocyte differentiation,BP
+Arterial disease,GO:0002791,1,regulation of peptide secretion,BP
+Arterial disease,GO:0002863,1,positive regulation of inflammatory response to antigenic stimulus,BP
+Arterial disease,GO:0002864,1,regulation of acute inflammatory response to antigenic stimulus,BP
+Arterial disease,GO:0002883,1,regulation of hypersensitivity,BP
+Arterial disease,GO:0003071,1,renal system process involved in regulation of systemic arterial blood pressure,BP
+Arterial disease,GO:0003073,1,regulation of systemic arterial blood pressure,BP
+Arterial disease,GO:0003081,1,regulation of systemic arterial blood pressure by renin-angiotensin,BP
+Arterial disease,GO:0003085,1,negative regulation of systemic arterial blood pressure,BP
+Arterial disease,GO:0003298,1,physiological muscle hypertrophy,BP
+Arterial disease,GO:0003301,1,physiological cardiac muscle hypertrophy,BP
+Arterial disease,GO:0004993,1,G protein-coupled serotonin receptor activity,MF
+Arterial disease,GO:0005319,1,lipid transporter activity,MF
+Arterial disease,GO:0005504,1,fatty acid binding,MF
+Arterial disease,GO:0005507,1,copper ion binding,MF
+Arterial disease,GO:0005903,1,brush border,CC
+Arterial disease,GO:0006509,1,membrane protein ectodomain proteolysis,BP
+Arterial disease,GO:0006633,1,fatty acid biosynthetic process,BP
+Arterial disease,GO:0006699,1,bile acid biosynthetic process,BP
+Arterial disease,GO:0006706,1,steroid catabolic process,BP
+Arterial disease,GO:0006775,1,fat-soluble vitamin metabolic process,BP
+Arterial disease,GO:0006835,1,dicarboxylic acid transport,BP
+Arterial disease,GO:0006941,1,striated muscle contraction,BP
+Arterial disease,GO:0007187,1,"G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",BP
+Arterial disease,GO:0007200,1,phospholipase C-activating G protein-coupled receptor signaling pathway,BP
+Arterial disease,GO:0007204,1,positive regulation of cytosolic calcium ion concentration,BP
+Arterial disease,GO:0007210,1,serotonin receptor signaling pathway,BP
+Arterial disease,GO:0007566,1,embryo implantation,BP
+Arterial disease,GO:0007612,1,learning,BP
+Arterial disease,GO:0007613,1,memory,BP
+Arterial disease,GO:0007616,1,long-term memory,BP
+Arterial disease,GO:0007622,1,rhythmic behavior,BP
+Arterial disease,GO:0007631,1,feeding behavior,BP
+Arterial disease,GO:0007632,1,visual behavior,BP
+Arterial disease,GO:0008203,1,cholesterol metabolic process,BP
+Arterial disease,GO:0008277,1,regulation of G protein-coupled receptor signaling pathway,BP
+Arterial disease,GO:0008306,1,associative learning,BP
+Arterial disease,GO:0008542,1,visual learning,BP
+Arterial disease,GO:0008584,1,male gonad development,BP
+Arterial disease,GO:0009110,1,vitamin biosynthetic process,BP
+Arterial disease,GO:0009411,1,response to UV,BP
+Arterial disease,GO:0010042,1,response to manganese ion,BP
+Arterial disease,GO:0010232,1,vascular transport,BP
+Arterial disease,GO:0010248,1,establishment or maintenance of transmembrane electrochemical gradient,BP
+Arterial disease,GO:0010469,1,regulation of signaling receptor activity,BP
+Arterial disease,GO:0010517,1,regulation of phospholipase activity,BP
+Arterial disease,GO:0010518,1,positive regulation of phospholipase activity,BP
+Arterial disease,GO:0010611,1,regulation of cardiac muscle hypertrophy,BP
+Arterial disease,GO:0010765,1,positive regulation of sodium ion transport,BP
+Arterial disease,GO:0010863,1,positive regulation of phospholipase C activity,BP
+Arterial disease,GO:0010875,1,positive regulation of cholesterol efflux,BP
+Arterial disease,GO:0010878,1,cholesterol storage,BP
+Arterial disease,GO:0010885,1,regulation of cholesterol storage,BP
+Arterial disease,GO:0010887,1,negative regulation of cholesterol storage,BP
+Arterial disease,GO:0010888,1,negative regulation of lipid storage,BP
+Arterial disease,GO:0014047,1,glutamate secretion,BP
+Arterial disease,GO:0014048,1,regulation of glutamate secretion,BP
+Arterial disease,GO:0014059,1,regulation of dopamine secretion,BP
+Arterial disease,GO:0014743,1,regulation of muscle hypertrophy,BP
+Arterial disease,GO:0014823,1,response to activity,BP
+Arterial disease,GO:0014829,1,vascular associated smooth muscle contraction,BP
+Arterial disease,GO:0015732,1,prostaglandin transport,BP
+Arterial disease,GO:0015800,1,acidic amino acid transport,BP
+Arterial disease,GO:0015908,1,fatty acid transport,BP
+Arterial disease,GO:0016125,1,sterol metabolic process,BP
+Arterial disease,GO:0016486,1,peptide hormone processing,BP
+Arterial disease,GO:0022410,1,circadian sleep/wake cycle process,BP
+Arterial disease,GO:0030073,1,insulin secretion,BP
+Arterial disease,GO:0030307,1,positive regulation of cell growth,BP
+Arterial disease,GO:0030308,1,negative regulation of cell growth,BP
+Arterial disease,GO:0030316,1,osteoclast differentiation,BP
+Arterial disease,GO:0030431,1,sleep,BP
+Arterial disease,GO:0031256,1,leading edge membrane,CC
+Arterial disease,GO:0031279,1,regulation of cyclase activity,BP
+Arterial disease,GO:0031281,1,positive regulation of cyclase activity,BP
+Arterial disease,GO:0031406,1,carboxylic acid binding,MF
+Arterial disease,GO:0031644,1,regulation of nervous system process,BP
+Arterial disease,GO:0031960,1,response to corticosteroid,BP
+Arterial disease,GO:0032228,1,"regulation of synaptic transmission, GABAergic",BP
+Arterial disease,GO:0032355,1,response to estradiol,BP
+Arterial disease,GO:0032366,1,intracellular sterol transport,BP
+Arterial disease,GO:0032367,1,intracellular cholesterol transport,BP
+Arterial disease,GO:0032368,1,regulation of lipid transport,BP
+Arterial disease,GO:0032373,1,positive regulation of sterol transport,BP
+Arterial disease,GO:0032376,1,positive regulation of cholesterol transport,BP
+Arterial disease,GO:0032410,1,negative regulation of transporter activity,BP
+Arterial disease,GO:0032413,1,negative regulation of ion transmembrane transporter activity,BP
+Arterial disease,GO:0032570,1,response to progesterone,BP
+Arterial disease,GO:0032722,1,positive regulation of chemokine production,BP
+Arterial disease,GO:0032782,1,bile acid secretion,BP
+Arterial disease,GO:0032881,1,regulation of polysaccharide metabolic process,BP
+Arterial disease,GO:0032890,1,regulation of organic acid transport,BP
+Arterial disease,GO:0032922,1,circadian regulation of gene expression,BP
+Arterial disease,GO:0032958,1,inositol phosphate biosynthetic process,BP
+Arterial disease,GO:0033293,1,monocarboxylic acid binding,MF
+Arterial disease,GO:0034341,1,response to type II interferon,BP
+Arterial disease,GO:0034614,1,cellular response to reactive oxygen species,BP
+Arterial disease,GO:0034763,1,negative regulation of transmembrane transport,BP
+Arterial disease,GO:0034766,1,negative regulation of monoatomic ion transmembrane transport,BP
+Arterial disease,GO:0034776,1,response to histamine,BP
+Arterial disease,GO:0035051,1,cardiocyte differentiation,BP
+Arterial disease,GO:0035249,1,"synaptic transmission, glutamatergic",BP
+Arterial disease,GO:0035264,1,multicellular organism growth,BP
+Arterial disease,GO:0035265,1,organ growth,BP
+Arterial disease,GO:0035270,1,endocrine system development,BP
+Arterial disease,GO:0035809,1,regulation of urine volume,BP
+Arterial disease,GO:0035810,1,positive regulation of urine volume,BP
+Arterial disease,GO:0036294,1,cellular response to decreased oxygen levels,BP
+Arterial disease,GO:0036314,1,response to sterol,BP
+Arterial disease,GO:0036315,1,cellular response to sterol,BP
+Arterial disease,GO:0042359,1,vitamin D metabolic process,BP
+Arterial disease,GO:0042362,1,fat-soluble vitamin biosynthetic process,BP
+Arterial disease,GO:0042368,1,vitamin D biosynthetic process,BP
+Arterial disease,GO:0042428,1,serotonin metabolic process,BP
+Arterial disease,GO:0042711,1,maternal behavior,BP
+Arterial disease,GO:0042743,1,hydrogen peroxide metabolic process,BP
+Arterial disease,GO:0042744,1,hydrogen peroxide catabolic process,BP
+Arterial disease,GO:0042745,1,circadian sleep/wake cycle,BP
+Arterial disease,GO:0042749,1,regulation of circadian sleep/wake cycle,BP
+Arterial disease,GO:0042752,1,regulation of circadian rhythm,BP
+Arterial disease,GO:0042755,1,eating behavior,BP
+Arterial disease,GO:0042756,1,drinking behavior,BP
+Arterial disease,GO:0043112,1,receptor metabolic process,BP
+Arterial disease,GO:0043266,1,regulation of potassium ion transport,BP
+Arterial disease,GO:0043268,1,positive regulation of potassium ion transport,BP
+Arterial disease,GO:0043271,1,negative regulation of monoatomic ion transport,BP
+Arterial disease,GO:0043524,1,negative regulation of neuron apoptotic process,BP
+Arterial disease,GO:0043691,1,reverse cholesterol transport,BP
+Arterial disease,GO:0044060,1,regulation of endocrine process,BP
+Arterial disease,GO:0045187,1,"regulation of circadian sleep/wake cycle, sleep",BP
+Arterial disease,GO:0045670,1,regulation of osteoclast differentiation,BP
+Arterial disease,GO:0045671,1,negative regulation of osteoclast differentiation,BP
+Arterial disease,GO:0045744,1,negative regulation of G protein-coupled receptor signaling pathway,BP
+Arterial disease,GO:0045761,1,regulation of adenylate cyclase activity,BP
+Arterial disease,GO:0045776,1,negative regulation of blood pressure,BP
+Arterial disease,GO:0045932,1,negative regulation of muscle contraction,BP
+Arterial disease,GO:0045933,1,positive regulation of muscle contraction,BP
+Arterial disease,GO:0045940,1,positive regulation of steroid metabolic process,BP
+Arterial disease,GO:0045986,1,negative regulation of smooth muscle contraction,BP
+Arterial disease,GO:0045987,1,positive regulation of smooth muscle contraction,BP
+Arterial disease,GO:0046173,1,polyol biosynthetic process,BP
+Arterial disease,GO:0046546,1,development of primary male sexual characteristics,BP
+Arterial disease,GO:0046620,1,regulation of organ growth,BP
+Arterial disease,GO:0046661,1,male sex differentiation,BP
+Arterial disease,GO:0046686,1,response to cadmium ion,BP
+Arterial disease,GO:0046717,1,acid secretion,BP
+Arterial disease,GO:0046888,1,negative regulation of hormone secretion,BP
+Arterial disease,GO:0048512,1,circadian behavior,BP
+Arterial disease,GO:0048592,1,eye morphogenesis,BP
+Arterial disease,GO:0048639,1,positive regulation of developmental growth,BP
+Arterial disease,GO:0048645,1,animal organ formation,BP
+Arterial disease,GO:0050482,1,arachidonic acid secretion,BP
+Arterial disease,GO:0050709,1,negative regulation of protein secretion,BP
+Arterial disease,GO:0050795,1,regulation of behavior,BP
+Arterial disease,GO:0050796,1,regulation of insulin secretion,BP
+Arterial disease,GO:0050802,1,"circadian sleep/wake cycle, sleep",BP
+Arterial disease,GO:0050805,1,negative regulation of synaptic transmission,BP
+Arterial disease,GO:0050806,1,positive regulation of synaptic transmission,BP
+Arterial disease,GO:0050886,1,endocrine process,BP
+Arterial disease,GO:0050892,1,intestinal absorption,BP
+Arterial disease,GO:0050995,1,negative regulation of lipid catabolic process,BP
+Arterial disease,GO:0051043,1,regulation of membrane protein ectodomain proteolysis,BP
+Arterial disease,GO:0051044,1,positive regulation of membrane protein ectodomain proteolysis,BP
+Arterial disease,GO:0051100,1,negative regulation of binding,BP
+Arterial disease,GO:0051208,1,sequestering of calcium ion,BP
+Arterial disease,GO:0051209,1,release of sequestered calcium ion into cytosol,BP
+Arterial disease,GO:0051282,1,regulation of sequestering of calcium ion,BP
+Arterial disease,GO:0051283,1,negative regulation of sequestering of calcium ion,BP
+Arterial disease,GO:0051302,1,regulation of cell division,BP
+Arterial disease,GO:0051339,1,regulation of lyase activity,BP
+Arterial disease,GO:0051384,1,response to glucocorticoid,BP
+Arterial disease,GO:0051450,1,myoblast proliferation,BP
+Arterial disease,GO:0051588,1,regulation of neurotransmitter transport,BP
+Arterial disease,GO:0051591,1,response to cAMP,BP
+Arterial disease,GO:0051657,1,maintenance of organelle location,BP
+Arterial disease,GO:0051781,1,positive regulation of cell division,BP
+Arterial disease,GO:0051926,1,negative regulation of calcium ion transport,BP
+Arterial disease,GO:0051932,1,"synaptic transmission, GABAergic",BP
+Arterial disease,GO:0051955,1,regulation of amino acid transport,BP
+Arterial disease,GO:0051966,1,"regulation of synaptic transmission, glutamatergic",BP
+Arterial disease,GO:0051968,1,"positive regulation of synaptic transmission, glutamatergic",BP
+Arterial disease,GO:0055017,1,cardiac muscle tissue growth,BP
+Arterial disease,GO:0055021,1,regulation of cardiac muscle tissue growth,BP
+Arterial disease,GO:0055094,1,response to lipoprotein particle,BP
+Arterial disease,GO:0060048,1,cardiac muscle contraction,BP
+Arterial disease,GO:0060078,1,regulation of postsynaptic membrane potential,BP
+Arterial disease,GO:0060079,1,excitatory postsynaptic potential,BP
+Arterial disease,GO:0060080,1,inhibitory postsynaptic potential,BP
+Arterial disease,GO:0060191,1,regulation of lipase activity,BP
+Arterial disease,GO:0060193,1,positive regulation of lipase activity,BP
+Arterial disease,GO:0060291,1,long-term synaptic potentiation,BP
+Arterial disease,GO:0060419,1,heart growth,BP
+Arterial disease,GO:0060420,1,regulation of heart growth,BP
+Arterial disease,GO:0060746,1,parental behavior,BP
+Arterial disease,GO:0060986,1,endocrine hormone secretion,BP
+Arterial disease,GO:0061049,1,cell growth involved in cardiac muscle cell development,BP
+Arterial disease,GO:0061097,1,regulation of protein tyrosine kinase activity,BP
+Arterial disease,GO:0061614,1,miRNA transcription,BP
+Arterial disease,GO:0061900,1,glial cell activation,BP
+Arterial disease,GO:0070412,1,R-SMAD binding,MF
+Arterial disease,GO:0070723,1,response to cholesterol,BP
+Arterial disease,GO:0070849,1,response to epidermal growth factor,BP
+Arterial disease,GO:0070857,1,regulation of bile acid biosynthetic process,BP
+Arterial disease,GO:0071260,1,cellular response to mechanical stimulus,BP
+Arterial disease,GO:0071364,1,cellular response to epidermal growth factor stimulus,BP
+Arterial disease,GO:0071397,1,cellular response to cholesterol,BP
+Arterial disease,GO:0071402,1,cellular response to lipoprotein particle stimulus,BP
+Arterial disease,GO:0071404,1,cellular response to low-density lipoprotein particle stimulus,BP
+Arterial disease,GO:0071453,1,cellular response to oxygen levels,BP
+Arterial disease,GO:0071715,1,icosanoid transport,BP
+Arterial disease,GO:0071902,1,positive regulation of protein serine/threonine kinase activity,BP
+Arterial disease,GO:0086013,1,membrane repolarization during cardiac muscle cell action potential,BP
+Arterial disease,GO:0090181,1,regulation of cholesterol metabolic process,BP
+Arterial disease,GO:0090205,1,positive regulation of cholesterol metabolic process,BP
+Arterial disease,GO:0090276,1,regulation of peptide hormone secretion,BP
+Arterial disease,GO:0090279,1,regulation of calcium ion import,BP
+Arterial disease,GO:0097306,1,cellular response to alcohol,BP
+Arterial disease,GO:0098664,1,G protein-coupled serotonin receptor signaling pathway,BP
+Arterial disease,GO:0098992,1,neuronal dense core vesicle,CC
+Arterial disease,GO:0099565,1,"chemical synaptic transmission, postsynaptic",BP
+Arterial disease,GO:0099589,1,serotonin receptor activity,MF
+Arterial disease,GO:0106106,1,cold-induced thermogenesis,BP
+Arterial disease,GO:0120161,1,regulation of cold-induced thermogenesis,BP
+Arterial disease,GO:0120162,1,positive regulation of cold-induced thermogenesis,BP
+Arterial disease,GO:0120163,1,negative regulation of cold-induced thermogenesis,BP
+Arterial disease,GO:0140115,1,export across plasma membrane,BP
+Arterial disease,GO:0140272,1,exogenous protein binding,MF
+Arterial disease,GO:0140353,1,lipid export from cell,BP
+Arterial disease,GO:0140448,1,signaling receptor ligand precursor processing,BP
+Arterial disease,GO:0150076,1,neuroinflammatory response,BP
+Arterial disease,GO:0150104,1,transport across blood-brain barrier,BP
+Arterial disease,GO:1900271,1,regulation of long-term synaptic potentiation,BP
+Arterial disease,GO:1900273,1,positive regulation of long-term synaptic potentiation,BP
+Arterial disease,GO:1900274,1,regulation of phospholipase C activity,BP
+Arterial disease,GO:1901160,1,primary amino compound metabolic process,BP
+Arterial disease,GO:1901385,1,regulation of voltage-gated calcium channel activity,BP
+Arterial disease,GO:1902307,1,positive regulation of sodium ion transmembrane transport,BP
+Arterial disease,GO:1902652,1,secondary alcohol metabolic process,BP
+Arterial disease,GO:1902692,1,regulation of neuroblast proliferation,BP
+Arterial disease,GO:1902893,1,regulation of miRNA transcription,BP
+Arterial disease,GO:1902895,1,positive regulation of miRNA transcription,BP
+Arterial disease,GO:1902950,1,regulation of dendritic spine maintenance,BP
+Arterial disease,GO:1903169,1,regulation of calcium ion transmembrane transport,BP
+Arterial disease,GO:1903963,1,arachidonate transport,BP
+Arterial disease,GO:1904063,1,negative regulation of cation transmembrane transport,BP
+Arterial disease,GO:1904251,1,regulation of bile acid metabolic process,BP
+Arterial disease,GO:1904645,1,response to amyloid-beta,BP
+Arterial disease,GO:1904646,1,cellular response to amyloid-beta,BP
+Arterial disease,GO:1904707,1,positive regulation of vascular associated smooth muscle cell proliferation,BP
+Arterial disease,GO:1905330,1,regulation of morphogenesis of an epithelium,BP
+Arterial disease,GO:1905332,1,positive regulation of morphogenesis of an epithelium,BP
+Arterial disease,GO:1905952,1,regulation of lipid localization,BP
+Arterial disease,GO:1990845,1,adaptive thermogenesis,BP
+Arterial disease,GO:2000177,1,regulation of neural precursor cell proliferation,BP
+Arterial disease,GO:2000179,1,positive regulation of neural precursor cell proliferation,BP
+Arterial disease,GO:2000242,1,negative regulation of reproductive process,BP
+Arterial disease,GO:2000377,1,regulation of reactive oxygen species metabolic process,BP
+Arterial disease,GO:2000378,1,negative regulation of reactive oxygen species metabolic process,BP
+Arterial disease,GO:2000379,1,positive regulation of reactive oxygen species metabolic process,BP
+Arterial disease,GO:2000573,1,positive regulation of DNA biosynthetic process,BP
+Arterial disease,GO:2000630,1,positive regulation of miRNA metabolic process,BP
+Arterial disease,GO:2000648,1,positive regulation of stem cell proliferation,BP
+Arterial disease,GO:2000846,1,regulation of corticosteroid hormone secretion,BP
+Arterial disease,GO:2001257,1,regulation of cation channel activity,BP
+Cerebrovascular disease,GO:0001504,5,neurotransmitter uptake,BP
+Cerebrovascular disease,GO:0008227,5,G protein-coupled amine receptor activity,MF
+Cerebrovascular disease,GO:0015294,5,solute:monoatomic cation symporter activity,MF
+Cerebrovascular disease,GO:0015844,5,monoamine transport,BP
+Cerebrovascular disease,GO:0098810,5,neurotransmitter reuptake,BP
+Cerebrovascular disease,GO:0001963,4,"synaptic transmission, dopaminergic",BP
+Cerebrovascular disease,GO:0015081,4,sodium ion transmembrane transporter activity,MF
+Cerebrovascular disease,GO:0016705,4,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",MF
+Cerebrovascular disease,GO:0019229,4,regulation of vasoconstriction,BP
+Cerebrovascular disease,GO:0019369,4,arachidonic acid metabolic process,BP
+Cerebrovascular disease,GO:0020037,4,heme binding,MF
+Cerebrovascular disease,GO:0035725,4,sodium ion transmembrane transport,BP
+Cerebrovascular disease,GO:0046906,4,tetrapyrrole binding,MF
+Cerebrovascular disease,GO:0071466,4,cellular response to xenobiotic stimulus,BP
+Cerebrovascular disease,GO:0071875,4,adrenergic receptor signaling pathway,BP
+Cerebrovascular disease,GO:0071880,4,adenylate cyclase-activating adrenergic receptor signaling pathway,BP
+Cerebrovascular disease,GO:0120254,4,olefinic compound metabolic process,BP
+Cerebrovascular disease,GO:1901338,4,catecholamine binding,MF
+Cerebrovascular disease,GO:0001975,3,response to amphetamine,BP
+Cerebrovascular disease,GO:0003044,3,regulation of systemic arterial blood pressure mediated by a chemical signal,BP
+Cerebrovascular disease,GO:0006584,3,catecholamine metabolic process,BP
+Cerebrovascular disease,GO:0009712,3,catechol-containing compound metabolic process,BP
+Cerebrovascular disease,GO:0010039,3,response to iron ion,BP
+Cerebrovascular disease,GO:0015837,3,amine transport,BP
+Cerebrovascular disease,GO:0035094,3,response to nicotine,BP
+Cerebrovascular disease,GO:0035150,3,regulation of tube size,BP
+Cerebrovascular disease,GO:0035296,3,regulation of tube diameter,BP
+Cerebrovascular disease,GO:0040018,3,positive regulation of multicellular organism growth,BP
+Cerebrovascular disease,GO:0042310,3,vasoconstriction,BP
+Cerebrovascular disease,GO:0042417,3,dopamine metabolic process,BP
+Cerebrovascular disease,GO:0044298,3,cell body membrane,CC
+Cerebrovascular disease,GO:0045664,3,regulation of neuron differentiation,BP
+Cerebrovascular disease,GO:0045777,3,positive regulation of blood pressure,BP
+Cerebrovascular disease,GO:0048148,3,behavioral response to cocaine,BP
+Cerebrovascular disease,GO:0051048,3,negative regulation of secretion,BP
+Cerebrovascular disease,GO:0051952,3,regulation of amine transport,BP
+Cerebrovascular disease,GO:0051953,3,negative regulation of amine transport,BP
+Cerebrovascular disease,GO:0060033,3,anatomical structure regression,BP
+Cerebrovascular disease,GO:0061098,3,positive regulation of protein tyrosine kinase activity,BP
+Cerebrovascular disease,GO:0097746,3,blood vessel diameter maintenance,BP
+Cerebrovascular disease,GO:1901020,3,negative regulation of calcium ion transmembrane transporter activity,BP
+Cerebrovascular disease,GO:1903531,3,negative regulation of secretion by cell,BP
+Cerebrovascular disease,GO:0005901,2,caveola,CC
+Cerebrovascular disease,GO:0006576,2,biogenic amine metabolic process,BP
+Cerebrovascular disease,GO:0006690,2,icosanoid metabolic process,BP
+Cerebrovascular disease,GO:0006865,2,amino acid transport,BP
+Cerebrovascular disease,GO:0006937,2,regulation of muscle contraction,BP
+Cerebrovascular disease,GO:0006939,2,smooth muscle contraction,BP
+Cerebrovascular disease,GO:0006940,2,regulation of smooth muscle contraction,BP
+Cerebrovascular disease,GO:0007189,2,adenylate cyclase-activating G protein-coupled receptor signaling pathway,BP
+Cerebrovascular disease,GO:0007193,2,adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway,BP
+Cerebrovascular disease,GO:0007565,2,female pregnancy,BP
+Cerebrovascular disease,GO:0007620,2,copulation,BP
+Cerebrovascular disease,GO:0008217,2,regulation of blood pressure,BP
+Cerebrovascular disease,GO:0009308,2,amine metabolic process,BP
+Cerebrovascular disease,GO:0010460,2,positive regulation of heart rate,BP
+Cerebrovascular disease,GO:0014074,2,response to purine-containing compound,BP
+Cerebrovascular disease,GO:0014075,2,response to amine,BP
+Cerebrovascular disease,GO:0015718,2,monocarboxylic acid transport,BP
+Cerebrovascular disease,GO:0018958,2,phenol-containing compound metabolic process,BP
+Cerebrovascular disease,GO:0030168,2,platelet activation,BP
+Cerebrovascular disease,GO:0030534,2,adult behavior,BP
+Cerebrovascular disease,GO:0031420,2,alkali metal ion binding,MF
+Cerebrovascular disease,GO:0032098,2,regulation of appetite,BP
+Cerebrovascular disease,GO:0032147,2,activation of protein kinase activity,BP
+Cerebrovascular disease,GO:0033555,2,multicellular organismal response to stress,BP
+Cerebrovascular disease,GO:0033559,2,unsaturated fatty acid metabolic process,BP
+Cerebrovascular disease,GO:0040014,2,regulation of multicellular organism growth,BP
+Cerebrovascular disease,GO:0042311,2,vasodilation,BP
+Cerebrovascular disease,GO:0043279,2,response to alkaloid,BP
+Cerebrovascular disease,GO:0044306,2,neuron projection terminus,CC
+Cerebrovascular disease,GO:0044853,2,plasma membrane raft,CC
+Cerebrovascular disease,GO:0045471,2,response to ethanol,BP
+Cerebrovascular disease,GO:0045823,2,positive regulation of heart contraction,BP
+Cerebrovascular disease,GO:0046683,2,response to organophosphorus,BP
+Cerebrovascular disease,GO:0048265,2,response to pain,BP
+Cerebrovascular disease,GO:0048484,2,enteric nervous system development,BP
+Cerebrovascular disease,GO:0050951,2,sensory perception of temperature stimulus,BP
+Cerebrovascular disease,GO:0051385,2,response to mineralocorticoid,BP
+Cerebrovascular disease,GO:0051580,2,regulation of neurotransmitter uptake,BP
+Cerebrovascular disease,GO:0071276,2,cellular response to cadmium ion,BP
+Cerebrovascular disease,GO:0071867,2,response to monoamine,BP
+Cerebrovascular disease,GO:0071868,2,cellular response to monoamine stimulus,BP
+Cerebrovascular disease,GO:0071869,2,response to catecholamine,BP
+Cerebrovascular disease,GO:0071870,2,cellular response to catecholamine stimulus,BP
+Cerebrovascular disease,GO:0099171,2,presynaptic modulation of chemical synaptic transmission,BP
+Cerebrovascular disease,GO:1903170,2,negative regulation of calcium ion transmembrane transport,BP
+Cerebrovascular disease,GO:1903350,2,response to dopamine,BP
+Cerebrovascular disease,GO:1903351,2,cellular response to dopamine,BP
+Cerebrovascular disease,GO:1903524,2,positive regulation of blood circulation,BP
+Cerebrovascular disease,GO:2000273,2,positive regulation of signaling receptor activity,BP
+Cerebrovascular disease,GO:0001508,1,action potential,BP
+Cerebrovascular disease,GO:0001556,1,oocyte maturation,BP
+Cerebrovascular disease,GO:0001659,1,temperature homeostasis,BP
+Cerebrovascular disease,GO:0001990,1,regulation of systemic arterial blood pressure by hormone,BP
+Cerebrovascular disease,GO:0001991,1,regulation of systemic arterial blood pressure by circulatory renin-angiotensin,BP
+Cerebrovascular disease,GO:0002002,1,regulation of angiotensin levels in blood,BP
+Cerebrovascular disease,GO:0002026,1,regulation of the force of heart contraction,BP
+Cerebrovascular disease,GO:0002027,1,regulation of heart rate,BP
+Cerebrovascular disease,GO:0002029,1,desensitization of G protein-coupled receptor signaling pathway,BP
+Cerebrovascular disease,GO:0002675,1,positive regulation of acute inflammatory response,BP
+Cerebrovascular disease,GO:0002791,1,regulation of peptide secretion,BP
+Cerebrovascular disease,GO:0003071,1,renal system process involved in regulation of systemic arterial blood pressure,BP
+Cerebrovascular disease,GO:0003073,1,regulation of systemic arterial blood pressure,BP
+Cerebrovascular disease,GO:0003081,1,regulation of systemic arterial blood pressure by renin-angiotensin,BP
+Cerebrovascular disease,GO:0003085,1,negative regulation of systemic arterial blood pressure,BP
+Cerebrovascular disease,GO:0003298,1,physiological muscle hypertrophy,BP
+Cerebrovascular disease,GO:0003301,1,physiological cardiac muscle hypertrophy,BP
+Cerebrovascular disease,GO:0004190,1,aspartic-type endopeptidase activity,MF
+Cerebrovascular disease,GO:0004993,1,G protein-coupled serotonin receptor activity,MF
+Cerebrovascular disease,GO:0005504,1,fatty acid binding,MF
+Cerebrovascular disease,GO:0005903,1,brush border,CC
+Cerebrovascular disease,GO:0006633,1,fatty acid biosynthetic process,BP
+Cerebrovascular disease,GO:0006835,1,dicarboxylic acid transport,BP
+Cerebrovascular disease,GO:0006941,1,striated muscle contraction,BP
+Cerebrovascular disease,GO:0007187,1,"G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",BP
+Cerebrovascular disease,GO:0007200,1,phospholipase C-activating G protein-coupled receptor signaling pathway,BP
+Cerebrovascular disease,GO:0007204,1,positive regulation of cytosolic calcium ion concentration,BP
+Cerebrovascular disease,GO:0007210,1,serotonin receptor signaling pathway,BP
+Cerebrovascular disease,GO:0007566,1,embryo implantation,BP
+Cerebrovascular disease,GO:0007612,1,learning,BP
+Cerebrovascular disease,GO:0007613,1,memory,BP
+Cerebrovascular disease,GO:0007631,1,feeding behavior,BP
+Cerebrovascular disease,GO:0007632,1,visual behavior,BP
+Cerebrovascular disease,GO:0008203,1,cholesterol metabolic process,BP
+Cerebrovascular disease,GO:0008277,1,regulation of G protein-coupled receptor signaling pathway,BP
+Cerebrovascular disease,GO:0008306,1,associative learning,BP
+Cerebrovascular disease,GO:0008542,1,visual learning,BP
+Cerebrovascular disease,GO:0008584,1,male gonad development,BP
+Cerebrovascular disease,GO:0009411,1,response to UV,BP
+Cerebrovascular disease,GO:0009994,1,oocyte differentiation,BP
+Cerebrovascular disease,GO:0010042,1,response to manganese ion,BP
+Cerebrovascular disease,GO:0010232,1,vascular transport,BP
+Cerebrovascular disease,GO:0010248,1,establishment or maintenance of transmembrane electrochemical gradient,BP
+Cerebrovascular disease,GO:0010469,1,regulation of signaling receptor activity,BP
+Cerebrovascular disease,GO:0010517,1,regulation of phospholipase activity,BP
+Cerebrovascular disease,GO:0010518,1,positive regulation of phospholipase activity,BP
+Cerebrovascular disease,GO:0010611,1,regulation of cardiac muscle hypertrophy,BP
+Cerebrovascular disease,GO:0010765,1,positive regulation of sodium ion transport,BP
+Cerebrovascular disease,GO:0010863,1,positive regulation of phospholipase C activity,BP
+Cerebrovascular disease,GO:0010875,1,positive regulation of cholesterol efflux,BP
+Cerebrovascular disease,GO:0010878,1,cholesterol storage,BP
+Cerebrovascular disease,GO:0010885,1,regulation of cholesterol storage,BP
+Cerebrovascular disease,GO:0010887,1,negative regulation of cholesterol storage,BP
+Cerebrovascular disease,GO:0010888,1,negative regulation of lipid storage,BP
+Cerebrovascular disease,GO:0014047,1,glutamate secretion,BP
+Cerebrovascular disease,GO:0014048,1,regulation of glutamate secretion,BP
+Cerebrovascular disease,GO:0014743,1,regulation of muscle hypertrophy,BP
+Cerebrovascular disease,GO:0014823,1,response to activity,BP
+Cerebrovascular disease,GO:0014829,1,vascular associated smooth muscle contraction,BP
+Cerebrovascular disease,GO:0015732,1,prostaglandin transport,BP
+Cerebrovascular disease,GO:0015800,1,acidic amino acid transport,BP
+Cerebrovascular disease,GO:0015908,1,fatty acid transport,BP
+Cerebrovascular disease,GO:0016125,1,sterol metabolic process,BP
+Cerebrovascular disease,GO:0016486,1,peptide hormone processing,BP
+Cerebrovascular disease,GO:0022401,1,negative adaptation of signaling pathway,BP
+Cerebrovascular disease,GO:0022410,1,circadian sleep/wake cycle process,BP
+Cerebrovascular disease,GO:0023058,1,adaptation of signaling pathway,BP
+Cerebrovascular disease,GO:0030073,1,insulin secretion,BP
+Cerebrovascular disease,GO:0030307,1,positive regulation of cell growth,BP
+Cerebrovascular disease,GO:0030308,1,negative regulation of cell growth,BP
+Cerebrovascular disease,GO:0030431,1,sleep,BP
+Cerebrovascular disease,GO:0031279,1,regulation of cyclase activity,BP
+Cerebrovascular disease,GO:0031281,1,positive regulation of cyclase activity,BP
+Cerebrovascular disease,GO:0031406,1,carboxylic acid binding,MF
+Cerebrovascular disease,GO:0031623,1,receptor internalization,BP
+Cerebrovascular disease,GO:0031960,1,response to corticosteroid,BP
+Cerebrovascular disease,GO:0032228,1,"regulation of synaptic transmission, GABAergic",BP
+Cerebrovascular disease,GO:0032355,1,response to estradiol,BP
+Cerebrovascular disease,GO:0032367,1,intracellular cholesterol transport,BP
+Cerebrovascular disease,GO:0032368,1,regulation of lipid transport,BP
+Cerebrovascular disease,GO:0032373,1,positive regulation of sterol transport,BP
+Cerebrovascular disease,GO:0032376,1,positive regulation of cholesterol transport,BP
+Cerebrovascular disease,GO:0032410,1,negative regulation of transporter activity,BP
+Cerebrovascular disease,GO:0032413,1,negative regulation of ion transmembrane transporter activity,BP
+Cerebrovascular disease,GO:0032722,1,positive regulation of chemokine production,BP
+Cerebrovascular disease,GO:0032890,1,regulation of organic acid transport,BP
+Cerebrovascular disease,GO:0033293,1,monocarboxylic acid binding,MF
+Cerebrovascular disease,GO:0034614,1,cellular response to reactive oxygen species,BP
+Cerebrovascular disease,GO:0034763,1,negative regulation of transmembrane transport,BP
+Cerebrovascular disease,GO:0034766,1,negative regulation of monoatomic ion transmembrane transport,BP
+Cerebrovascular disease,GO:0035051,1,cardiocyte differentiation,BP
+Cerebrovascular disease,GO:0035249,1,"synaptic transmission, glutamatergic",BP
+Cerebrovascular disease,GO:0035264,1,multicellular organism growth,BP
+Cerebrovascular disease,GO:0035265,1,organ growth,BP
+Cerebrovascular disease,GO:0035270,1,endocrine system development,BP
+Cerebrovascular disease,GO:0035809,1,regulation of urine volume,BP
+Cerebrovascular disease,GO:0035810,1,positive regulation of urine volume,BP
+Cerebrovascular disease,GO:0035929,1,steroid hormone secretion,BP
+Cerebrovascular disease,GO:0035930,1,corticosteroid hormone secretion,BP
+Cerebrovascular disease,GO:0036294,1,cellular response to decreased oxygen levels,BP
+Cerebrovascular disease,GO:0042428,1,serotonin metabolic process,BP
+Cerebrovascular disease,GO:0042430,1,indole-containing compound metabolic process,BP
+Cerebrovascular disease,GO:0042744,1,hydrogen peroxide catabolic process,BP
+Cerebrovascular disease,GO:0042745,1,circadian sleep/wake cycle,BP
+Cerebrovascular disease,GO:0042749,1,regulation of circadian sleep/wake cycle,BP
+Cerebrovascular disease,GO:0042752,1,regulation of circadian rhythm,BP
+Cerebrovascular disease,GO:0042756,1,drinking behavior,BP
+Cerebrovascular disease,GO:0043266,1,regulation of potassium ion transport,BP
+Cerebrovascular disease,GO:0043268,1,positive regulation of potassium ion transport,BP
+Cerebrovascular disease,GO:0043271,1,negative regulation of monoatomic ion transport,BP
+Cerebrovascular disease,GO:0043524,1,negative regulation of neuron apoptotic process,BP
+Cerebrovascular disease,GO:0043691,1,reverse cholesterol transport,BP
+Cerebrovascular disease,GO:0043949,1,regulation of cAMP-mediated signaling,BP
+Cerebrovascular disease,GO:0044060,1,regulation of endocrine process,BP
+Cerebrovascular disease,GO:0045187,1,"regulation of circadian sleep/wake cycle, sleep",BP
+Cerebrovascular disease,GO:0045744,1,negative regulation of G protein-coupled receptor signaling pathway,BP
+Cerebrovascular disease,GO:0045761,1,regulation of adenylate cyclase activity,BP
+Cerebrovascular disease,GO:0045776,1,negative regulation of blood pressure,BP
+Cerebrovascular disease,GO:0045932,1,negative regulation of muscle contraction,BP
+Cerebrovascular disease,GO:0045933,1,positive regulation of muscle contraction,BP
+Cerebrovascular disease,GO:0045986,1,negative regulation of smooth muscle contraction,BP
+Cerebrovascular disease,GO:0045987,1,positive regulation of smooth muscle contraction,BP
+Cerebrovascular disease,GO:0046546,1,development of primary male sexual characteristics,BP
+Cerebrovascular disease,GO:0046620,1,regulation of organ growth,BP
+Cerebrovascular disease,GO:0046661,1,male sex differentiation,BP
+Cerebrovascular disease,GO:0046686,1,response to cadmium ion,BP
+Cerebrovascular disease,GO:0046888,1,negative regulation of hormone secretion,BP
+Cerebrovascular disease,GO:0048168,1,regulation of neuronal synaptic plasticity,BP
+Cerebrovascular disease,GO:0048169,1,regulation of long-term neuronal synaptic plasticity,BP
+Cerebrovascular disease,GO:0048592,1,eye morphogenesis,BP
+Cerebrovascular disease,GO:0048599,1,oocyte development,BP
+Cerebrovascular disease,GO:0048639,1,positive regulation of developmental growth,BP
+Cerebrovascular disease,GO:0048640,1,negative regulation of developmental growth,BP
+Cerebrovascular disease,GO:0050482,1,arachidonic acid secretion,BP
+Cerebrovascular disease,GO:0050709,1,negative regulation of protein secretion,BP
+Cerebrovascular disease,GO:0050796,1,regulation of insulin secretion,BP
+Cerebrovascular disease,GO:0050802,1,"circadian sleep/wake cycle, sleep",BP
+Cerebrovascular disease,GO:0050805,1,negative regulation of synaptic transmission,BP
+Cerebrovascular disease,GO:0050806,1,positive regulation of synaptic transmission,BP
+Cerebrovascular disease,GO:0050886,1,endocrine process,BP
+Cerebrovascular disease,GO:0050892,1,intestinal absorption,BP
+Cerebrovascular disease,GO:0050995,1,negative regulation of lipid catabolic process,BP
+Cerebrovascular disease,GO:0051100,1,negative regulation of binding,BP
+Cerebrovascular disease,GO:0051180,1,vitamin transport,BP
+Cerebrovascular disease,GO:0051208,1,sequestering of calcium ion,BP
+Cerebrovascular disease,GO:0051209,1,release of sequestered calcium ion into cytosol,BP
+Cerebrovascular disease,GO:0051282,1,regulation of sequestering of calcium ion,BP
+Cerebrovascular disease,GO:0051283,1,negative regulation of sequestering of calcium ion,BP
+Cerebrovascular disease,GO:0051339,1,regulation of lyase activity,BP
+Cerebrovascular disease,GO:0051384,1,response to glucocorticoid,BP
+Cerebrovascular disease,GO:0051450,1,myoblast proliferation,BP
+Cerebrovascular disease,GO:0051588,1,regulation of neurotransmitter transport,BP
+Cerebrovascular disease,GO:0051592,1,response to calcium ion,BP
+Cerebrovascular disease,GO:0051926,1,negative regulation of calcium ion transport,BP
+Cerebrovascular disease,GO:0051932,1,"synaptic transmission, GABAergic",BP
+Cerebrovascular disease,GO:0051955,1,regulation of amino acid transport,BP
+Cerebrovascular disease,GO:0051966,1,"regulation of synaptic transmission, glutamatergic",BP
+Cerebrovascular disease,GO:0055017,1,cardiac muscle tissue growth,BP
+Cerebrovascular disease,GO:0055021,1,regulation of cardiac muscle tissue growth,BP
+Cerebrovascular disease,GO:0055094,1,response to lipoprotein particle,BP
+Cerebrovascular disease,GO:0060048,1,cardiac muscle contraction,BP
+Cerebrovascular disease,GO:0060078,1,regulation of postsynaptic membrane potential,BP
+Cerebrovascular disease,GO:0060079,1,excitatory postsynaptic potential,BP
+Cerebrovascular disease,GO:0060191,1,regulation of lipase activity,BP
+Cerebrovascular disease,GO:0060193,1,positive regulation of lipase activity,BP
+Cerebrovascular disease,GO:0060291,1,long-term synaptic potentiation,BP
+Cerebrovascular disease,GO:0060402,1,calcium ion transport into cytosol,BP
+Cerebrovascular disease,GO:0060419,1,heart growth,BP
+Cerebrovascular disease,GO:0060420,1,regulation of heart growth,BP
+Cerebrovascular disease,GO:0060986,1,endocrine hormone secretion,BP
+Cerebrovascular disease,GO:0061049,1,cell growth involved in cardiac muscle cell development,BP
+Cerebrovascular disease,GO:0061097,1,regulation of protein tyrosine kinase activity,BP
+Cerebrovascular disease,GO:0061614,1,miRNA transcription,BP
+Cerebrovascular disease,GO:0070001,1,aspartic-type peptidase activity,MF
+Cerebrovascular disease,GO:0071260,1,cellular response to mechanical stimulus,BP
+Cerebrovascular disease,GO:0071402,1,cellular response to lipoprotein particle stimulus,BP
+Cerebrovascular disease,GO:0071404,1,cellular response to low-density lipoprotein particle stimulus,BP
+Cerebrovascular disease,GO:0071453,1,cellular response to oxygen levels,BP
+Cerebrovascular disease,GO:0071715,1,icosanoid transport,BP
+Cerebrovascular disease,GO:0071902,1,positive regulation of protein serine/threonine kinase activity,BP
+Cerebrovascular disease,GO:0086013,1,membrane repolarization during cardiac muscle cell action potential,BP
+Cerebrovascular disease,GO:0090276,1,regulation of peptide hormone secretion,BP
+Cerebrovascular disease,GO:0097164,1,ammonium ion metabolic process,BP
+Cerebrovascular disease,GO:0098664,1,G protein-coupled serotonin receptor signaling pathway,BP
+Cerebrovascular disease,GO:0098992,1,neuronal dense core vesicle,CC
+Cerebrovascular disease,GO:0099565,1,"chemical synaptic transmission, postsynaptic",BP
+Cerebrovascular disease,GO:0099589,1,serotonin receptor activity,MF
+Cerebrovascular disease,GO:0140115,1,export across plasma membrane,BP
+Cerebrovascular disease,GO:0140272,1,exogenous protein binding,MF
+Cerebrovascular disease,GO:0140353,1,lipid export from cell,BP
+Cerebrovascular disease,GO:0140448,1,signaling receptor ligand precursor processing,BP
+Cerebrovascular disease,GO:0150076,1,neuroinflammatory response,BP
+Cerebrovascular disease,GO:0150104,1,transport across blood-brain barrier,BP
+Cerebrovascular disease,GO:1900271,1,regulation of long-term synaptic potentiation,BP
+Cerebrovascular disease,GO:1900273,1,positive regulation of long-term synaptic potentiation,BP
+Cerebrovascular disease,GO:1900274,1,regulation of phospholipase C activity,BP
+Cerebrovascular disease,GO:1901160,1,primary amino compound metabolic process,BP
+Cerebrovascular disease,GO:1902307,1,positive regulation of sodium ion transmembrane transport,BP
+Cerebrovascular disease,GO:1902600,1,proton transmembrane transport,BP
+Cerebrovascular disease,GO:1902652,1,secondary alcohol metabolic process,BP
+Cerebrovascular disease,GO:1902692,1,regulation of neuroblast proliferation,BP
+Cerebrovascular disease,GO:1902893,1,regulation of miRNA transcription,BP
+Cerebrovascular disease,GO:1903169,1,regulation of calcium ion transmembrane transport,BP
+Cerebrovascular disease,GO:1903963,1,arachidonate transport,BP
+Cerebrovascular disease,GO:1904063,1,negative regulation of cation transmembrane transport,BP
+Cerebrovascular disease,GO:1904645,1,response to amyloid-beta,BP
+Cerebrovascular disease,GO:1904646,1,cellular response to amyloid-beta,BP
+Cerebrovascular disease,GO:1904707,1,positive regulation of vascular associated smooth muscle cell proliferation,BP
+Cerebrovascular disease,GO:1905330,1,regulation of morphogenesis of an epithelium,BP
+Cerebrovascular disease,GO:1905332,1,positive regulation of morphogenesis of an epithelium,BP
+Cerebrovascular disease,GO:1905952,1,regulation of lipid localization,BP
+Cerebrovascular disease,GO:2000377,1,regulation of reactive oxygen species metabolic process,BP
+Cerebrovascular disease,GO:2000378,1,negative regulation of reactive oxygen species metabolic process,BP
+Cerebrovascular disease,GO:2000831,1,regulation of steroid hormone secretion,BP
+Cerebrovascular disease,GO:2000846,1,regulation of corticosteroid hormone secretion,BP
+Cerebrovascular disease,GO:2001257,1,regulation of cation channel activity,BP
+Heart failure,GO:0001504,5,neurotransmitter uptake,BP
+Heart failure,GO:0001505,5,regulation of neurotransmitter levels,BP
+Heart failure,GO:0008227,5,G protein-coupled amine receptor activity,MF
+Heart failure,GO:0015373,5,monoatomic anion:sodium symporter activity,MF
+Heart failure,GO:0015378,5,sodium:chloride symporter activity,MF
+Heart failure,GO:0015844,5,monoamine transport,BP
+Heart failure,GO:0015874,5,norepinephrine transport,BP
+Heart failure,GO:0051937,5,catecholamine transport,BP
+Heart failure,GO:0098810,5,neurotransmitter reuptake,BP
+Heart failure,GO:0001963,4,"synaptic transmission, dopaminergic",BP
+Heart failure,GO:0015081,4,sodium ion transmembrane transporter activity,MF
+Heart failure,GO:0015695,4,organic cation transport,BP
+Heart failure,GO:0019229,4,regulation of vasoconstriction,BP
+Heart failure,GO:0019369,4,arachidonic acid metabolic process,BP
+Heart failure,GO:0020037,4,heme binding,MF
+Heart failure,GO:0035725,4,sodium ion transmembrane transport,BP
+Heart failure,GO:0042734,4,presynaptic membrane,CC
+Heart failure,GO:0042759,4,long-chain fatty acid biosynthetic process,BP
+Heart failure,GO:0046906,4,tetrapyrrole binding,MF
+Heart failure,GO:0071466,4,cellular response to xenobiotic stimulus,BP
+Heart failure,GO:0071875,4,adrenergic receptor signaling pathway,BP
+Heart failure,GO:0071880,4,adenylate cyclase-activating adrenergic receptor signaling pathway,BP
+Heart failure,GO:0120254,4,olefinic compound metabolic process,BP
+Heart failure,GO:1901338,4,catecholamine binding,MF
+Heart failure,GO:0001676,3,long-chain fatty acid metabolic process,BP
+Heart failure,GO:0001975,3,response to amphetamine,BP
+Heart failure,GO:0003044,3,regulation of systemic arterial blood pressure mediated by a chemical signal,BP
+Heart failure,GO:0006584,3,catecholamine metabolic process,BP
+Heart failure,GO:0009309,3,amine biosynthetic process,BP
+Heart failure,GO:0009712,3,catechol-containing compound metabolic process,BP
+Heart failure,GO:0009713,3,catechol-containing compound biosynthetic process,BP
+Heart failure,GO:0010039,3,response to iron ion,BP
+Heart failure,GO:0014061,3,regulation of norepinephrine secretion,BP
+Heart failure,GO:0015837,3,amine transport,BP
+Heart failure,GO:0019098,3,reproductive behavior,BP
+Heart failure,GO:0031690,3,adrenergic receptor binding,MF
+Heart failure,GO:0035094,3,response to nicotine,BP
+Heart failure,GO:0035150,3,regulation of tube size,BP
+Heart failure,GO:0035296,3,regulation of tube diameter,BP
+Heart failure,GO:0042310,3,vasoconstriction,BP
+Heart failure,GO:0042401,3,biogenic amine biosynthetic process,BP
+Heart failure,GO:0042417,3,dopamine metabolic process,BP
+Heart failure,GO:0042423,3,catecholamine biosynthetic process,BP
+Heart failure,GO:0044298,3,cell body membrane,CC
+Heart failure,GO:0045664,3,regulation of neuron differentiation,BP
+Heart failure,GO:0045777,3,positive regulation of blood pressure,BP
+Heart failure,GO:0048243,3,norepinephrine secretion,BP
+Heart failure,GO:0050432,3,catecholamine secretion,BP
+Heart failure,GO:0051048,3,negative regulation of secretion,BP
+Heart failure,GO:0051952,3,regulation of amine transport,BP
+Heart failure,GO:0051953,3,negative regulation of amine transport,BP
+Heart failure,GO:0061098,3,positive regulation of protein tyrosine kinase activity,BP
+Heart failure,GO:0097746,3,blood vessel diameter maintenance,BP
+Heart failure,GO:1901020,3,negative regulation of calcium ion transmembrane transporter activity,BP
+Heart failure,GO:1903531,3,negative regulation of secretion by cell,BP
+Heart failure,GO:0002792,2,negative regulation of peptide secretion,BP
+Heart failure,GO:0005901,2,caveola,CC
+Heart failure,GO:0006576,2,biogenic amine metabolic process,BP
+Heart failure,GO:0006690,2,icosanoid metabolic process,BP
+Heart failure,GO:0006865,2,amino acid transport,BP
+Heart failure,GO:0006937,2,regulation of muscle contraction,BP
+Heart failure,GO:0006939,2,smooth muscle contraction,BP
+Heart failure,GO:0006940,2,regulation of smooth muscle contraction,BP
+Heart failure,GO:0007189,2,adenylate cyclase-activating G protein-coupled receptor signaling pathway,BP
+Heart failure,GO:0007193,2,adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway,BP
+Heart failure,GO:0007565,2,female pregnancy,BP
+Heart failure,GO:0007595,2,lactation,BP
+Heart failure,GO:0007617,2,mating behavior,BP
+Heart failure,GO:0008217,2,regulation of blood pressure,BP
+Heart failure,GO:0009308,2,amine metabolic process,BP
+Heart failure,GO:0010460,2,positive regulation of heart rate,BP
+Heart failure,GO:0014074,2,response to purine-containing compound,BP
+Heart failure,GO:0014075,2,response to amine,BP
+Heart failure,GO:0014856,2,skeletal muscle cell proliferation,BP
+Heart failure,GO:0015718,2,monocarboxylic acid transport,BP
+Heart failure,GO:0019825,2,oxygen binding,MF
+Heart failure,GO:0030168,2,platelet activation,BP
+Heart failure,GO:0032098,2,regulation of appetite,BP
+Heart failure,GO:0032147,2,activation of protein kinase activity,BP
+Heart failure,GO:0032148,2,activation of protein kinase B activity,BP
+Heart failure,GO:0033555,2,multicellular organismal response to stress,BP
+Heart failure,GO:0033559,2,unsaturated fatty acid metabolic process,BP
+Heart failure,GO:0040014,2,regulation of multicellular organism growth,BP
+Heart failure,GO:0042311,2,vasodilation,BP
+Heart failure,GO:0043279,2,response to alkaloid,BP
+Heart failure,GO:0044853,2,plasma membrane raft,CC
+Heart failure,GO:0045471,2,response to ethanol,BP
+Heart failure,GO:0045823,2,positive regulation of heart contraction,BP
+Heart failure,GO:0046621,2,negative regulation of organ growth,BP
+Heart failure,GO:0046676,2,negative regulation of insulin secretion,BP
+Heart failure,GO:0046683,2,response to organophosphorus,BP
+Heart failure,GO:0048265,2,response to pain,BP
+Heart failure,GO:0050433,2,regulation of catecholamine secretion,BP
+Heart failure,GO:0050905,2,neuromuscular process,BP
+Heart failure,GO:0050998,2,nitric-oxide synthase binding,MF
+Heart failure,GO:0051385,2,response to mineralocorticoid,BP
+Heart failure,GO:0051580,2,regulation of neurotransmitter uptake,BP
+Heart failure,GO:0051590,2,positive regulation of neurotransmitter transport,BP
+Heart failure,GO:0051954,2,positive regulation of amine transport,BP
+Heart failure,GO:0071276,2,cellular response to cadmium ion,BP
+Heart failure,GO:0071867,2,response to monoamine,BP
+Heart failure,GO:0071868,2,cellular response to monoamine stimulus,BP
+Heart failure,GO:0071869,2,response to catecholamine,BP
+Heart failure,GO:0071870,2,cellular response to catecholamine stimulus,BP
+Heart failure,GO:0090278,2,negative regulation of peptide hormone secretion,BP
+Heart failure,GO:0099171,2,presynaptic modulation of chemical synaptic transmission,BP
+Heart failure,GO:1903170,2,negative regulation of calcium ion transmembrane transport,BP
+Heart failure,GO:1903350,2,response to dopamine,BP
+Heart failure,GO:1903351,2,cellular response to dopamine,BP
+Heart failure,GO:1903409,2,reactive oxygen species biosynthetic process,BP
+Heart failure,GO:1903426,2,regulation of reactive oxygen species biosynthetic process,BP
+Heart failure,GO:1903524,2,positive regulation of blood circulation,BP
+Heart failure,GO:2000273,2,positive regulation of signaling receptor activity,BP
+Heart failure,GO:0001508,1,action potential,BP
+Heart failure,GO:0001556,1,oocyte maturation,BP
+Heart failure,GO:0001659,1,temperature homeostasis,BP
+Heart failure,GO:0001678,1,intracellular glucose homeostasis,BP
+Heart failure,GO:0001774,1,microglial cell activation,BP
+Heart failure,GO:0001976,1,nervous system process involved in regulation of systemic arterial blood pressure,BP
+Heart failure,GO:0001990,1,regulation of systemic arterial blood pressure by hormone,BP
+Heart failure,GO:0001991,1,regulation of systemic arterial blood pressure by circulatory renin-angiotensin,BP
+Heart failure,GO:0002002,1,regulation of angiotensin levels in blood,BP
+Heart failure,GO:0002026,1,regulation of the force of heart contraction,BP
+Heart failure,GO:0002027,1,regulation of heart rate,BP
+Heart failure,GO:0002029,1,desensitization of G protein-coupled receptor signaling pathway,BP
+Heart failure,GO:0002052,1,positive regulation of neuroblast proliferation,BP
+Heart failure,GO:0002269,1,leukocyte activation involved in inflammatory response,BP
+Heart failure,GO:0002675,1,positive regulation of acute inflammatory response,BP
+Heart failure,GO:0002761,1,regulation of myeloid leukocyte differentiation,BP
+Heart failure,GO:0002762,1,negative regulation of myeloid leukocyte differentiation,BP
+Heart failure,GO:0002791,1,regulation of peptide secretion,BP
+Heart failure,GO:0003071,1,renal system process involved in regulation of systemic arterial blood pressure,BP
+Heart failure,GO:0003073,1,regulation of systemic arterial blood pressure,BP
+Heart failure,GO:0003081,1,regulation of systemic arterial blood pressure by renin-angiotensin,BP
+Heart failure,GO:0003085,1,negative regulation of systemic arterial blood pressure,BP
+Heart failure,GO:0003298,1,physiological muscle hypertrophy,BP
+Heart failure,GO:0003301,1,physiological cardiac muscle hypertrophy,BP
+Heart failure,GO:0004860,1,protein kinase inhibitor activity,MF
+Heart failure,GO:0004993,1,G protein-coupled serotonin receptor activity,MF
+Heart failure,GO:0005159,1,insulin-like growth factor receptor binding,MF
+Heart failure,GO:0005504,1,fatty acid binding,MF
+Heart failure,GO:0005507,1,copper ion binding,MF
+Heart failure,GO:0006509,1,membrane protein ectodomain proteolysis,BP
+Heart failure,GO:0006633,1,fatty acid biosynthetic process,BP
+Heart failure,GO:0006835,1,dicarboxylic acid transport,BP
+Heart failure,GO:0006941,1,striated muscle contraction,BP
+Heart failure,GO:0007187,1,"G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",BP
+Heart failure,GO:0007200,1,phospholipase C-activating G protein-coupled receptor signaling pathway,BP
+Heart failure,GO:0007204,1,positive regulation of cytosolic calcium ion concentration,BP
+Heart failure,GO:0007210,1,serotonin receptor signaling pathway,BP
+Heart failure,GO:0007519,1,skeletal muscle tissue development,BP
+Heart failure,GO:0007566,1,embryo implantation,BP
+Heart failure,GO:0007612,1,learning,BP
+Heart failure,GO:0007613,1,memory,BP
+Heart failure,GO:0007622,1,rhythmic behavior,BP
+Heart failure,GO:0007631,1,feeding behavior,BP
+Heart failure,GO:0007632,1,visual behavior,BP
+Heart failure,GO:0008203,1,cholesterol metabolic process,BP
+Heart failure,GO:0008277,1,regulation of G protein-coupled receptor signaling pathway,BP
+Heart failure,GO:0008306,1,associative learning,BP
+Heart failure,GO:0008542,1,visual learning,BP
+Heart failure,GO:0009267,1,cellular response to starvation,BP
+Heart failure,GO:0009411,1,response to UV,BP
+Heart failure,GO:0009994,1,oocyte differentiation,BP
+Heart failure,GO:0010232,1,vascular transport,BP
+Heart failure,GO:0010248,1,establishment or maintenance of transmembrane electrochemical gradient,BP
+Heart failure,GO:0010469,1,regulation of signaling receptor activity,BP
+Heart failure,GO:0010517,1,regulation of phospholipase activity,BP
+Heart failure,GO:0010518,1,positive regulation of phospholipase activity,BP
+Heart failure,GO:0010611,1,regulation of cardiac muscle hypertrophy,BP
+Heart failure,GO:0010765,1,positive regulation of sodium ion transport,BP
+Heart failure,GO:0010863,1,positive regulation of phospholipase C activity,BP
+Heart failure,GO:0010875,1,positive regulation of cholesterol efflux,BP
+Heart failure,GO:0010878,1,cholesterol storage,BP
+Heart failure,GO:0010885,1,regulation of cholesterol storage,BP
+Heart failure,GO:0010887,1,negative regulation of cholesterol storage,BP
+Heart failure,GO:0010888,1,negative regulation of lipid storage,BP
+Heart failure,GO:0014047,1,glutamate secretion,BP
+Heart failure,GO:0014048,1,regulation of glutamate secretion,BP
+Heart failure,GO:0014743,1,regulation of muscle hypertrophy,BP
+Heart failure,GO:0014823,1,response to activity,BP
+Heart failure,GO:0014829,1,vascular associated smooth muscle contraction,BP
+Heart failure,GO:0014854,1,response to inactivity,BP
+Heart failure,GO:0015276,1,ligand-gated monoatomic ion channel activity,MF
+Heart failure,GO:0015459,1,potassium channel regulator activity,MF
+Heart failure,GO:0015732,1,prostaglandin transport,BP
+Heart failure,GO:0015800,1,acidic amino acid transport,BP
+Heart failure,GO:0015908,1,fatty acid transport,BP
+Heart failure,GO:0016125,1,sterol metabolic process,BP
+Heart failure,GO:0016486,1,peptide hormone processing,BP
+Heart failure,GO:0019226,1,transmission of nerve impulse,BP
+Heart failure,GO:0022401,1,negative adaptation of signaling pathway,BP
+Heart failure,GO:0022410,1,circadian sleep/wake cycle process,BP
+Heart failure,GO:0022834,1,ligand-gated channel activity,MF
+Heart failure,GO:0023058,1,adaptation of signaling pathway,BP
+Heart failure,GO:0030073,1,insulin secretion,BP
+Heart failure,GO:0030252,1,growth hormone secretion,BP
+Heart failure,GO:0030307,1,positive regulation of cell growth,BP
+Heart failure,GO:0030308,1,negative regulation of cell growth,BP
+Heart failure,GO:0030316,1,osteoclast differentiation,BP
+Heart failure,GO:0030431,1,sleep,BP
+Heart failure,GO:0031045,1,dense core granule,CC
+Heart failure,GO:0031256,1,leading edge membrane,CC
+Heart failure,GO:0031279,1,regulation of cyclase activity,BP
+Heart failure,GO:0031281,1,positive regulation of cyclase activity,BP
+Heart failure,GO:0031406,1,carboxylic acid binding,MF
+Heart failure,GO:0031623,1,receptor internalization,BP
+Heart failure,GO:0031644,1,regulation of nervous system process,BP
+Heart failure,GO:0031960,1,response to corticosteroid,BP
+Heart failure,GO:0032007,1,negative regulation of TOR signaling,BP
+Heart failure,GO:0032228,1,"regulation of synaptic transmission, GABAergic",BP
+Heart failure,GO:0032230,1,"positive regulation of synaptic transmission, GABAergic",BP
+Heart failure,GO:0032355,1,response to estradiol,BP
+Heart failure,GO:0032368,1,regulation of lipid transport,BP
+Heart failure,GO:0032373,1,positive regulation of sterol transport,BP
+Heart failure,GO:0032376,1,positive regulation of cholesterol transport,BP
+Heart failure,GO:0032410,1,negative regulation of transporter activity,BP
+Heart failure,GO:0032413,1,negative regulation of ion transmembrane transporter activity,BP
+Heart failure,GO:0032722,1,positive regulation of chemokine production,BP
+Heart failure,GO:0032881,1,regulation of polysaccharide metabolic process,BP
+Heart failure,GO:0032890,1,regulation of organic acid transport,BP
+Heart failure,GO:0032922,1,circadian regulation of gene expression,BP
+Heart failure,GO:0033293,1,monocarboxylic acid binding,MF
+Heart failure,GO:0034198,1,cellular response to amino acid starvation,BP
+Heart failure,GO:0034341,1,response to type II interferon,BP
+Heart failure,GO:0034614,1,cellular response to reactive oxygen species,BP
+Heart failure,GO:0034763,1,negative regulation of transmembrane transport,BP
+Heart failure,GO:0034766,1,negative regulation of monoatomic ion transmembrane transport,BP
+Heart failure,GO:0035051,1,cardiocyte differentiation,BP
+Heart failure,GO:0035249,1,"synaptic transmission, glutamatergic",BP
+Heart failure,GO:0035264,1,multicellular organism growth,BP
+Heart failure,GO:0035265,1,organ growth,BP
+Heart failure,GO:0035270,1,endocrine system development,BP
+Heart failure,GO:0035809,1,regulation of urine volume,BP
+Heart failure,GO:0035810,1,positive regulation of urine volume,BP
+Heart failure,GO:0035929,1,steroid hormone secretion,BP
+Heart failure,GO:0035930,1,corticosteroid hormone secretion,BP
+Heart failure,GO:0035933,1,glucocorticoid secretion,BP
+Heart failure,GO:0035994,1,response to muscle stretch,BP
+Heart failure,GO:0036294,1,cellular response to decreased oxygen levels,BP
+Heart failure,GO:0042711,1,maternal behavior,BP
+Heart failure,GO:0042743,1,hydrogen peroxide metabolic process,BP
+Heart failure,GO:0042744,1,hydrogen peroxide catabolic process,BP
+Heart failure,GO:0042745,1,circadian sleep/wake cycle,BP
+Heart failure,GO:0042749,1,regulation of circadian sleep/wake cycle,BP
+Heart failure,GO:0042752,1,regulation of circadian rhythm,BP
+Heart failure,GO:0042755,1,eating behavior,BP
+Heart failure,GO:0042756,1,drinking behavior,BP
+Heart failure,GO:0043034,1,costamere,CC
+Heart failure,GO:0043197,1,dendritic spine,CC
+Heart failure,GO:0043198,1,dendritic shaft,CC
+Heart failure,GO:0043204,1,perikaryon,CC
+Heart failure,GO:0043266,1,regulation of potassium ion transport,BP
+Heart failure,GO:0043267,1,negative regulation of potassium ion transport,BP
+Heart failure,GO:0043268,1,positive regulation of potassium ion transport,BP
+Heart failure,GO:0043271,1,negative regulation of monoatomic ion transport,BP
+Heart failure,GO:0043524,1,negative regulation of neuron apoptotic process,BP
+Heart failure,GO:0043691,1,reverse cholesterol transport,BP
+Heart failure,GO:0043949,1,regulation of cAMP-mediated signaling,BP
+Heart failure,GO:0044060,1,regulation of endocrine process,BP
+Heart failure,GO:0044309,1,neuron spine,CC
+Heart failure,GO:0045187,1,"regulation of circadian sleep/wake cycle, sleep",BP
+Heart failure,GO:0045670,1,regulation of osteoclast differentiation,BP
+Heart failure,GO:0045744,1,negative regulation of G protein-coupled receptor signaling pathway,BP
+Heart failure,GO:0045761,1,regulation of adenylate cyclase activity,BP
+Heart failure,GO:0045776,1,negative regulation of blood pressure,BP
+Heart failure,GO:0045932,1,negative regulation of muscle contraction,BP
+Heart failure,GO:0045933,1,positive regulation of muscle contraction,BP
+Heart failure,GO:0045940,1,positive regulation of steroid metabolic process,BP
+Heart failure,GO:0045986,1,negative regulation of smooth muscle contraction,BP
+Heart failure,GO:0045987,1,positive regulation of smooth muscle contraction,BP
+Heart failure,GO:0046620,1,regulation of organ growth,BP
+Heart failure,GO:0046686,1,response to cadmium ion,BP
+Heart failure,GO:0046888,1,negative regulation of hormone secretion,BP
+Heart failure,GO:0048169,1,regulation of long-term neuronal synaptic plasticity,BP
+Heart failure,GO:0048512,1,circadian behavior,BP
+Heart failure,GO:0048599,1,oocyte development,BP
+Heart failure,GO:0048639,1,positive regulation of developmental growth,BP
+Heart failure,GO:0048640,1,negative regulation of developmental growth,BP
+Heart failure,GO:0048645,1,animal organ formation,BP
+Heart failure,GO:0050482,1,arachidonic acid secretion,BP
+Heart failure,GO:0050709,1,negative regulation of protein secretion,BP
+Heart failure,GO:0050795,1,regulation of behavior,BP
+Heart failure,GO:0050796,1,regulation of insulin secretion,BP
+Heart failure,GO:0050802,1,"circadian sleep/wake cycle, sleep",BP
+Heart failure,GO:0050805,1,negative regulation of synaptic transmission,BP
+Heart failure,GO:0050806,1,positive regulation of synaptic transmission,BP
+Heart failure,GO:0050886,1,endocrine process,BP
+Heart failure,GO:0050892,1,intestinal absorption,BP
+Heart failure,GO:0050995,1,negative regulation of lipid catabolic process,BP
+Heart failure,GO:0051043,1,regulation of membrane protein ectodomain proteolysis,BP
+Heart failure,GO:0051044,1,positive regulation of membrane protein ectodomain proteolysis,BP
+Heart failure,GO:0051100,1,negative regulation of binding,BP
+Heart failure,GO:0051208,1,sequestering of calcium ion,BP
+Heart failure,GO:0051209,1,release of sequestered calcium ion into cytosol,BP
+Heart failure,GO:0051282,1,regulation of sequestering of calcium ion,BP
+Heart failure,GO:0051283,1,negative regulation of sequestering of calcium ion,BP
+Heart failure,GO:0051302,1,regulation of cell division,BP
+Heart failure,GO:0051339,1,regulation of lyase activity,BP
+Heart failure,GO:0051384,1,response to glucocorticoid,BP
+Heart failure,GO:0051450,1,myoblast proliferation,BP
+Heart failure,GO:0051480,1,regulation of cytosolic calcium ion concentration,BP
+Heart failure,GO:0051588,1,regulation of neurotransmitter transport,BP
+Heart failure,GO:0051591,1,response to cAMP,BP
+Heart failure,GO:0051592,1,response to calcium ion,BP
+Heart failure,GO:0051602,1,response to electrical stimulus,BP
+Heart failure,GO:0051657,1,maintenance of organelle location,BP
+Heart failure,GO:0051781,1,positive regulation of cell division,BP
+Heart failure,GO:0051926,1,negative regulation of calcium ion transport,BP
+Heart failure,GO:0051932,1,"synaptic transmission, GABAergic",BP
+Heart failure,GO:0051955,1,regulation of amino acid transport,BP
+Heart failure,GO:0051966,1,"regulation of synaptic transmission, glutamatergic",BP
+Heart failure,GO:0055017,1,cardiac muscle tissue growth,BP
+Heart failure,GO:0055021,1,regulation of cardiac muscle tissue growth,BP
+Heart failure,GO:0055094,1,response to lipoprotein particle,BP
+Heart failure,GO:0060048,1,cardiac muscle contraction,BP
+Heart failure,GO:0060078,1,regulation of postsynaptic membrane potential,BP
+Heart failure,GO:0060079,1,excitatory postsynaptic potential,BP
+Heart failure,GO:0060123,1,regulation of growth hormone secretion,BP
+Heart failure,GO:0060191,1,regulation of lipase activity,BP
+Heart failure,GO:0060193,1,positive regulation of lipase activity,BP
+Heart failure,GO:0060259,1,regulation of feeding behavior,BP
+Heart failure,GO:0060291,1,long-term synaptic potentiation,BP
+Heart failure,GO:0060402,1,calcium ion transport into cytosol,BP
+Heart failure,GO:0060419,1,heart growth,BP
+Heart failure,GO:0060420,1,regulation of heart growth,BP
+Heart failure,GO:0060538,1,skeletal muscle organ development,BP
+Heart failure,GO:0060746,1,parental behavior,BP
+Heart failure,GO:0060986,1,endocrine hormone secretion,BP
+Heart failure,GO:0061049,1,cell growth involved in cardiac muscle cell development,BP
+Heart failure,GO:0061097,1,regulation of protein tyrosine kinase activity,BP
+Heart failure,GO:0061614,1,miRNA transcription,BP
+Heart failure,GO:0061900,1,glial cell activation,BP
+Heart failure,GO:0070050,1,neuron cellular homeostasis,BP
+Heart failure,GO:0070412,1,R-SMAD binding,MF
+Heart failure,GO:0070849,1,response to epidermal growth factor,BP
+Heart failure,GO:0070873,1,regulation of glycogen metabolic process,BP
+Heart failure,GO:0071260,1,cellular response to mechanical stimulus,BP
+Heart failure,GO:0071364,1,cellular response to epidermal growth factor stimulus,BP
+Heart failure,GO:0071402,1,cellular response to lipoprotein particle stimulus,BP
+Heart failure,GO:0071404,1,cellular response to low-density lipoprotein particle stimulus,BP
+Heart failure,GO:0071453,1,cellular response to oxygen levels,BP
+Heart failure,GO:0071715,1,icosanoid transport,BP
+Heart failure,GO:0071855,1,neuropeptide receptor binding,MF
+Heart failure,GO:0071902,1,positive regulation of protein serine/threonine kinase activity,BP
+Heart failure,GO:0086013,1,membrane repolarization during cardiac muscle cell action potential,BP
+Heart failure,GO:0086014,1,atrial cardiac muscle cell action potential,BP
+Heart failure,GO:0086026,1,atrial cardiac muscle cell to AV node cell signaling,BP
+Heart failure,GO:0086066,1,atrial cardiac muscle cell to AV node cell communication,BP
+Heart failure,GO:0090181,1,regulation of cholesterol metabolic process,BP
+Heart failure,GO:0090276,1,regulation of peptide hormone secretion,BP
+Heart failure,GO:0090279,1,regulation of calcium ion import,BP
+Heart failure,GO:0097306,1,cellular response to alcohol,BP
+Heart failure,GO:0098664,1,G protein-coupled serotonin receptor signaling pathway,BP
+Heart failure,GO:0098992,1,neuronal dense core vesicle,CC
+Heart failure,GO:0099565,1,"chemical synaptic transmission, postsynaptic",BP
+Heart failure,GO:0099589,1,serotonin receptor activity,MF
+Heart failure,GO:0099624,1,atrial cardiac muscle cell membrane repolarization,BP
+Heart failure,GO:0099625,1,ventricular cardiac muscle cell membrane repolarization,BP
+Heart failure,GO:0106106,1,cold-induced thermogenesis,BP
+Heart failure,GO:0120161,1,regulation of cold-induced thermogenesis,BP
+Heart failure,GO:0120162,1,positive regulation of cold-induced thermogenesis,BP
+Heart failure,GO:0140115,1,export across plasma membrane,BP
+Heart failure,GO:0140353,1,lipid export from cell,BP
+Heart failure,GO:0140448,1,signaling receptor ligand precursor processing,BP
+Heart failure,GO:0150076,1,neuroinflammatory response,BP
+Heart failure,GO:0150104,1,transport across blood-brain barrier,BP
+Heart failure,GO:1900271,1,regulation of long-term synaptic potentiation,BP
+Heart failure,GO:1900273,1,positive regulation of long-term synaptic potentiation,BP
+Heart failure,GO:1900274,1,regulation of phospholipase C activity,BP
+Heart failure,GO:1901385,1,regulation of voltage-gated calcium channel activity,BP
+Heart failure,GO:1901386,1,negative regulation of voltage-gated calcium channel activity,BP
+Heart failure,GO:1902307,1,positive regulation of sodium ion transmembrane transport,BP
+Heart failure,GO:1902600,1,proton transmembrane transport,BP
+Heart failure,GO:1902652,1,secondary alcohol metabolic process,BP
+Heart failure,GO:1902692,1,regulation of neuroblast proliferation,BP
+Heart failure,GO:1902893,1,regulation of miRNA transcription,BP
+Heart failure,GO:1902895,1,positive regulation of miRNA transcription,BP
+Heart failure,GO:1903169,1,regulation of calcium ion transmembrane transport,BP
+Heart failure,GO:1903963,1,arachidonate transport,BP
+Heart failure,GO:1904063,1,negative regulation of cation transmembrane transport,BP
+Heart failure,GO:1904262,1,negative regulation of TORC1 signaling,BP
+Heart failure,GO:1904645,1,response to amyloid-beta,BP
+Heart failure,GO:1904646,1,cellular response to amyloid-beta,BP
+Heart failure,GO:1904707,1,positive regulation of vascular associated smooth muscle cell proliferation,BP
+Heart failure,GO:1905330,1,regulation of morphogenesis of an epithelium,BP
+Heart failure,GO:1905332,1,positive regulation of morphogenesis of an epithelium,BP
+Heart failure,GO:1905952,1,regulation of lipid localization,BP
+Heart failure,GO:1990845,1,adaptive thermogenesis,BP
+Heart failure,GO:1990928,1,response to amino acid starvation,BP
+Heart failure,GO:2000177,1,regulation of neural precursor cell proliferation,BP
+Heart failure,GO:2000179,1,positive regulation of neural precursor cell proliferation,BP
+Heart failure,GO:2000377,1,regulation of reactive oxygen species metabolic process,BP
+Heart failure,GO:2000378,1,negative regulation of reactive oxygen species metabolic process,BP
+Heart failure,GO:2000379,1,positive regulation of reactive oxygen species metabolic process,BP
+Heart failure,GO:2000573,1,positive regulation of DNA biosynthetic process,BP
+Heart failure,GO:2000630,1,positive regulation of miRNA metabolic process,BP
+Heart failure,GO:2000651,1,positive regulation of sodium ion transmembrane transporter activity,BP
+Heart failure,GO:2000831,1,regulation of steroid hormone secretion,BP
+Heart failure,GO:2000846,1,regulation of corticosteroid hormone secretion,BP
+Heart failure,GO:2000849,1,regulation of glucocorticoid secretion,BP
+Heart failure,GO:2001257,1,regulation of cation channel activity,BP
+Hypertension,GO:0001504,5,neurotransmitter uptake,BP
+Hypertension,GO:0004497,5,monooxygenase activity,MF
+Hypertension,GO:0008227,5,G protein-coupled amine receptor activity,MF
+Hypertension,GO:0015296,5,monoatomic anion:monoatomic cation symporter activity,MF
+Hypertension,GO:0015373,5,monoatomic anion:sodium symporter activity,MF
+Hypertension,GO:0015377,5,chloride:monoatomic cation symporter activity,MF
+Hypertension,GO:0015378,5,sodium:chloride symporter activity,MF
+Hypertension,GO:0015844,5,monoamine transport,BP
+Hypertension,GO:0015872,5,dopamine transport,BP
+Hypertension,GO:0015874,5,norepinephrine transport,BP
+Hypertension,GO:0016712,5,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",MF
+Hypertension,GO:0051937,5,catecholamine transport,BP
+Hypertension,GO:0090493,5,catecholamine uptake,BP
+Hypertension,GO:0090494,5,dopamine uptake,BP
+Hypertension,GO:0098810,5,neurotransmitter reuptake,BP
+Hypertension,GO:0001963,4,"synaptic transmission, dopaminergic",BP
+Hypertension,GO:0005506,4,iron ion binding,MF
+Hypertension,GO:0006805,4,xenobiotic metabolic process,BP
+Hypertension,GO:0008509,4,monoatomic anion transmembrane transporter activity,MF
+Hypertension,GO:0015081,4,sodium ion transmembrane transporter activity,MF
+Hypertension,GO:0015103,4,inorganic anion transmembrane transporter activity,MF
+Hypertension,GO:0015108,4,chloride transmembrane transporter activity,MF
+Hypertension,GO:0015370,4,solute:sodium symporter activity,MF
+Hypertension,GO:0015695,4,organic cation transport,BP
+Hypertension,GO:0016705,4,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",MF
+Hypertension,GO:0016709,4,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen",MF
+Hypertension,GO:0019229,4,regulation of vasoconstriction,BP
+Hypertension,GO:0019369,4,arachidonic acid metabolic process,BP
+Hypertension,GO:0020037,4,heme binding,MF
+Hypertension,GO:0035725,4,sodium ion transmembrane transport,BP
+Hypertension,GO:0042734,4,presynaptic membrane,CC
+Hypertension,GO:0042759,4,long-chain fatty acid biosynthetic process,BP
+Hypertension,GO:0046906,4,tetrapyrrole binding,MF
+Hypertension,GO:0051583,4,dopamine uptake involved in synaptic transmission,BP
+Hypertension,GO:0051934,4,catecholamine uptake involved in synaptic transmission,BP
+Hypertension,GO:0071466,4,cellular response to xenobiotic stimulus,BP
+Hypertension,GO:0071875,4,adrenergic receptor signaling pathway,BP
+Hypertension,GO:0071880,4,adenylate cyclase-activating adrenergic receptor signaling pathway,BP
+Hypertension,GO:0098691,4,dopaminergic synapse,CC
+Hypertension,GO:0120254,4,olefinic compound metabolic process,BP
+Hypertension,GO:1901338,4,catecholamine binding,MF
+Hypertension,GO:0001676,3,long-chain fatty acid metabolic process,BP
+Hypertension,GO:0001964,3,startle response,BP
+Hypertension,GO:0001975,3,response to amphetamine,BP
+Hypertension,GO:0003044,3,regulation of systemic arterial blood pressure mediated by a chemical signal,BP
+Hypertension,GO:0006584,3,catecholamine metabolic process,BP
+Hypertension,GO:0009712,3,catechol-containing compound metabolic process,BP
+Hypertension,GO:0009713,3,catechol-containing compound biosynthetic process,BP
+Hypertension,GO:0010039,3,response to iron ion,BP
+Hypertension,GO:0014061,3,regulation of norepinephrine secretion,BP
+Hypertension,GO:0015837,3,amine transport,BP
+Hypertension,GO:0019098,3,reproductive behavior,BP
+Hypertension,GO:0019748,3,secondary metabolic process,BP
+Hypertension,GO:0031690,3,adrenergic receptor binding,MF
+Hypertension,GO:0033604,3,negative regulation of catecholamine secretion,BP
+Hypertension,GO:0035094,3,response to nicotine,BP
+Hypertension,GO:0035150,3,regulation of tube size,BP
+Hypertension,GO:0035296,3,regulation of tube diameter,BP
+Hypertension,GO:0035902,3,response to immobilization stress,BP
+Hypertension,GO:0042310,3,vasoconstriction,BP
+Hypertension,GO:0042416,3,dopamine biosynthetic process,BP
+Hypertension,GO:0042417,3,dopamine metabolic process,BP
+Hypertension,GO:0042423,3,catecholamine biosynthetic process,BP
+Hypertension,GO:0042596,3,fear response,BP
+Hypertension,GO:0045777,3,positive regulation of blood pressure,BP
+Hypertension,GO:0048243,3,norepinephrine secretion,BP
+Hypertension,GO:0050432,3,catecholamine secretion,BP
+Hypertension,GO:0051048,3,negative regulation of secretion,BP
+Hypertension,GO:0051952,3,regulation of amine transport,BP
+Hypertension,GO:0051953,3,negative regulation of amine transport,BP
+Hypertension,GO:0060033,3,anatomical structure regression,BP
+Hypertension,GO:0060134,3,prepulse inhibition,BP
+Hypertension,GO:0061098,3,positive regulation of protein tyrosine kinase activity,BP
+Hypertension,GO:0097746,3,blood vessel diameter maintenance,BP
+Hypertension,GO:1901020,3,negative regulation of calcium ion transmembrane transporter activity,BP
+Hypertension,GO:1903531,3,negative regulation of secretion by cell,BP
+Hypertension,GO:0001046,2,core promoter sequence-specific DNA binding,MF
+Hypertension,GO:0002792,2,negative regulation of peptide secretion,BP
+Hypertension,GO:0005901,2,caveola,CC
+Hypertension,GO:0006576,2,biogenic amine metabolic process,BP
+Hypertension,GO:0006690,2,icosanoid metabolic process,BP
+Hypertension,GO:0006865,2,amino acid transport,BP
+Hypertension,GO:0006937,2,regulation of muscle contraction,BP
+Hypertension,GO:0006939,2,smooth muscle contraction,BP
+Hypertension,GO:0006940,2,regulation of smooth muscle contraction,BP
+Hypertension,GO:0007189,2,adenylate cyclase-activating G protein-coupled receptor signaling pathway,BP
+Hypertension,GO:0007193,2,adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway,BP
+Hypertension,GO:0007212,2,dopamine receptor signaling pathway,BP
+Hypertension,GO:0007565,2,female pregnancy,BP
+Hypertension,GO:0007595,2,lactation,BP
+Hypertension,GO:0007617,2,mating behavior,BP
+Hypertension,GO:0008217,2,regulation of blood pressure,BP
+Hypertension,GO:0009308,2,amine metabolic process,BP
+Hypertension,GO:0010460,2,positive regulation of heart rate,BP
+Hypertension,GO:0014074,2,response to purine-containing compound,BP
+Hypertension,GO:0014075,2,response to amine,BP
+Hypertension,GO:0015718,2,monocarboxylic acid transport,BP
+Hypertension,GO:0018958,2,phenol-containing compound metabolic process,BP
+Hypertension,GO:0019825,2,oxygen binding,MF
+Hypertension,GO:0030168,2,platelet activation,BP
+Hypertension,GO:0030534,2,adult behavior,BP
+Hypertension,GO:0032098,2,regulation of appetite,BP
+Hypertension,GO:0032147,2,activation of protein kinase activity,BP
+Hypertension,GO:0032148,2,activation of protein kinase B activity,BP
+Hypertension,GO:0033555,2,multicellular organismal response to stress,BP
+Hypertension,GO:0033559,2,unsaturated fatty acid metabolic process,BP
+Hypertension,GO:0035176,2,social behavior,BP
+Hypertension,GO:0035254,2,glutamate receptor binding,MF
+Hypertension,GO:0040014,2,regulation of multicellular organism growth,BP
+Hypertension,GO:0042311,2,vasodilation,BP
+Hypertension,GO:0042908,2,xenobiotic transport,BP
+Hypertension,GO:0043679,2,axon terminus,CC
+Hypertension,GO:0044306,2,neuron projection terminus,CC
+Hypertension,GO:0044853,2,plasma membrane raft,CC
+Hypertension,GO:0045471,2,response to ethanol,BP
+Hypertension,GO:0045823,2,positive regulation of heart contraction,BP
+Hypertension,GO:0046621,2,negative regulation of organ growth,BP
+Hypertension,GO:0046676,2,negative regulation of insulin secretion,BP
+Hypertension,GO:0046683,2,response to organophosphorus,BP
+Hypertension,GO:0048265,2,response to pain,BP
+Hypertension,GO:0050433,2,regulation of catecholamine secretion,BP
+Hypertension,GO:0050905,2,neuromuscular process,BP
+Hypertension,GO:0051385,2,response to mineralocorticoid,BP
+Hypertension,GO:0051412,2,response to corticosterone,BP
+Hypertension,GO:0051580,2,regulation of neurotransmitter uptake,BP
+Hypertension,GO:0051703,2,biological process involved in intraspecies interaction between organisms,BP
+Hypertension,GO:0051721,2,protein phosphatase 2A binding,MF
+Hypertension,GO:0051954,2,positive regulation of amine transport,BP
+Hypertension,GO:0071276,2,cellular response to cadmium ion,BP
+Hypertension,GO:0071867,2,response to monoamine,BP
+Hypertension,GO:0071868,2,cellular response to monoamine stimulus,BP
+Hypertension,GO:0071869,2,response to catecholamine,BP
+Hypertension,GO:0071870,2,cellular response to catecholamine stimulus,BP
+Hypertension,GO:0090278,2,negative regulation of peptide hormone secretion,BP
+Hypertension,GO:0099171,2,presynaptic modulation of chemical synaptic transmission,BP
+Hypertension,GO:0140467,2,integrated stress response signaling,BP
+Hypertension,GO:1903170,2,negative regulation of calcium ion transmembrane transport,BP
+Hypertension,GO:1903350,2,response to dopamine,BP
+Hypertension,GO:1903351,2,cellular response to dopamine,BP
+Hypertension,GO:1903409,2,reactive oxygen species biosynthetic process,BP
+Hypertension,GO:1903426,2,regulation of reactive oxygen species biosynthetic process,BP
+Hypertension,GO:1903524,2,positive regulation of blood circulation,BP
+Hypertension,GO:2000273,2,positive regulation of signaling receptor activity,BP
+Hypertension,GO:0001508,1,action potential,BP
+Hypertension,GO:0001659,1,temperature homeostasis,BP
+Hypertension,GO:0001662,1,behavioral fear response,BP
+Hypertension,GO:0001678,1,intracellular glucose homeostasis,BP
+Hypertension,GO:0001965,1,G-protein alpha-subunit binding,MF
+Hypertension,GO:0001976,1,nervous system process involved in regulation of systemic arterial blood pressure,BP
+Hypertension,GO:0001990,1,regulation of systemic arterial blood pressure by hormone,BP
+Hypertension,GO:0001991,1,regulation of systemic arterial blood pressure by circulatory renin-angiotensin,BP
+Hypertension,GO:0002002,1,regulation of angiotensin levels in blood,BP
+Hypertension,GO:0002026,1,regulation of the force of heart contraction,BP
+Hypertension,GO:0002027,1,regulation of heart rate,BP
+Hypertension,GO:0002029,1,desensitization of G protein-coupled receptor signaling pathway,BP
+Hypertension,GO:0002115,1,store-operated calcium entry,BP
+Hypertension,GO:0002209,1,behavioral defense response,BP
+Hypertension,GO:0002269,1,leukocyte activation involved in inflammatory response,BP
+Hypertension,GO:0002675,1,positive regulation of acute inflammatory response,BP
+Hypertension,GO:0002761,1,regulation of myeloid leukocyte differentiation,BP
+Hypertension,GO:0002762,1,negative regulation of myeloid leukocyte differentiation,BP
+Hypertension,GO:0002791,1,regulation of peptide secretion,BP
+Hypertension,GO:0003071,1,renal system process involved in regulation of systemic arterial blood pressure,BP
+Hypertension,GO:0003073,1,regulation of systemic arterial blood pressure,BP
+Hypertension,GO:0003081,1,regulation of systemic arterial blood pressure by renin-angiotensin,BP
+Hypertension,GO:0003085,1,negative regulation of systemic arterial blood pressure,BP
+Hypertension,GO:0003298,1,physiological muscle hypertrophy,BP
+Hypertension,GO:0003301,1,physiological cardiac muscle hypertrophy,BP
+Hypertension,GO:0003333,1,amino acid transmembrane transport,BP
+Hypertension,GO:0005159,1,insulin-like growth factor receptor binding,MF
+Hypertension,GO:0005184,1,neuropeptide hormone activity,MF
+Hypertension,GO:0005504,1,fatty acid binding,MF
+Hypertension,GO:0005507,1,copper ion binding,MF
+Hypertension,GO:0005903,1,brush border,CC
+Hypertension,GO:0006509,1,membrane protein ectodomain proteolysis,BP
+Hypertension,GO:0006633,1,fatty acid biosynthetic process,BP
+Hypertension,GO:0006835,1,dicarboxylic acid transport,BP
+Hypertension,GO:0006941,1,striated muscle contraction,BP
+Hypertension,GO:0007176,1,regulation of epidermal growth factor-activated receptor activity,BP
+Hypertension,GO:0007187,1,"G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",BP
+Hypertension,GO:0007200,1,phospholipase C-activating G protein-coupled receptor signaling pathway,BP
+Hypertension,GO:0007204,1,positive regulation of cytosolic calcium ion concentration,BP
+Hypertension,GO:0007218,1,neuropeptide signaling pathway,BP
+Hypertension,GO:0007519,1,skeletal muscle tissue development,BP
+Hypertension,GO:0007566,1,embryo implantation,BP
+Hypertension,GO:0007612,1,learning,BP
+Hypertension,GO:0007613,1,memory,BP
+Hypertension,GO:0007616,1,long-term memory,BP
+Hypertension,GO:0007622,1,rhythmic behavior,BP
+Hypertension,GO:0007631,1,feeding behavior,BP
+Hypertension,GO:0007632,1,visual behavior,BP
+Hypertension,GO:0008203,1,cholesterol metabolic process,BP
+Hypertension,GO:0008277,1,regulation of G protein-coupled receptor signaling pathway,BP
+Hypertension,GO:0008306,1,associative learning,BP
+Hypertension,GO:0008542,1,visual learning,BP
+Hypertension,GO:0008584,1,male gonad development,BP
+Hypertension,GO:0009267,1,cellular response to starvation,BP
+Hypertension,GO:0009404,1,toxin metabolic process,BP
+Hypertension,GO:0009411,1,response to UV,BP
+Hypertension,GO:0009994,1,oocyte differentiation,BP
+Hypertension,GO:0010042,1,response to manganese ion,BP
+Hypertension,GO:0010232,1,vascular transport,BP
+Hypertension,GO:0010248,1,establishment or maintenance of transmembrane electrochemical gradient,BP
+Hypertension,GO:0010469,1,regulation of signaling receptor activity,BP
+Hypertension,GO:0010517,1,regulation of phospholipase activity,BP
+Hypertension,GO:0010518,1,positive regulation of phospholipase activity,BP
+Hypertension,GO:0010611,1,regulation of cardiac muscle hypertrophy,BP
+Hypertension,GO:0010863,1,positive regulation of phospholipase C activity,BP
+Hypertension,GO:0010875,1,positive regulation of cholesterol efflux,BP
+Hypertension,GO:0010878,1,cholesterol storage,BP
+Hypertension,GO:0010885,1,regulation of cholesterol storage,BP
+Hypertension,GO:0010887,1,negative regulation of cholesterol storage,BP
+Hypertension,GO:0010888,1,negative regulation of lipid storage,BP
+Hypertension,GO:0014047,1,glutamate secretion,BP
+Hypertension,GO:0014048,1,regulation of glutamate secretion,BP
+Hypertension,GO:0014743,1,regulation of muscle hypertrophy,BP
+Hypertension,GO:0014823,1,response to activity,BP
+Hypertension,GO:0014829,1,vascular associated smooth muscle contraction,BP
+Hypertension,GO:0014854,1,response to inactivity,BP
+Hypertension,GO:0014904,1,myotube cell development,BP
+Hypertension,GO:0015459,1,potassium channel regulator activity,MF
+Hypertension,GO:0015562,1,efflux transmembrane transporter activity,MF
+Hypertension,GO:0015732,1,prostaglandin transport,BP
+Hypertension,GO:0015800,1,acidic amino acid transport,BP
+Hypertension,GO:0015807,1,L-amino acid transport,BP
+Hypertension,GO:0015908,1,fatty acid transport,BP
+Hypertension,GO:0016125,1,sterol metabolic process,BP
+Hypertension,GO:0016486,1,peptide hormone processing,BP
+Hypertension,GO:0016597,1,amino acid binding,MF
+Hypertension,GO:0016638,1,"oxidoreductase activity, acting on the CH-NH2 group of donors",MF
+Hypertension,GO:0016641,1,"oxidoreductase activity, acting on the CH-NH2 group of donors, oxygen as acceptor",MF
+Hypertension,GO:0022401,1,negative adaptation of signaling pathway,BP
+Hypertension,GO:0022410,1,circadian sleep/wake cycle process,BP
+Hypertension,GO:0023058,1,adaptation of signaling pathway,BP
+Hypertension,GO:0030073,1,insulin secretion,BP
+Hypertension,GO:0030165,1,PDZ domain binding,MF
+Hypertension,GO:0030307,1,positive regulation of cell growth,BP
+Hypertension,GO:0030308,1,negative regulation of cell growth,BP
+Hypertension,GO:0030316,1,osteoclast differentiation,BP
+Hypertension,GO:0030431,1,sleep,BP
+Hypertension,GO:0031045,1,dense core granule,CC
+Hypertension,GO:0031279,1,regulation of cyclase activity,BP
+Hypertension,GO:0031281,1,positive regulation of cyclase activity,BP
+Hypertension,GO:0031406,1,carboxylic acid binding,MF
+Hypertension,GO:0031623,1,receptor internalization,BP
+Hypertension,GO:0031960,1,response to corticosteroid,BP
+Hypertension,GO:0032274,1,gonadotropin secretion,BP
+Hypertension,GO:0032276,1,regulation of gonadotropin secretion,BP
+Hypertension,GO:0032355,1,response to estradiol,BP
+Hypertension,GO:0032368,1,regulation of lipid transport,BP
+Hypertension,GO:0032373,1,positive regulation of sterol transport,BP
+Hypertension,GO:0032376,1,positive regulation of cholesterol transport,BP
+Hypertension,GO:0032410,1,negative regulation of transporter activity,BP
+Hypertension,GO:0032413,1,negative regulation of ion transmembrane transporter activity,BP
+Hypertension,GO:0032570,1,response to progesterone,BP
+Hypertension,GO:0032722,1,positive regulation of chemokine production,BP
+Hypertension,GO:0032881,1,regulation of polysaccharide metabolic process,BP
+Hypertension,GO:0032890,1,regulation of organic acid transport,BP
+Hypertension,GO:0033293,1,monocarboxylic acid binding,MF
+Hypertension,GO:0034308,1,primary alcohol metabolic process,BP
+Hypertension,GO:0034341,1,response to type II interferon,BP
+Hypertension,GO:0034614,1,cellular response to reactive oxygen species,BP
+Hypertension,GO:0034763,1,negative regulation of transmembrane transport,BP
+Hypertension,GO:0034766,1,negative regulation of monoatomic ion transmembrane transport,BP
+Hypertension,GO:0034776,1,response to histamine,BP
+Hypertension,GO:0035051,1,cardiocyte differentiation,BP
+Hypertension,GO:0035249,1,"synaptic transmission, glutamatergic",BP
+Hypertension,GO:0035264,1,multicellular organism growth,BP
+Hypertension,GO:0035265,1,organ growth,BP
+Hypertension,GO:0035270,1,endocrine system development,BP
+Hypertension,GO:0035640,1,exploration behavior,BP
+Hypertension,GO:0035809,1,regulation of urine volume,BP
+Hypertension,GO:0035810,1,positive regulation of urine volume,BP
+Hypertension,GO:0035929,1,steroid hormone secretion,BP
+Hypertension,GO:0035930,1,corticosteroid hormone secretion,BP
+Hypertension,GO:0035933,1,glucocorticoid secretion,BP
+Hypertension,GO:0035994,1,response to muscle stretch,BP
+Hypertension,GO:0036294,1,cellular response to decreased oxygen levels,BP
+Hypertension,GO:0042359,1,vitamin D metabolic process,BP
+Hypertension,GO:0042711,1,maternal behavior,BP
+Hypertension,GO:0042743,1,hydrogen peroxide metabolic process,BP
+Hypertension,GO:0042744,1,hydrogen peroxide catabolic process,BP
+Hypertension,GO:0042745,1,circadian sleep/wake cycle,BP
+Hypertension,GO:0042749,1,regulation of circadian sleep/wake cycle,BP
+Hypertension,GO:0042752,1,regulation of circadian rhythm,BP
+Hypertension,GO:0042755,1,eating behavior,BP
+Hypertension,GO:0042756,1,drinking behavior,BP
+Hypertension,GO:0043112,1,receptor metabolic process,BP
+Hypertension,GO:0043266,1,regulation of potassium ion transport,BP
+Hypertension,GO:0043267,1,negative regulation of potassium ion transport,BP
+Hypertension,GO:0043268,1,positive regulation of potassium ion transport,BP
+Hypertension,GO:0043271,1,negative regulation of monoatomic ion transport,BP
+Hypertension,GO:0043524,1,negative regulation of neuron apoptotic process,BP
+Hypertension,GO:0043691,1,reverse cholesterol transport,BP
+Hypertension,GO:0043950,1,positive regulation of cAMP-mediated signaling,BP
+Hypertension,GO:0044060,1,regulation of endocrine process,BP
+Hypertension,GO:0045187,1,"regulation of circadian sleep/wake cycle, sleep",BP
+Hypertension,GO:0045670,1,regulation of osteoclast differentiation,BP
+Hypertension,GO:0045744,1,negative regulation of G protein-coupled receptor signaling pathway,BP
+Hypertension,GO:0045761,1,regulation of adenylate cyclase activity,BP
+Hypertension,GO:0045776,1,negative regulation of blood pressure,BP
+Hypertension,GO:0045932,1,negative regulation of muscle contraction,BP
+Hypertension,GO:0045933,1,positive regulation of muscle contraction,BP
+Hypertension,GO:0045940,1,positive regulation of steroid metabolic process,BP
+Hypertension,GO:0045986,1,negative regulation of smooth muscle contraction,BP
+Hypertension,GO:0045987,1,positive regulation of smooth muscle contraction,BP
+Hypertension,GO:0046546,1,development of primary male sexual characteristics,BP
+Hypertension,GO:0046620,1,regulation of organ growth,BP
+Hypertension,GO:0046686,1,response to cadmium ion,BP
+Hypertension,GO:0046717,1,acid secretion,BP
+Hypertension,GO:0046888,1,negative regulation of hormone secretion,BP
+Hypertension,GO:0048168,1,regulation of neuronal synaptic plasticity,BP
+Hypertension,GO:0048169,1,regulation of long-term neuronal synaptic plasticity,BP
+Hypertension,GO:0048512,1,circadian behavior,BP
+Hypertension,GO:0048599,1,oocyte development,BP
+Hypertension,GO:0048639,1,positive regulation of developmental growth,BP
+Hypertension,GO:0050482,1,arachidonic acid secretion,BP
+Hypertension,GO:0050709,1,negative regulation of protein secretion,BP
+Hypertension,GO:0050795,1,regulation of behavior,BP
+Hypertension,GO:0050796,1,regulation of insulin secretion,BP
+Hypertension,GO:0050802,1,"circadian sleep/wake cycle, sleep",BP
+Hypertension,GO:0050805,1,negative regulation of synaptic transmission,BP
+Hypertension,GO:0050806,1,positive regulation of synaptic transmission,BP
+Hypertension,GO:0050886,1,endocrine process,BP
+Hypertension,GO:0050892,1,intestinal absorption,BP
+Hypertension,GO:0050995,1,negative regulation of lipid catabolic process,BP
+Hypertension,GO:0051043,1,regulation of membrane protein ectodomain proteolysis,BP
+Hypertension,GO:0051044,1,positive regulation of membrane protein ectodomain proteolysis,BP
+Hypertension,GO:0051100,1,negative regulation of binding,BP
+Hypertension,GO:0051208,1,sequestering of calcium ion,BP
+Hypertension,GO:0051209,1,release of sequestered calcium ion into cytosol,BP
+Hypertension,GO:0051282,1,regulation of sequestering of calcium ion,BP
+Hypertension,GO:0051283,1,negative regulation of sequestering of calcium ion,BP
+Hypertension,GO:0051302,1,regulation of cell division,BP
+Hypertension,GO:0051339,1,regulation of lyase activity,BP
+Hypertension,GO:0051384,1,response to glucocorticoid,BP
+Hypertension,GO:0051450,1,myoblast proliferation,BP
+Hypertension,GO:0051480,1,regulation of cytosolic calcium ion concentration,BP
+Hypertension,GO:0051591,1,response to cAMP,BP
+Hypertension,GO:0051592,1,response to calcium ion,BP
+Hypertension,GO:0051602,1,response to electrical stimulus,BP
+Hypertension,GO:0051781,1,positive regulation of cell division,BP
+Hypertension,GO:0051926,1,negative regulation of calcium ion transport,BP
+Hypertension,GO:0051955,1,regulation of amino acid transport,BP
+Hypertension,GO:0051966,1,"regulation of synaptic transmission, glutamatergic",BP
+Hypertension,GO:0055017,1,cardiac muscle tissue growth,BP
+Hypertension,GO:0055021,1,regulation of cardiac muscle tissue growth,BP
+Hypertension,GO:0055094,1,response to lipoprotein particle,BP
+Hypertension,GO:0060048,1,cardiac muscle contraction,BP
+Hypertension,GO:0060191,1,regulation of lipase activity,BP
+Hypertension,GO:0060193,1,positive regulation of lipase activity,BP
+Hypertension,GO:0060259,1,regulation of feeding behavior,BP
+Hypertension,GO:0060291,1,long-term synaptic potentiation,BP
+Hypertension,GO:0060402,1,calcium ion transport into cytosol,BP
+Hypertension,GO:0060419,1,heart growth,BP
+Hypertension,GO:0060420,1,regulation of heart growth,BP
+Hypertension,GO:0060538,1,skeletal muscle organ development,BP
+Hypertension,GO:0060746,1,parental behavior,BP
+Hypertension,GO:0060986,1,endocrine hormone secretion,BP
+Hypertension,GO:0061049,1,cell growth involved in cardiac muscle cell development,BP
+Hypertension,GO:0061097,1,regulation of protein tyrosine kinase activity,BP
+Hypertension,GO:0061614,1,miRNA transcription,BP
+Hypertension,GO:0061900,1,glial cell activation,BP
+Hypertension,GO:0070412,1,R-SMAD binding,MF
+Hypertension,GO:0070873,1,regulation of glycogen metabolic process,BP
+Hypertension,GO:0071107,1,response to parathyroid hormone,BP
+Hypertension,GO:0071260,1,cellular response to mechanical stimulus,BP
+Hypertension,GO:0071402,1,cellular response to lipoprotein particle stimulus,BP
+Hypertension,GO:0071404,1,cellular response to low-density lipoprotein particle stimulus,BP
+Hypertension,GO:0071453,1,cellular response to oxygen levels,BP
+Hypertension,GO:0071715,1,icosanoid transport,BP
+Hypertension,GO:0071855,1,neuropeptide receptor binding,MF
+Hypertension,GO:0071902,1,positive regulation of protein serine/threonine kinase activity,BP
+Hypertension,GO:0072170,1,metanephric tubule development,BP
+Hypertension,GO:0072207,1,metanephric epithelium development,BP
+Hypertension,GO:0072234,1,metanephric nephron tubule development,BP
+Hypertension,GO:0072243,1,metanephric nephron epithelium development,BP
+Hypertension,GO:0086014,1,atrial cardiac muscle cell action potential,BP
+Hypertension,GO:0086026,1,atrial cardiac muscle cell to AV node cell signaling,BP
+Hypertension,GO:0086066,1,atrial cardiac muscle cell to AV node cell communication,BP
+Hypertension,GO:0089718,1,amino acid import across plasma membrane,BP
+Hypertension,GO:0090181,1,regulation of cholesterol metabolic process,BP
+Hypertension,GO:0090205,1,positive regulation of cholesterol metabolic process,BP
+Hypertension,GO:0090276,1,regulation of peptide hormone secretion,BP
+Hypertension,GO:0090279,1,regulation of calcium ion import,BP
+Hypertension,GO:0097062,1,dendritic spine maintenance,BP
+Hypertension,GO:0097306,1,cellular response to alcohol,BP
+Hypertension,GO:0098664,1,G protein-coupled serotonin receptor signaling pathway,BP
+Hypertension,GO:0098862,1,cluster of actin-based cell projections,CC
+Hypertension,GO:0098982,1,GABA-ergic synapse,CC
+Hypertension,GO:0098992,1,neuronal dense core vesicle,CC
+Hypertension,GO:0106106,1,cold-induced thermogenesis,BP
+Hypertension,GO:0120161,1,regulation of cold-induced thermogenesis,BP
+Hypertension,GO:0120162,1,positive regulation of cold-induced thermogenesis,BP
+Hypertension,GO:0120163,1,negative regulation of cold-induced thermogenesis,BP
+Hypertension,GO:0140115,1,export across plasma membrane,BP
+Hypertension,GO:0140353,1,lipid export from cell,BP
+Hypertension,GO:0140448,1,signaling receptor ligand precursor processing,BP
+Hypertension,GO:0150076,1,neuroinflammatory response,BP
+Hypertension,GO:0150104,1,transport across blood-brain barrier,BP
+Hypertension,GO:0160041,1,neuropeptide activity,MF
+Hypertension,GO:1900271,1,regulation of long-term synaptic potentiation,BP
+Hypertension,GO:1900273,1,positive regulation of long-term synaptic potentiation,BP
+Hypertension,GO:1900274,1,regulation of phospholipase C activity,BP
+Hypertension,GO:1901385,1,regulation of voltage-gated calcium channel activity,BP
+Hypertension,GO:1901682,1,sulfur compound transmembrane transporter activity,MF
+Hypertension,GO:1902307,1,positive regulation of sodium ion transmembrane transport,BP
+Hypertension,GO:1902475,1,L-alpha-amino acid transmembrane transport,BP
+Hypertension,GO:1902600,1,proton transmembrane transport,BP
+Hypertension,GO:1902652,1,secondary alcohol metabolic process,BP
+Hypertension,GO:1902692,1,regulation of neuroblast proliferation,BP
+Hypertension,GO:1902893,1,regulation of miRNA transcription,BP
+Hypertension,GO:1902895,1,positive regulation of miRNA transcription,BP
+Hypertension,GO:1902950,1,regulation of dendritic spine maintenance,BP
+Hypertension,GO:1903169,1,regulation of calcium ion transmembrane transport,BP
+Hypertension,GO:1903427,1,negative regulation of reactive oxygen species biosynthetic process,BP
+Hypertension,GO:1903825,1,organic acid transmembrane transport,BP
+Hypertension,GO:1903963,1,arachidonate transport,BP
+Hypertension,GO:1904063,1,negative regulation of cation transmembrane transport,BP
+Hypertension,GO:1904645,1,response to amyloid-beta,BP
+Hypertension,GO:1904646,1,cellular response to amyloid-beta,BP
+Hypertension,GO:1904707,1,positive regulation of vascular associated smooth muscle cell proliferation,BP
+Hypertension,GO:1905039,1,carboxylic acid transmembrane transport,BP
+Hypertension,GO:1905330,1,regulation of morphogenesis of an epithelium,BP
+Hypertension,GO:1905332,1,positive regulation of morphogenesis of an epithelium,BP
+Hypertension,GO:1905952,1,regulation of lipid localization,BP
+Hypertension,GO:1990845,1,adaptive thermogenesis,BP
+Hypertension,GO:2000242,1,negative regulation of reproductive process,BP
+Hypertension,GO:2000377,1,regulation of reactive oxygen species metabolic process,BP
+Hypertension,GO:2000378,1,negative regulation of reactive oxygen species metabolic process,BP
+Hypertension,GO:2000379,1,positive regulation of reactive oxygen species metabolic process,BP
+Hypertension,GO:2000630,1,positive regulation of miRNA metabolic process,BP
+Hypertension,GO:2000651,1,positive regulation of sodium ion transmembrane transporter activity,BP
+Hypertension,GO:2000831,1,regulation of steroid hormone secretion,BP
+Hypertension,GO:2000846,1,regulation of corticosteroid hormone secretion,BP
+Hypertension,GO:2000849,1,regulation of glucocorticoid secretion,BP
+Hypertension,GO:2001257,1,regulation of cation channel activity,BP
+Ischemic heart disease,GO:0001504,5,neurotransmitter uptake,BP
+Ischemic heart disease,GO:0001505,5,regulation of neurotransmitter levels,BP
+Ischemic heart disease,GO:0006837,5,serotonin transport,BP
+Ischemic heart disease,GO:0008227,5,G protein-coupled amine receptor activity,MF
+Ischemic heart disease,GO:0015844,5,monoamine transport,BP
+Ischemic heart disease,GO:0015872,5,dopamine transport,BP
+Ischemic heart disease,GO:0015874,5,norepinephrine transport,BP
+Ischemic heart disease,GO:0051610,5,serotonin uptake,BP
+Ischemic heart disease,GO:0051937,5,catecholamine transport,BP
+Ischemic heart disease,GO:0090493,5,catecholamine uptake,BP
+Ischemic heart disease,GO:0090494,5,dopamine uptake,BP
+Ischemic heart disease,GO:0098810,5,neurotransmitter reuptake,BP
+Ischemic heart disease,GO:0006805,4,xenobiotic metabolic process,BP
+Ischemic heart disease,GO:0015081,4,sodium ion transmembrane transporter activity,MF
+Ischemic heart disease,GO:0015695,4,organic cation transport,BP
+Ischemic heart disease,GO:0016705,4,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",MF
+Ischemic heart disease,GO:0019229,4,regulation of vasoconstriction,BP
+Ischemic heart disease,GO:0019369,4,arachidonic acid metabolic process,BP
+Ischemic heart disease,GO:0020037,4,heme binding,MF
+Ischemic heart disease,GO:0035725,4,sodium ion transmembrane transport,BP
+Ischemic heart disease,GO:0042734,4,presynaptic membrane,CC
+Ischemic heart disease,GO:0042759,4,long-chain fatty acid biosynthetic process,BP
+Ischemic heart disease,GO:0043176,4,amine binding,MF
+Ischemic heart disease,GO:0046906,4,tetrapyrrole binding,MF
+Ischemic heart disease,GO:0071466,4,cellular response to xenobiotic stimulus,BP
+Ischemic heart disease,GO:0071875,4,adrenergic receptor signaling pathway,BP
+Ischemic heart disease,GO:0071880,4,adenylate cyclase-activating adrenergic receptor signaling pathway,BP
+Ischemic heart disease,GO:0120254,4,olefinic compound metabolic process,BP
+Ischemic heart disease,GO:0001676,3,long-chain fatty acid metabolic process,BP
+Ischemic heart disease,GO:0001975,3,response to amphetamine,BP
+Ischemic heart disease,GO:0003044,3,regulation of systemic arterial blood pressure mediated by a chemical signal,BP
+Ischemic heart disease,GO:0006584,3,catecholamine metabolic process,BP
+Ischemic heart disease,GO:0009712,3,catechol-containing compound metabolic process,BP
+Ischemic heart disease,GO:0010039,3,response to iron ion,BP
+Ischemic heart disease,GO:0015837,3,amine transport,BP
+Ischemic heart disease,GO:0035094,3,response to nicotine,BP
+Ischemic heart disease,GO:0035150,3,regulation of tube size,BP
+Ischemic heart disease,GO:0035296,3,regulation of tube diameter,BP
+Ischemic heart disease,GO:0040018,3,positive regulation of multicellular organism growth,BP
+Ischemic heart disease,GO:0042310,3,vasoconstriction,BP
+Ischemic heart disease,GO:0042417,3,dopamine metabolic process,BP
+Ischemic heart disease,GO:0042596,3,fear response,BP
+Ischemic heart disease,GO:0044298,3,cell body membrane,CC
+Ischemic heart disease,GO:0045664,3,regulation of neuron differentiation,BP
+Ischemic heart disease,GO:0045777,3,positive regulation of blood pressure,BP
+Ischemic heart disease,GO:0048241,3,epinephrine transport,BP
+Ischemic heart disease,GO:0051048,3,negative regulation of secretion,BP
+Ischemic heart disease,GO:0051608,3,histamine transport,BP
+Ischemic heart disease,GO:0051952,3,regulation of amine transport,BP
+Ischemic heart disease,GO:0051953,3,negative regulation of amine transport,BP
+Ischemic heart disease,GO:0061098,3,positive regulation of protein tyrosine kinase activity,BP
+Ischemic heart disease,GO:0097746,3,blood vessel diameter maintenance,BP
+Ischemic heart disease,GO:1901020,3,negative regulation of calcium ion transmembrane transporter activity,BP
+Ischemic heart disease,GO:1903531,3,negative regulation of secretion by cell,BP
+Ischemic heart disease,GO:0005901,2,caveola,CC
+Ischemic heart disease,GO:0006576,2,biogenic amine metabolic process,BP
+Ischemic heart disease,GO:0006690,2,icosanoid metabolic process,BP
+Ischemic heart disease,GO:0006865,2,amino acid transport,BP
+Ischemic heart disease,GO:0006937,2,regulation of muscle contraction,BP
+Ischemic heart disease,GO:0006939,2,smooth muscle contraction,BP
+Ischemic heart disease,GO:0006940,2,regulation of smooth muscle contraction,BP
+Ischemic heart disease,GO:0007189,2,adenylate cyclase-activating G protein-coupled receptor signaling pathway,BP
+Ischemic heart disease,GO:0007193,2,adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway,BP
+Ischemic heart disease,GO:0007565,2,female pregnancy,BP
+Ischemic heart disease,GO:0007595,2,lactation,BP
+Ischemic heart disease,GO:0008217,2,regulation of blood pressure,BP
+Ischemic heart disease,GO:0009308,2,amine metabolic process,BP
+Ischemic heart disease,GO:0010460,2,positive regulation of heart rate,BP
+Ischemic heart disease,GO:0014074,2,response to purine-containing compound,BP
+Ischemic heart disease,GO:0014075,2,response to amine,BP
+Ischemic heart disease,GO:0014856,2,skeletal muscle cell proliferation,BP
+Ischemic heart disease,GO:0015697,2,quaternary ammonium group transport,BP
+Ischemic heart disease,GO:0015718,2,monocarboxylic acid transport,BP
+Ischemic heart disease,GO:0030168,2,platelet activation,BP
+Ischemic heart disease,GO:0030534,2,adult behavior,BP
+Ischemic heart disease,GO:0030594,2,neurotransmitter receptor activity,MF
+Ischemic heart disease,GO:0031420,2,alkali metal ion binding,MF
+Ischemic heart disease,GO:0032147,2,activation of protein kinase activity,BP
+Ischemic heart disease,GO:0033555,2,multicellular organismal response to stress,BP
+Ischemic heart disease,GO:0033559,2,unsaturated fatty acid metabolic process,BP
+Ischemic heart disease,GO:0040014,2,regulation of multicellular organism growth,BP
+Ischemic heart disease,GO:0042311,2,vasodilation,BP
+Ischemic heart disease,GO:0042908,2,xenobiotic transport,BP
+Ischemic heart disease,GO:0043279,2,response to alkaloid,BP
+Ischemic heart disease,GO:0043679,2,axon terminus,CC
+Ischemic heart disease,GO:0044306,2,neuron projection terminus,CC
+Ischemic heart disease,GO:0044853,2,plasma membrane raft,CC
+Ischemic heart disease,GO:0045471,2,response to ethanol,BP
+Ischemic heart disease,GO:0045823,2,positive regulation of heart contraction,BP
+Ischemic heart disease,GO:0046621,2,negative regulation of organ growth,BP
+Ischemic heart disease,GO:0046683,2,response to organophosphorus,BP
+Ischemic heart disease,GO:0048265,2,response to pain,BP
+Ischemic heart disease,GO:0050433,2,regulation of catecholamine secretion,BP
+Ischemic heart disease,GO:0050905,2,neuromuscular process,BP
+Ischemic heart disease,GO:0050951,2,sensory perception of temperature stimulus,BP
+Ischemic heart disease,GO:0051378,2,serotonin binding,MF
+Ischemic heart disease,GO:0051385,2,response to mineralocorticoid,BP
+Ischemic heart disease,GO:0051954,2,positive regulation of amine transport,BP
+Ischemic heart disease,GO:0071276,2,cellular response to cadmium ion,BP
+Ischemic heart disease,GO:0071867,2,response to monoamine,BP
+Ischemic heart disease,GO:0071868,2,cellular response to monoamine stimulus,BP
+Ischemic heart disease,GO:0071869,2,response to catecholamine,BP
+Ischemic heart disease,GO:0071870,2,cellular response to catecholamine stimulus,BP
+Ischemic heart disease,GO:0099171,2,presynaptic modulation of chemical synaptic transmission,BP
+Ischemic heart disease,GO:0140467,2,integrated stress response signaling,BP
+Ischemic heart disease,GO:1901616,2,organic hydroxy compound catabolic process,BP
+Ischemic heart disease,GO:1903170,2,negative regulation of calcium ion transmembrane transport,BP
+Ischemic heart disease,GO:1903350,2,response to dopamine,BP
+Ischemic heart disease,GO:1903351,2,cellular response to dopamine,BP
+Ischemic heart disease,GO:1903409,2,reactive oxygen species biosynthetic process,BP
+Ischemic heart disease,GO:1903426,2,regulation of reactive oxygen species biosynthetic process,BP
+Ischemic heart disease,GO:1903524,2,positive regulation of blood circulation,BP
+Ischemic heart disease,GO:2000273,2,positive regulation of signaling receptor activity,BP
+Ischemic heart disease,GO:0001508,1,action potential,BP
+Ischemic heart disease,GO:0001659,1,temperature homeostasis,BP
+Ischemic heart disease,GO:0001662,1,behavioral fear response,BP
+Ischemic heart disease,GO:0001678,1,intracellular glucose homeostasis,BP
+Ischemic heart disease,GO:0001774,1,microglial cell activation,BP
+Ischemic heart disease,GO:0001821,1,histamine secretion,BP
+Ischemic heart disease,GO:0001976,1,nervous system process involved in regulation of systemic arterial blood pressure,BP
+Ischemic heart disease,GO:0001990,1,regulation of systemic arterial blood pressure by hormone,BP
+Ischemic heart disease,GO:0001991,1,regulation of systemic arterial blood pressure by circulatory renin-angiotensin,BP
+Ischemic heart disease,GO:0002002,1,regulation of angiotensin levels in blood,BP
+Ischemic heart disease,GO:0002026,1,regulation of the force of heart contraction,BP
+Ischemic heart disease,GO:0002027,1,regulation of heart rate,BP
+Ischemic heart disease,GO:0002052,1,positive regulation of neuroblast proliferation,BP
+Ischemic heart disease,GO:0002209,1,behavioral defense response,BP
+Ischemic heart disease,GO:0002269,1,leukocyte activation involved in inflammatory response,BP
+Ischemic heart disease,GO:0002279,1,mast cell activation involved in immune response,BP
+Ischemic heart disease,GO:0002448,1,mast cell mediated immunity,BP
+Ischemic heart disease,GO:0002675,1,positive regulation of acute inflammatory response,BP
+Ischemic heart disease,GO:0002761,1,regulation of myeloid leukocyte differentiation,BP
+Ischemic heart disease,GO:0002762,1,negative regulation of myeloid leukocyte differentiation,BP
+Ischemic heart disease,GO:0002791,1,regulation of peptide secretion,BP
+Ischemic heart disease,GO:0003071,1,renal system process involved in regulation of systemic arterial blood pressure,BP
+Ischemic heart disease,GO:0003073,1,regulation of systemic arterial blood pressure,BP
+Ischemic heart disease,GO:0003081,1,regulation of systemic arterial blood pressure by renin-angiotensin,BP
+Ischemic heart disease,GO:0003085,1,negative regulation of systemic arterial blood pressure,BP
+Ischemic heart disease,GO:0003298,1,physiological muscle hypertrophy,BP
+Ischemic heart disease,GO:0003301,1,physiological cardiac muscle hypertrophy,BP
+Ischemic heart disease,GO:0004993,1,G protein-coupled serotonin receptor activity,MF
+Ischemic heart disease,GO:0005159,1,insulin-like growth factor receptor binding,MF
+Ischemic heart disease,GO:0005319,1,lipid transporter activity,MF
+Ischemic heart disease,GO:0005504,1,fatty acid binding,MF
+Ischemic heart disease,GO:0006509,1,membrane protein ectodomain proteolysis,BP
+Ischemic heart disease,GO:0006633,1,fatty acid biosynthetic process,BP
+Ischemic heart disease,GO:0006775,1,fat-soluble vitamin metabolic process,BP
+Ischemic heart disease,GO:0006835,1,dicarboxylic acid transport,BP
+Ischemic heart disease,GO:0006941,1,striated muscle contraction,BP
+Ischemic heart disease,GO:0007187,1,"G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",BP
+Ischemic heart disease,GO:0007200,1,phospholipase C-activating G protein-coupled receptor signaling pathway,BP
+Ischemic heart disease,GO:0007204,1,positive regulation of cytosolic calcium ion concentration,BP
+Ischemic heart disease,GO:0007205,1,protein kinase C-activating G protein-coupled receptor signaling pathway,BP
+Ischemic heart disease,GO:0007210,1,serotonin receptor signaling pathway,BP
+Ischemic heart disease,GO:0007214,1,gamma-aminobutyric acid signaling pathway,BP
+Ischemic heart disease,GO:0007519,1,skeletal muscle tissue development,BP
+Ischemic heart disease,GO:0007566,1,embryo implantation,BP
+Ischemic heart disease,GO:0007613,1,memory,BP
+Ischemic heart disease,GO:0007622,1,rhythmic behavior,BP
+Ischemic heart disease,GO:0007631,1,feeding behavior,BP
+Ischemic heart disease,GO:0008203,1,cholesterol metabolic process,BP
+Ischemic heart disease,GO:0008277,1,regulation of G protein-coupled receptor signaling pathway,BP
+Ischemic heart disease,GO:0008584,1,male gonad development,BP
+Ischemic heart disease,GO:0009411,1,response to UV,BP
+Ischemic heart disease,GO:0009994,1,oocyte differentiation,BP
+Ischemic heart disease,GO:0010042,1,response to manganese ion,BP
+Ischemic heart disease,GO:0010232,1,vascular transport,BP
+Ischemic heart disease,GO:0010248,1,establishment or maintenance of transmembrane electrochemical gradient,BP
+Ischemic heart disease,GO:0010469,1,regulation of signaling receptor activity,BP
+Ischemic heart disease,GO:0010517,1,regulation of phospholipase activity,BP
+Ischemic heart disease,GO:0010518,1,positive regulation of phospholipase activity,BP
+Ischemic heart disease,GO:0010611,1,regulation of cardiac muscle hypertrophy,BP
+Ischemic heart disease,GO:0010765,1,positive regulation of sodium ion transport,BP
+Ischemic heart disease,GO:0010863,1,positive regulation of phospholipase C activity,BP
+Ischemic heart disease,GO:0010875,1,positive regulation of cholesterol efflux,BP
+Ischemic heart disease,GO:0010878,1,cholesterol storage,BP
+Ischemic heart disease,GO:0010885,1,regulation of cholesterol storage,BP
+Ischemic heart disease,GO:0010887,1,negative regulation of cholesterol storage,BP
+Ischemic heart disease,GO:0010888,1,negative regulation of lipid storage,BP
+Ischemic heart disease,GO:0014047,1,glutamate secretion,BP
+Ischemic heart disease,GO:0014048,1,regulation of glutamate secretion,BP
+Ischemic heart disease,GO:0014743,1,regulation of muscle hypertrophy,BP
+Ischemic heart disease,GO:0014823,1,response to activity,BP
+Ischemic heart disease,GO:0014829,1,vascular associated smooth muscle contraction,BP
+Ischemic heart disease,GO:0014854,1,response to inactivity,BP
+Ischemic heart disease,GO:0015732,1,prostaglandin transport,BP
+Ischemic heart disease,GO:0015800,1,acidic amino acid transport,BP
+Ischemic heart disease,GO:0015908,1,fatty acid transport,BP
+Ischemic heart disease,GO:0016125,1,sterol metabolic process,BP
+Ischemic heart disease,GO:0016486,1,peptide hormone processing,BP
+Ischemic heart disease,GO:0019226,1,transmission of nerve impulse,BP
+Ischemic heart disease,GO:0021762,1,substantia nigra development,BP
+Ischemic heart disease,GO:0022410,1,circadian sleep/wake cycle process,BP
+Ischemic heart disease,GO:0030073,1,insulin secretion,BP
+Ischemic heart disease,GO:0030307,1,positive regulation of cell growth,BP
+Ischemic heart disease,GO:0030308,1,negative regulation of cell growth,BP
+Ischemic heart disease,GO:0030316,1,osteoclast differentiation,BP
+Ischemic heart disease,GO:0030431,1,sleep,BP
+Ischemic heart disease,GO:0030672,1,synaptic vesicle membrane,CC
+Ischemic heart disease,GO:0031045,1,dense core granule,CC
+Ischemic heart disease,GO:0031279,1,regulation of cyclase activity,BP
+Ischemic heart disease,GO:0031281,1,positive regulation of cyclase activity,BP
+Ischemic heart disease,GO:0031406,1,carboxylic acid binding,MF
+Ischemic heart disease,GO:0031623,1,receptor internalization,BP
+Ischemic heart disease,GO:0031644,1,regulation of nervous system process,BP
+Ischemic heart disease,GO:0031960,1,response to corticosteroid,BP
+Ischemic heart disease,GO:0032228,1,"regulation of synaptic transmission, GABAergic",BP
+Ischemic heart disease,GO:0032355,1,response to estradiol,BP
+Ischemic heart disease,GO:0032366,1,intracellular sterol transport,BP
+Ischemic heart disease,GO:0032367,1,intracellular cholesterol transport,BP
+Ischemic heart disease,GO:0032368,1,regulation of lipid transport,BP
+Ischemic heart disease,GO:0032373,1,positive regulation of sterol transport,BP
+Ischemic heart disease,GO:0032376,1,positive regulation of cholesterol transport,BP
+Ischemic heart disease,GO:0032410,1,negative regulation of transporter activity,BP
+Ischemic heart disease,GO:0032413,1,negative regulation of ion transmembrane transporter activity,BP
+Ischemic heart disease,GO:0032570,1,response to progesterone,BP
+Ischemic heart disease,GO:0032722,1,positive regulation of chemokine production,BP
+Ischemic heart disease,GO:0032881,1,regulation of polysaccharide metabolic process,BP
+Ischemic heart disease,GO:0032890,1,regulation of organic acid transport,BP
+Ischemic heart disease,GO:0032922,1,circadian regulation of gene expression,BP
+Ischemic heart disease,GO:0032958,1,inositol phosphate biosynthetic process,BP
+Ischemic heart disease,GO:0033293,1,monocarboxylic acid binding,MF
+Ischemic heart disease,GO:0034308,1,primary alcohol metabolic process,BP
+Ischemic heart disease,GO:0034341,1,response to type II interferon,BP
+Ischemic heart disease,GO:0034614,1,cellular response to reactive oxygen species,BP
+Ischemic heart disease,GO:0034763,1,negative regulation of transmembrane transport,BP
+Ischemic heart disease,GO:0034766,1,negative regulation of monoatomic ion transmembrane transport,BP
+Ischemic heart disease,GO:0034776,1,response to histamine,BP
+Ischemic heart disease,GO:0035051,1,cardiocyte differentiation,BP
+Ischemic heart disease,GO:0035249,1,"synaptic transmission, glutamatergic",BP
+Ischemic heart disease,GO:0035264,1,multicellular organism growth,BP
+Ischemic heart disease,GO:0035265,1,organ growth,BP
+Ischemic heart disease,GO:0035270,1,endocrine system development,BP
+Ischemic heart disease,GO:0035640,1,exploration behavior,BP
+Ischemic heart disease,GO:0035809,1,regulation of urine volume,BP
+Ischemic heart disease,GO:0035810,1,positive regulation of urine volume,BP
+Ischemic heart disease,GO:0035929,1,steroid hormone secretion,BP
+Ischemic heart disease,GO:0035930,1,corticosteroid hormone secretion,BP
+Ischemic heart disease,GO:0035994,1,response to muscle stretch,BP
+Ischemic heart disease,GO:0036294,1,cellular response to decreased oxygen levels,BP
+Ischemic heart disease,GO:0036314,1,response to sterol,BP
+Ischemic heart disease,GO:0042362,1,fat-soluble vitamin biosynthetic process,BP
+Ischemic heart disease,GO:0042368,1,vitamin D biosynthetic process,BP
+Ischemic heart disease,GO:0042743,1,hydrogen peroxide metabolic process,BP
+Ischemic heart disease,GO:0042744,1,hydrogen peroxide catabolic process,BP
+Ischemic heart disease,GO:0042745,1,circadian sleep/wake cycle,BP
+Ischemic heart disease,GO:0042749,1,regulation of circadian sleep/wake cycle,BP
+Ischemic heart disease,GO:0042752,1,regulation of circadian rhythm,BP
+Ischemic heart disease,GO:0042755,1,eating behavior,BP
+Ischemic heart disease,GO:0043112,1,receptor metabolic process,BP
+Ischemic heart disease,GO:0043266,1,regulation of potassium ion transport,BP
+Ischemic heart disease,GO:0043268,1,positive regulation of potassium ion transport,BP
+Ischemic heart disease,GO:0043271,1,negative regulation of monoatomic ion transport,BP
+Ischemic heart disease,GO:0043303,1,mast cell degranulation,BP
+Ischemic heart disease,GO:0043524,1,negative regulation of neuron apoptotic process,BP
+Ischemic heart disease,GO:0043647,1,inositol phosphate metabolic process,BP
+Ischemic heart disease,GO:0043691,1,reverse cholesterol transport,BP
+Ischemic heart disease,GO:0044060,1,regulation of endocrine process,BP
+Ischemic heart disease,GO:0045187,1,"regulation of circadian sleep/wake cycle, sleep",BP
+Ischemic heart disease,GO:0045670,1,regulation of osteoclast differentiation,BP
+Ischemic heart disease,GO:0045672,1,positive regulation of osteoclast differentiation,BP
+Ischemic heart disease,GO:0045744,1,negative regulation of G protein-coupled receptor signaling pathway,BP
+Ischemic heart disease,GO:0045761,1,regulation of adenylate cyclase activity,BP
+Ischemic heart disease,GO:0045776,1,negative regulation of blood pressure,BP
+Ischemic heart disease,GO:0045932,1,negative regulation of muscle contraction,BP
+Ischemic heart disease,GO:0045933,1,positive regulation of muscle contraction,BP
+Ischemic heart disease,GO:0045940,1,positive regulation of steroid metabolic process,BP
+Ischemic heart disease,GO:0045986,1,negative regulation of smooth muscle contraction,BP
+Ischemic heart disease,GO:0045987,1,positive regulation of smooth muscle contraction,BP
+Ischemic heart disease,GO:0046173,1,polyol biosynthetic process,BP
+Ischemic heart disease,GO:0046546,1,development of primary male sexual characteristics,BP
+Ischemic heart disease,GO:0046620,1,regulation of organ growth,BP
+Ischemic heart disease,GO:0046661,1,male sex differentiation,BP
+Ischemic heart disease,GO:0046686,1,response to cadmium ion,BP
+Ischemic heart disease,GO:0046888,1,negative regulation of hormone secretion,BP
+Ischemic heart disease,GO:0048168,1,regulation of neuronal synaptic plasticity,BP
+Ischemic heart disease,GO:0048512,1,circadian behavior,BP
+Ischemic heart disease,GO:0048592,1,eye morphogenesis,BP
+Ischemic heart disease,GO:0048599,1,oocyte development,BP
+Ischemic heart disease,GO:0048639,1,positive regulation of developmental growth,BP
+Ischemic heart disease,GO:0048640,1,negative regulation of developmental growth,BP
+Ischemic heart disease,GO:0048645,1,animal organ formation,BP
+Ischemic heart disease,GO:0048857,1,neural nucleus development,BP
+Ischemic heart disease,GO:0050482,1,arachidonic acid secretion,BP
+Ischemic heart disease,GO:0050709,1,negative regulation of protein secretion,BP
+Ischemic heart disease,GO:0050795,1,regulation of behavior,BP
+Ischemic heart disease,GO:0050796,1,regulation of insulin secretion,BP
+Ischemic heart disease,GO:0050802,1,"circadian sleep/wake cycle, sleep",BP
+Ischemic heart disease,GO:0050805,1,negative regulation of synaptic transmission,BP
+Ischemic heart disease,GO:0050806,1,positive regulation of synaptic transmission,BP
+Ischemic heart disease,GO:0050886,1,endocrine process,BP
+Ischemic heart disease,GO:0050892,1,intestinal absorption,BP
+Ischemic heart disease,GO:0050995,1,negative regulation of lipid catabolic process,BP
+Ischemic heart disease,GO:0051043,1,regulation of membrane protein ectodomain proteolysis,BP
+Ischemic heart disease,GO:0051044,1,positive regulation of membrane protein ectodomain proteolysis,BP
+Ischemic heart disease,GO:0051100,1,negative regulation of binding,BP
+Ischemic heart disease,GO:0051208,1,sequestering of calcium ion,BP
+Ischemic heart disease,GO:0051209,1,release of sequestered calcium ion into cytosol,BP
+Ischemic heart disease,GO:0051282,1,regulation of sequestering of calcium ion,BP
+Ischemic heart disease,GO:0051283,1,negative regulation of sequestering of calcium ion,BP
+Ischemic heart disease,GO:0051302,1,regulation of cell division,BP
+Ischemic heart disease,GO:0051339,1,regulation of lyase activity,BP
+Ischemic heart disease,GO:0051384,1,response to glucocorticoid,BP
+Ischemic heart disease,GO:0051450,1,myoblast proliferation,BP
+Ischemic heart disease,GO:0051480,1,regulation of cytosolic calcium ion concentration,BP
+Ischemic heart disease,GO:0051591,1,response to cAMP,BP
+Ischemic heart disease,GO:0051592,1,response to calcium ion,BP
+Ischemic heart disease,GO:0051602,1,response to electrical stimulus,BP
+Ischemic heart disease,GO:0051781,1,positive regulation of cell division,BP
+Ischemic heart disease,GO:0051926,1,negative regulation of calcium ion transport,BP
+Ischemic heart disease,GO:0051932,1,"synaptic transmission, GABAergic",BP
+Ischemic heart disease,GO:0051955,1,regulation of amino acid transport,BP
+Ischemic heart disease,GO:0051966,1,"regulation of synaptic transmission, glutamatergic",BP
+Ischemic heart disease,GO:0055017,1,cardiac muscle tissue growth,BP
+Ischemic heart disease,GO:0055021,1,regulation of cardiac muscle tissue growth,BP
+Ischemic heart disease,GO:0055094,1,response to lipoprotein particle,BP
+Ischemic heart disease,GO:0060048,1,cardiac muscle contraction,BP
+Ischemic heart disease,GO:0060078,1,regulation of postsynaptic membrane potential,BP
+Ischemic heart disease,GO:0060079,1,excitatory postsynaptic potential,BP
+Ischemic heart disease,GO:0060191,1,regulation of lipase activity,BP
+Ischemic heart disease,GO:0060193,1,positive regulation of lipase activity,BP
+Ischemic heart disease,GO:0060291,1,long-term synaptic potentiation,BP
+Ischemic heart disease,GO:0060402,1,calcium ion transport into cytosol,BP
+Ischemic heart disease,GO:0060419,1,heart growth,BP
+Ischemic heart disease,GO:0060420,1,regulation of heart growth,BP
+Ischemic heart disease,GO:0060538,1,skeletal muscle organ development,BP
+Ischemic heart disease,GO:0060986,1,endocrine hormone secretion,BP
+Ischemic heart disease,GO:0061049,1,cell growth involved in cardiac muscle cell development,BP
+Ischemic heart disease,GO:0061614,1,miRNA transcription,BP
+Ischemic heart disease,GO:0061900,1,glial cell activation,BP
+Ischemic heart disease,GO:0070412,1,R-SMAD binding,MF
+Ischemic heart disease,GO:0070723,1,response to cholesterol,BP
+Ischemic heart disease,GO:0070849,1,response to epidermal growth factor,BP
+Ischemic heart disease,GO:0070873,1,regulation of glycogen metabolic process,BP
+Ischemic heart disease,GO:0071260,1,cellular response to mechanical stimulus,BP
+Ischemic heart disease,GO:0071312,1,cellular response to alkaloid,BP
+Ischemic heart disease,GO:0071364,1,cellular response to epidermal growth factor stimulus,BP
+Ischemic heart disease,GO:0071402,1,cellular response to lipoprotein particle stimulus,BP
+Ischemic heart disease,GO:0071404,1,cellular response to low-density lipoprotein particle stimulus,BP
+Ischemic heart disease,GO:0071453,1,cellular response to oxygen levels,BP
+Ischemic heart disease,GO:0071715,1,icosanoid transport,BP
+Ischemic heart disease,GO:0071902,1,positive regulation of protein serine/threonine kinase activity,BP
+Ischemic heart disease,GO:0086008,1,voltage-gated potassium channel activity involved in cardiac muscle cell action potential repolarization,MF
+Ischemic heart disease,GO:0086013,1,membrane repolarization during cardiac muscle cell action potential,BP
+Ischemic heart disease,GO:0086014,1,atrial cardiac muscle cell action potential,BP
+Ischemic heart disease,GO:0086026,1,atrial cardiac muscle cell to AV node cell signaling,BP
+Ischemic heart disease,GO:0086066,1,atrial cardiac muscle cell to AV node cell communication,BP
+Ischemic heart disease,GO:0090181,1,regulation of cholesterol metabolic process,BP
+Ischemic heart disease,GO:0090205,1,positive regulation of cholesterol metabolic process,BP
+Ischemic heart disease,GO:0090276,1,regulation of peptide hormone secretion,BP
+Ischemic heart disease,GO:0090279,1,regulation of calcium ion import,BP
+Ischemic heart disease,GO:0097306,1,cellular response to alcohol,BP
+Ischemic heart disease,GO:0098664,1,G protein-coupled serotonin receptor signaling pathway,BP
+Ischemic heart disease,GO:0098915,1,membrane repolarization during ventricular cardiac muscle cell action potential,BP
+Ischemic heart disease,GO:0098992,1,neuronal dense core vesicle,CC
+Ischemic heart disease,GO:0099501,1,exocytic vesicle membrane,CC
+Ischemic heart disease,GO:0099505,1,regulation of presynaptic membrane potential,BP
+Ischemic heart disease,GO:0099565,1,"chemical synaptic transmission, postsynaptic",BP
+Ischemic heart disease,GO:0099589,1,serotonin receptor activity,MF
+Ischemic heart disease,GO:0099624,1,atrial cardiac muscle cell membrane repolarization,BP
+Ischemic heart disease,GO:0099625,1,ventricular cardiac muscle cell membrane repolarization,BP
+Ischemic heart disease,GO:0106106,1,cold-induced thermogenesis,BP
+Ischemic heart disease,GO:0120161,1,regulation of cold-induced thermogenesis,BP
+Ischemic heart disease,GO:0120162,1,positive regulation of cold-induced thermogenesis,BP
+Ischemic heart disease,GO:0120163,1,negative regulation of cold-induced thermogenesis,BP
+Ischemic heart disease,GO:0140115,1,export across plasma membrane,BP
+Ischemic heart disease,GO:0140272,1,exogenous protein binding,MF
+Ischemic heart disease,GO:0140353,1,lipid export from cell,BP
+Ischemic heart disease,GO:0140448,1,signaling receptor ligand precursor processing,BP
+Ischemic heart disease,GO:0150076,1,neuroinflammatory response,BP
+Ischemic heart disease,GO:0150104,1,transport across blood-brain barrier,BP
+Ischemic heart disease,GO:1900271,1,regulation of long-term synaptic potentiation,BP
+Ischemic heart disease,GO:1900274,1,regulation of phospholipase C activity,BP
+Ischemic heart disease,GO:1901385,1,regulation of voltage-gated calcium channel activity,BP
+Ischemic heart disease,GO:1901998,1,toxin transport,BP
+Ischemic heart disease,GO:1902282,1,voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization,MF
+Ischemic heart disease,GO:1902307,1,positive regulation of sodium ion transmembrane transport,BP
+Ischemic heart disease,GO:1902652,1,secondary alcohol metabolic process,BP
+Ischemic heart disease,GO:1902692,1,regulation of neuroblast proliferation,BP
+Ischemic heart disease,GO:1902893,1,regulation of miRNA transcription,BP
+Ischemic heart disease,GO:1902895,1,positive regulation of miRNA transcription,BP
+Ischemic heart disease,GO:1903169,1,regulation of calcium ion transmembrane transport,BP
+Ischemic heart disease,GO:1903963,1,arachidonate transport,BP
+Ischemic heart disease,GO:1904063,1,negative regulation of cation transmembrane transport,BP
+Ischemic heart disease,GO:1904645,1,response to amyloid-beta,BP
+Ischemic heart disease,GO:1904646,1,cellular response to amyloid-beta,BP
+Ischemic heart disease,GO:1904707,1,positive regulation of vascular associated smooth muscle cell proliferation,BP
+Ischemic heart disease,GO:1905330,1,regulation of morphogenesis of an epithelium,BP
+Ischemic heart disease,GO:1905332,1,positive regulation of morphogenesis of an epithelium,BP
+Ischemic heart disease,GO:1905952,1,regulation of lipid localization,BP
+Ischemic heart disease,GO:1990845,1,adaptive thermogenesis,BP
+Ischemic heart disease,GO:2000242,1,negative regulation of reproductive process,BP
+Ischemic heart disease,GO:2000377,1,regulation of reactive oxygen species metabolic process,BP
+Ischemic heart disease,GO:2000378,1,negative regulation of reactive oxygen species metabolic process,BP
+Ischemic heart disease,GO:2000379,1,positive regulation of reactive oxygen species metabolic process,BP
+Ischemic heart disease,GO:2000573,1,positive regulation of DNA biosynthetic process,BP
+Ischemic heart disease,GO:2000630,1,positive regulation of miRNA metabolic process,BP
+Ischemic heart disease,GO:2000648,1,positive regulation of stem cell proliferation,BP
+Ischemic heart disease,GO:2000651,1,positive regulation of sodium ion transmembrane transporter activity,BP
+Ischemic heart disease,GO:2000831,1,regulation of steroid hormone secretion,BP
+Ischemic heart disease,GO:2000846,1,regulation of corticosteroid hormone secretion,BP
+Ischemic heart disease,GO:2001257,1,regulation of cation channel activity,BP
+Thromboembolic disease,GO:0001504,5,neurotransmitter uptake,BP
+Thromboembolic disease,GO:0008227,5,G protein-coupled amine receptor activity,MF
+Thromboembolic disease,GO:0015844,5,monoamine transport,BP
+Thromboembolic disease,GO:0098810,5,neurotransmitter reuptake,BP
+Thromboembolic disease,GO:0001963,4,"synaptic transmission, dopaminergic",BP
+Thromboembolic disease,GO:0005506,4,iron ion binding,MF
+Thromboembolic disease,GO:0015081,4,sodium ion transmembrane transporter activity,MF
+Thromboembolic disease,GO:0016705,4,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",MF
+Thromboembolic disease,GO:0019229,4,regulation of vasoconstriction,BP
+Thromboembolic disease,GO:0019369,4,arachidonic acid metabolic process,BP
+Thromboembolic disease,GO:0020037,4,heme binding,MF
+Thromboembolic disease,GO:0035725,4,sodium ion transmembrane transport,BP
+Thromboembolic disease,GO:0043176,4,amine binding,MF
+Thromboembolic disease,GO:0046906,4,tetrapyrrole binding,MF
+Thromboembolic disease,GO:0071466,4,cellular response to xenobiotic stimulus,BP
+Thromboembolic disease,GO:0071875,4,adrenergic receptor signaling pathway,BP
+Thromboembolic disease,GO:0071880,4,adenylate cyclase-activating adrenergic receptor signaling pathway,BP
+Thromboembolic disease,GO:0120254,4,olefinic compound metabolic process,BP
+Thromboembolic disease,GO:1901338,4,catecholamine binding,MF
+Thromboembolic disease,GO:0001975,3,response to amphetamine,BP
+Thromboembolic disease,GO:0003044,3,regulation of systemic arterial blood pressure mediated by a chemical signal,BP
+Thromboembolic disease,GO:0006584,3,catecholamine metabolic process,BP
+Thromboembolic disease,GO:0009712,3,catechol-containing compound metabolic process,BP
+Thromboembolic disease,GO:0010039,3,response to iron ion,BP
+Thromboembolic disease,GO:0015837,3,amine transport,BP
+Thromboembolic disease,GO:0032809,3,neuronal cell body membrane,CC
+Thromboembolic disease,GO:0035094,3,response to nicotine,BP
+Thromboembolic disease,GO:0035150,3,regulation of tube size,BP
+Thromboembolic disease,GO:0035296,3,regulation of tube diameter,BP
+Thromboembolic disease,GO:0035902,3,response to immobilization stress,BP
+Thromboembolic disease,GO:0042310,3,vasoconstriction,BP
+Thromboembolic disease,GO:0044298,3,cell body membrane,CC
+Thromboembolic disease,GO:0045777,3,positive regulation of blood pressure,BP
+Thromboembolic disease,GO:0048148,3,behavioral response to cocaine,BP
+Thromboembolic disease,GO:0051952,3,regulation of amine transport,BP
+Thromboembolic disease,GO:0051953,3,negative regulation of amine transport,BP
+Thromboembolic disease,GO:0061098,3,positive regulation of protein tyrosine kinase activity,BP
+Thromboembolic disease,GO:0097746,3,blood vessel diameter maintenance,BP
+Thromboembolic disease,GO:1901020,3,negative regulation of calcium ion transmembrane transporter activity,BP
+Thromboembolic disease,GO:1903531,3,negative regulation of secretion by cell,BP
+Thromboembolic disease,GO:0005901,2,caveola,CC
+Thromboembolic disease,GO:0006690,2,icosanoid metabolic process,BP
+Thromboembolic disease,GO:0006865,2,amino acid transport,BP
+Thromboembolic disease,GO:0006937,2,regulation of muscle contraction,BP
+Thromboembolic disease,GO:0006939,2,smooth muscle contraction,BP
+Thromboembolic disease,GO:0006940,2,regulation of smooth muscle contraction,BP
+Thromboembolic disease,GO:0007189,2,adenylate cyclase-activating G protein-coupled receptor signaling pathway,BP
+Thromboembolic disease,GO:0007193,2,adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway,BP
+Thromboembolic disease,GO:0007565,2,female pregnancy,BP
+Thromboembolic disease,GO:0007620,2,copulation,BP
+Thromboembolic disease,GO:0008217,2,regulation of blood pressure,BP
+Thromboembolic disease,GO:0014074,2,response to purine-containing compound,BP
+Thromboembolic disease,GO:0014075,2,response to amine,BP
+Thromboembolic disease,GO:0014856,2,skeletal muscle cell proliferation,BP
+Thromboembolic disease,GO:0015718,2,monocarboxylic acid transport,BP
+Thromboembolic disease,GO:0018958,2,phenol-containing compound metabolic process,BP
+Thromboembolic disease,GO:0030168,2,platelet activation,BP
+Thromboembolic disease,GO:0030534,2,adult behavior,BP
+Thromboembolic disease,GO:0030594,2,neurotransmitter receptor activity,MF
+Thromboembolic disease,GO:0031420,2,alkali metal ion binding,MF
+Thromboembolic disease,GO:0032147,2,activation of protein kinase activity,BP
+Thromboembolic disease,GO:0033555,2,multicellular organismal response to stress,BP
+Thromboembolic disease,GO:0033559,2,unsaturated fatty acid metabolic process,BP
+Thromboembolic disease,GO:0040014,2,regulation of multicellular organism growth,BP
+Thromboembolic disease,GO:0042311,2,vasodilation,BP
+Thromboembolic disease,GO:0043279,2,response to alkaloid,BP
+Thromboembolic disease,GO:0044306,2,neuron projection terminus,CC
+Thromboembolic disease,GO:0044853,2,plasma membrane raft,CC
+Thromboembolic disease,GO:0045471,2,response to ethanol,BP
+Thromboembolic disease,GO:0045823,2,positive regulation of heart contraction,BP
+Thromboembolic disease,GO:0046683,2,response to organophosphorus,BP
+Thromboembolic disease,GO:0048265,2,response to pain,BP
+Thromboembolic disease,GO:0048484,2,enteric nervous system development,BP
+Thromboembolic disease,GO:0050905,2,neuromuscular process,BP
+Thromboembolic disease,GO:0050951,2,sensory perception of temperature stimulus,BP
+Thromboembolic disease,GO:0051378,2,serotonin binding,MF
+Thromboembolic disease,GO:0051385,2,response to mineralocorticoid,BP
+Thromboembolic disease,GO:0051580,2,regulation of neurotransmitter uptake,BP
+Thromboembolic disease,GO:0051954,2,positive regulation of amine transport,BP
+Thromboembolic disease,GO:0071867,2,response to monoamine,BP
+Thromboembolic disease,GO:0071868,2,cellular response to monoamine stimulus,BP
+Thromboembolic disease,GO:0071869,2,response to catecholamine,BP
+Thromboembolic disease,GO:0071870,2,cellular response to catecholamine stimulus,BP
+Thromboembolic disease,GO:0099171,2,presynaptic modulation of chemical synaptic transmission,BP
+Thromboembolic disease,GO:1903170,2,negative regulation of calcium ion transmembrane transport,BP
+Thromboembolic disease,GO:1903350,2,response to dopamine,BP
+Thromboembolic disease,GO:1903351,2,cellular response to dopamine,BP
+Thromboembolic disease,GO:1903524,2,positive regulation of blood circulation,BP
+Thromboembolic disease,GO:2000273,2,positive regulation of signaling receptor activity,BP
+Thromboembolic disease,GO:0001508,1,action potential,BP
+Thromboembolic disease,GO:0001556,1,oocyte maturation,BP
+Thromboembolic disease,GO:0001659,1,temperature homeostasis,BP
+Thromboembolic disease,GO:0001976,1,nervous system process involved in regulation of systemic arterial blood pressure,BP
+Thromboembolic disease,GO:0001990,1,regulation of systemic arterial blood pressure by hormone,BP
+Thromboembolic disease,GO:0001991,1,regulation of systemic arterial blood pressure by circulatory renin-angiotensin,BP
+Thromboembolic disease,GO:0002002,1,regulation of angiotensin levels in blood,BP
+Thromboembolic disease,GO:0002026,1,regulation of the force of heart contraction,BP
+Thromboembolic disease,GO:0002027,1,regulation of heart rate,BP
+Thromboembolic disease,GO:0002029,1,desensitization of G protein-coupled receptor signaling pathway,BP
+Thromboembolic disease,GO:0002675,1,positive regulation of acute inflammatory response,BP
+Thromboembolic disease,GO:0002791,1,regulation of peptide secretion,BP
+Thromboembolic disease,GO:0003071,1,renal system process involved in regulation of systemic arterial blood pressure,BP
+Thromboembolic disease,GO:0003073,1,regulation of systemic arterial blood pressure,BP
+Thromboembolic disease,GO:0003081,1,regulation of systemic arterial blood pressure by renin-angiotensin,BP
+Thromboembolic disease,GO:0003085,1,negative regulation of systemic arterial blood pressure,BP
+Thromboembolic disease,GO:0003298,1,physiological muscle hypertrophy,BP
+Thromboembolic disease,GO:0003301,1,physiological cardiac muscle hypertrophy,BP
+Thromboembolic disease,GO:0004993,1,G protein-coupled serotonin receptor activity,MF
+Thromboembolic disease,GO:0005903,1,brush border,CC
+Thromboembolic disease,GO:0006633,1,fatty acid biosynthetic process,BP
+Thromboembolic disease,GO:0006941,1,striated muscle contraction,BP
+Thromboembolic disease,GO:0007187,1,"G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",BP
+Thromboembolic disease,GO:0007200,1,phospholipase C-activating G protein-coupled receptor signaling pathway,BP
+Thromboembolic disease,GO:0007204,1,positive regulation of cytosolic calcium ion concentration,BP
+Thromboembolic disease,GO:0007210,1,serotonin receptor signaling pathway,BP
+Thromboembolic disease,GO:0007566,1,embryo implantation,BP
+Thromboembolic disease,GO:0007612,1,learning,BP
+Thromboembolic disease,GO:0007622,1,rhythmic behavior,BP
+Thromboembolic disease,GO:0007631,1,feeding behavior,BP
+Thromboembolic disease,GO:0007632,1,visual behavior,BP
+Thromboembolic disease,GO:0008203,1,cholesterol metabolic process,BP
+Thromboembolic disease,GO:0008277,1,regulation of G protein-coupled receptor signaling pathway,BP
+Thromboembolic disease,GO:0008306,1,associative learning,BP
+Thromboembolic disease,GO:0008542,1,visual learning,BP
+Thromboembolic disease,GO:0009994,1,oocyte differentiation,BP
+Thromboembolic disease,GO:0010232,1,vascular transport,BP
+Thromboembolic disease,GO:0010248,1,establishment or maintenance of transmembrane electrochemical gradient,BP
+Thromboembolic disease,GO:0010469,1,regulation of signaling receptor activity,BP
+Thromboembolic disease,GO:0010517,1,regulation of phospholipase activity,BP
+Thromboembolic disease,GO:0010518,1,positive regulation of phospholipase activity,BP
+Thromboembolic disease,GO:0010611,1,regulation of cardiac muscle hypertrophy,BP
+Thromboembolic disease,GO:0010765,1,positive regulation of sodium ion transport,BP
+Thromboembolic disease,GO:0010863,1,positive regulation of phospholipase C activity,BP
+Thromboembolic disease,GO:0010888,1,negative regulation of lipid storage,BP
+Thromboembolic disease,GO:0014047,1,glutamate secretion,BP
+Thromboembolic disease,GO:0014048,1,regulation of glutamate secretion,BP
+Thromboembolic disease,GO:0014743,1,regulation of muscle hypertrophy,BP
+Thromboembolic disease,GO:0014823,1,response to activity,BP
+Thromboembolic disease,GO:0014829,1,vascular associated smooth muscle contraction,BP
+Thromboembolic disease,GO:0014854,1,response to inactivity,BP
+Thromboembolic disease,GO:0015732,1,prostaglandin transport,BP
+Thromboembolic disease,GO:0015800,1,acidic amino acid transport,BP
+Thromboembolic disease,GO:0015908,1,fatty acid transport,BP
+Thromboembolic disease,GO:0016125,1,sterol metabolic process,BP
+Thromboembolic disease,GO:0016486,1,peptide hormone processing,BP
+Thromboembolic disease,GO:0016597,1,amino acid binding,MF
+Thromboembolic disease,GO:0016725,1,"oxidoreductase activity, acting on CH or CH2 groups",MF
+Thromboembolic disease,GO:0019226,1,transmission of nerve impulse,BP
+Thromboembolic disease,GO:0022401,1,negative adaptation of signaling pathway,BP
+Thromboembolic disease,GO:0022410,1,circadian sleep/wake cycle process,BP
+Thromboembolic disease,GO:0023058,1,adaptation of signaling pathway,BP
+Thromboembolic disease,GO:0030073,1,insulin secretion,BP
+Thromboembolic disease,GO:0030307,1,positive regulation of cell growth,BP
+Thromboembolic disease,GO:0030431,1,sleep,BP
+Thromboembolic disease,GO:0031279,1,regulation of cyclase activity,BP
+Thromboembolic disease,GO:0031281,1,positive regulation of cyclase activity,BP
+Thromboembolic disease,GO:0031406,1,carboxylic acid binding,MF
+Thromboembolic disease,GO:0031623,1,receptor internalization,BP
+Thromboembolic disease,GO:0031644,1,regulation of nervous system process,BP
+Thromboembolic disease,GO:0031960,1,response to corticosteroid,BP
+Thromboembolic disease,GO:0032228,1,"regulation of synaptic transmission, GABAergic",BP
+Thromboembolic disease,GO:0032368,1,regulation of lipid transport,BP
+Thromboembolic disease,GO:0032410,1,negative regulation of transporter activity,BP
+Thromboembolic disease,GO:0032413,1,negative regulation of ion transmembrane transporter activity,BP
+Thromboembolic disease,GO:0032722,1,positive regulation of chemokine production,BP
+Thromboembolic disease,GO:0032890,1,regulation of organic acid transport,BP
+Thromboembolic disease,GO:0034614,1,cellular response to reactive oxygen species,BP
+Thromboembolic disease,GO:0034763,1,negative regulation of transmembrane transport,BP
+Thromboembolic disease,GO:0034766,1,negative regulation of monoatomic ion transmembrane transport,BP
+Thromboembolic disease,GO:0035051,1,cardiocyte differentiation,BP
+Thromboembolic disease,GO:0035249,1,"synaptic transmission, glutamatergic",BP
+Thromboembolic disease,GO:0035264,1,multicellular organism growth,BP
+Thromboembolic disease,GO:0035265,1,organ growth,BP
+Thromboembolic disease,GO:0035270,1,endocrine system development,BP
+Thromboembolic disease,GO:0035809,1,regulation of urine volume,BP
+Thromboembolic disease,GO:0035810,1,positive regulation of urine volume,BP
+Thromboembolic disease,GO:0036294,1,cellular response to decreased oxygen levels,BP
+Thromboembolic disease,GO:0042428,1,serotonin metabolic process,BP
+Thromboembolic disease,GO:0042430,1,indole-containing compound metabolic process,BP
+Thromboembolic disease,GO:0042743,1,hydrogen peroxide metabolic process,BP
+Thromboembolic disease,GO:0042744,1,hydrogen peroxide catabolic process,BP
+Thromboembolic disease,GO:0042745,1,circadian sleep/wake cycle,BP
+Thromboembolic disease,GO:0042749,1,regulation of circadian sleep/wake cycle,BP
+Thromboembolic disease,GO:0042752,1,regulation of circadian rhythm,BP
+Thromboembolic disease,GO:0042756,1,drinking behavior,BP
+Thromboembolic disease,GO:0043266,1,regulation of potassium ion transport,BP
+Thromboembolic disease,GO:0043268,1,positive regulation of potassium ion transport,BP
+Thromboembolic disease,GO:0043271,1,negative regulation of monoatomic ion transport,BP
+Thromboembolic disease,GO:0043691,1,reverse cholesterol transport,BP
+Thromboembolic disease,GO:0045187,1,"regulation of circadian sleep/wake cycle, sleep",BP
+Thromboembolic disease,GO:0045744,1,negative regulation of G protein-coupled receptor signaling pathway,BP
+Thromboembolic disease,GO:0045761,1,regulation of adenylate cyclase activity,BP
+Thromboembolic disease,GO:0045776,1,negative regulation of blood pressure,BP
+Thromboembolic disease,GO:0045932,1,negative regulation of muscle contraction,BP
+Thromboembolic disease,GO:0045933,1,positive regulation of muscle contraction,BP
+Thromboembolic disease,GO:0045986,1,negative regulation of smooth muscle contraction,BP
+Thromboembolic disease,GO:0045987,1,positive regulation of smooth muscle contraction,BP
+Thromboembolic disease,GO:0046888,1,negative regulation of hormone secretion,BP
+Thromboembolic disease,GO:0048512,1,circadian behavior,BP
+Thromboembolic disease,GO:0048599,1,oocyte development,BP
+Thromboembolic disease,GO:0050482,1,arachidonic acid secretion,BP
+Thromboembolic disease,GO:0050709,1,negative regulation of protein secretion,BP
+Thromboembolic disease,GO:0050795,1,regulation of behavior,BP
+Thromboembolic disease,GO:0050796,1,regulation of insulin secretion,BP
+Thromboembolic disease,GO:0050802,1,"circadian sleep/wake cycle, sleep",BP
+Thromboembolic disease,GO:0050805,1,negative regulation of synaptic transmission,BP
+Thromboembolic disease,GO:0050806,1,positive regulation of synaptic transmission,BP
+Thromboembolic disease,GO:0050886,1,endocrine process,BP
+Thromboembolic disease,GO:0050892,1,intestinal absorption,BP
+Thromboembolic disease,GO:0050995,1,negative regulation of lipid catabolic process,BP
+Thromboembolic disease,GO:0051043,1,regulation of membrane protein ectodomain proteolysis,BP
+Thromboembolic disease,GO:0051100,1,negative regulation of binding,BP
+Thromboembolic disease,GO:0051208,1,sequestering of calcium ion,BP
+Thromboembolic disease,GO:0051209,1,release of sequestered calcium ion into cytosol,BP
+Thromboembolic disease,GO:0051282,1,regulation of sequestering of calcium ion,BP
+Thromboembolic disease,GO:0051283,1,negative regulation of sequestering of calcium ion,BP
+Thromboembolic disease,GO:0051339,1,regulation of lyase activity,BP
+Thromboembolic disease,GO:0051384,1,response to glucocorticoid,BP
+Thromboembolic disease,GO:0051450,1,myoblast proliferation,BP
+Thromboembolic disease,GO:0051591,1,response to cAMP,BP
+Thromboembolic disease,GO:0051781,1,positive regulation of cell division,BP
+Thromboembolic disease,GO:0051926,1,negative regulation of calcium ion transport,BP
+Thromboembolic disease,GO:0051955,1,regulation of amino acid transport,BP
+Thromboembolic disease,GO:0051966,1,"regulation of synaptic transmission, glutamatergic",BP
+Thromboembolic disease,GO:0055017,1,cardiac muscle tissue growth,BP
+Thromboembolic disease,GO:0060048,1,cardiac muscle contraction,BP
+Thromboembolic disease,GO:0060078,1,regulation of postsynaptic membrane potential,BP
+Thromboembolic disease,GO:0060079,1,excitatory postsynaptic potential,BP
+Thromboembolic disease,GO:0060191,1,regulation of lipase activity,BP
+Thromboembolic disease,GO:0060193,1,positive regulation of lipase activity,BP
+Thromboembolic disease,GO:0060291,1,long-term synaptic potentiation,BP
+Thromboembolic disease,GO:0060402,1,calcium ion transport into cytosol,BP
+Thromboembolic disease,GO:0060419,1,heart growth,BP
+Thromboembolic disease,GO:0060986,1,endocrine hormone secretion,BP
+Thromboembolic disease,GO:0061049,1,cell growth involved in cardiac muscle cell development,BP
+Thromboembolic disease,GO:0061097,1,regulation of protein tyrosine kinase activity,BP
+Thromboembolic disease,GO:0061614,1,miRNA transcription,BP
+Thromboembolic disease,GO:0071260,1,cellular response to mechanical stimulus,BP
+Thromboembolic disease,GO:0071453,1,cellular response to oxygen levels,BP
+Thromboembolic disease,GO:0071715,1,icosanoid transport,BP
+Thromboembolic disease,GO:0071902,1,positive regulation of protein serine/threonine kinase activity,BP
+Thromboembolic disease,GO:0086013,1,membrane repolarization during cardiac muscle cell action potential,BP
+Thromboembolic disease,GO:0090276,1,regulation of peptide hormone secretion,BP
+Thromboembolic disease,GO:0097164,1,ammonium ion metabolic process,BP
+Thromboembolic disease,GO:0098664,1,G protein-coupled serotonin receptor signaling pathway,BP
+Thromboembolic disease,GO:0098992,1,neuronal dense core vesicle,CC
+Thromboembolic disease,GO:0099565,1,"chemical synaptic transmission, postsynaptic",BP
+Thromboembolic disease,GO:0099589,1,serotonin receptor activity,MF
+Thromboembolic disease,GO:0140115,1,export across plasma membrane,BP
+Thromboembolic disease,GO:0140353,1,lipid export from cell,BP
+Thromboembolic disease,GO:0140448,1,signaling receptor ligand precursor processing,BP
+Thromboembolic disease,GO:0150104,1,transport across blood-brain barrier,BP
+Thromboembolic disease,GO:1900271,1,regulation of long-term synaptic potentiation,BP
+Thromboembolic disease,GO:1900273,1,positive regulation of long-term synaptic potentiation,BP
+Thromboembolic disease,GO:1900274,1,regulation of phospholipase C activity,BP
+Thromboembolic disease,GO:1901160,1,primary amino compound metabolic process,BP
+Thromboembolic disease,GO:1901385,1,regulation of voltage-gated calcium channel activity,BP
+Thromboembolic disease,GO:1902307,1,positive regulation of sodium ion transmembrane transport,BP
+Thromboembolic disease,GO:1902600,1,proton transmembrane transport,BP
+Thromboembolic disease,GO:1902652,1,secondary alcohol metabolic process,BP
+Thromboembolic disease,GO:1902893,1,regulation of miRNA transcription,BP
+Thromboembolic disease,GO:1903169,1,regulation of calcium ion transmembrane transport,BP
+Thromboembolic disease,GO:1903963,1,arachidonate transport,BP
+Thromboembolic disease,GO:1904063,1,negative regulation of cation transmembrane transport,BP
+Thromboembolic disease,GO:1904645,1,response to amyloid-beta,BP
+Thromboembolic disease,GO:1904646,1,cellular response to amyloid-beta,BP
+Thromboembolic disease,GO:1905952,1,regulation of lipid localization,BP
+Thromboembolic disease,GO:2000377,1,regulation of reactive oxygen species metabolic process,BP
+Thromboembolic disease,GO:2000378,1,negative regulation of reactive oxygen species metabolic process,BP
+Thromboembolic disease,GO:2000379,1,positive regulation of reactive oxygen species metabolic process,BP
+Thromboembolic disease,GO:2001257,1,regulation of cation channel activity,BP

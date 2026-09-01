@@ -1,0 +1,63 @@
+Protein,Count,disease,Symbol
+152,2,Arrhythmias,ADRA2C
+147,2,Arrhythmias,ADRA1B
+150,2,Arrhythmias,ADRA2A
+1557,2,Arrhythmias,CYP2C19
+148,1,Arrhythmias,ADRA1A
+1813,1,Arrhythmias,DRD2
+153,1,Arrhythmias,ADRB1
+5443,1,Arrhythmias,POMC
+5972,1,Arrhythmias,REN
+151,1,Arrhythmias,ADRA2B
+152,2,Arterial disease,ADRA2C
+1066,1,Arterial disease,CES1
+2247,1,Arterial disease,FGF2
+135,1,Arterial disease,ADORA2A
+2697,1,Arterial disease,GJA1
+1813,1,Arterial disease,DRD2
+153,1,Arterial disease,ADRB1
+213,1,Arterial disease,ALB
+5972,1,Arterial disease,REN
+1813,1,Cerebrovascular disease,DRD2
+5443,1,Cerebrovascular disease,POMC
+5972,1,Cerebrovascular disease,REN
+6530,4,Heart failure,SLC6A2
+152,2,Heart failure,ADRA2C
+135,1,Heart failure,ADORA2A
+847,1,Heart failure,CAT
+116,1,Heart failure,ADCYAP1
+1813,1,Heart failure,DRD2
+6584,1,Heart failure,SLC22A5
+153,1,Heart failure,ADRB1
+5595,1,Heart failure,MAPK3
+213,1,Heart failure,ALB
+5443,1,Heart failure,POMC
+5972,1,Heart failure,REN
+6530,4,Hypertension,SLC6A2
+2353,2,Hypertension,FOS
+150,2,Hypertension,ADRA2A
+2697,1,Hypertension,GJA1
+6794,1,Hypertension,STK11
+7054,1,Hypertension,TH
+3758,1,Hypertension,KCNJ1
+847,1,Hypertension,CAT
+1813,1,Hypertension,DRD2
+153,1,Hypertension,ADRB1
+213,1,Hypertension,ALB
+5443,1,Hypertension,POMC
+5972,1,Hypertension,REN
+3350,1,Ischemic heart disease,HTR1A
+135,1,Ischemic heart disease,ADORA2A
+2247,1,Ischemic heart disease,FGF2
+2697,1,Ischemic heart disease,GJA1
+1390,1,Ischemic heart disease,CREM
+847,1,Ischemic heart disease,CAT
+6581,1,Ischemic heart disease,SLC22A3
+1813,1,Ischemic heart disease,DRD2
+153,1,Ischemic heart disease,ADRB1
+6580,1,Ischemic heart disease,SLC22A1
+5443,1,Ischemic heart disease,POMC
+5972,1,Ischemic heart disease,REN
+1813,1,Thromboembolic disease,DRD2
+847,1,Thromboembolic disease,CAT
+5972,1,Thromboembolic disease,REN

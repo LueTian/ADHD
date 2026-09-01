@@ -1,0 +1,34 @@
+Drug,ID,Count,category,subcategory,Description
+Amphetamine,hsa04022,7,Environmental Information Processing,Signal transduction,cGMP-PKG signaling pathway
+Amphetamine,hsa04261,7,Organismal Systems,Circulatory system,Adrenergic signaling in cardiomyocytes
+Amphetamine,hsa04270,6,Organismal Systems,Circulatory system,Vascular smooth muscle contraction
+Amphetamine,hsa04726,6,Organismal Systems,Nervous system,Serotonergic synapse
+Amphetamine,hsa04210,5,Cellular Processes,Cell growth and death,Apoptosis
+Amphetamine,hsa04917,5,Organismal Systems,Endocrine system,Prolactin signaling pathway
+Amphetamine,hsa05161,5,Human Diseases,Infectious disease: viral,Hepatitis B
+Amphetamine,hsa04540,4,Cellular Processes,Cellular community - eukaryotes,Gap junction
+Amphetamine,hsa04713,3,Organismal Systems,Environmental adaptation,Circadian entrainment
+Amphetamine,hsa04728,2,Organismal Systems,Nervous system,Dopaminergic synapse
+Amphetamine,hsa05031,2,Human Diseases,Substance dependence,Amphetamine addiction
+Amphetamine,hsa00380,1,Metabolism,Amino acid metabolism,Tryptophan metabolism
+Amphetamine,hsa00982,1,Metabolism,Xenobiotics biodegradation and metabolism,Drug metabolism - cytochrome P450
+Amphetamine,hsa04720,1,Organismal Systems,Nervous system,Long-term potentiation
+Amphetamine,hsa05030,1,Human Diseases,Substance dependence,Cocaine addiction
+Amphetamine,hsa05231,1,Human Diseases,Cancer: overview,Choline metabolism in cancer
+Dexamphetamine,hsa04726,6,Organismal Systems,Nervous system,Serotonergic synapse
+Dexamphetamine,hsa04728,2,Organismal Systems,Nervous system,Dopaminergic synapse
+Dexamphetamine,hsa05031,2,Human Diseases,Substance dependence,Amphetamine addiction
+Dexamphetamine,hsa05030,1,Human Diseases,Substance dependence,Cocaine addiction
+Guanfacine,hsa04022,7,Environmental Information Processing,Signal transduction,cGMP-PKG signaling pathway
+Guanfacine,hsa04976,7,Organismal Systems,Digestive system,Bile secretion
+Guanfacine,hsa05204,2,Human Diseases,Cancer: overview,Chemical carcinogenesis - DNA adducts
+Guanfacine,hsa00982,1,Metabolism,Xenobiotics biodegradation and metabolism,Drug metabolism - cytochrome P450
+Guanfacine,hsa05231,1,Human Diseases,Cancer: overview,Choline metabolism in cancer
+Lisdexamfetamine,hsa01522,7,Human Diseases,Drug resistance: antineoplastic,Endocrine resistance
+Lisdexamfetamine,hsa04974,7,Organismal Systems,Digestive system,Protein digestion and absorption
+Lisdexamfetamine,hsa04726,6,Organismal Systems,Nervous system,Serotonergic synapse
+Lisdexamfetamine,hsa00980,1,Metabolism,Xenobiotics biodegradation and metabolism,Metabolism of xenobiotics by cytochrome P450
+Lisdexamfetamine,hsa00982,1,Metabolism,Xenobiotics biodegradation and metabolism,Drug metabolism - cytochrome P450
+Methylphenidate,hsa04728,2,Organismal Systems,Nervous system,Dopaminergic synapse
+Nonstimulants,hsa04726,6,Organismal Systems,Nervous system,Serotonergic synapse
+Nonstimulants,hsa00982,1,Metabolism,Xenobiotics biodegradation and metabolism,Drug metabolism - cytochrome P450
